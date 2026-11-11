@@ -1,6 +1,0 @@
-130 items, 32 changed, 5 questions.
-Not in glossary: Hestu = بوكورين (kept); Nabooru = نابرو (question 845); Link spelled لينك.
-Champion Daruk = «دلير داروك» everywhere (glossary says قهرمان; question 800).
-Princess variants: پرنسس / شاهدخت / شاهزاده / سرورم (894 changed to پرنسس).
-Fixed misspellings: گنون->گانون, ايزدايزدايزدبانو->ايزدبانو, مِدو->مدوه, Cyrillic х in 886.
-Poems 826-844 mostly kept (spaced hemistichs); garbled 828, 833, 836 rewritten; 'وحوش' -> هيولاهای مقدس.
