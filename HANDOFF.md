@@ -59,3 +59,6 @@ Latest build: `out/BOTW_Persian_Final12.zip` (user had not yet reported on it: c
 
 ## UPDATE Final18
 Third terminology pass + name decisions: مولدوگا, ريجو, بيدل, واساك. Still open: Arabic NPC units (432), bookish NPC dialogue.
+
+## UPDATE (name change)
+Pack renamed: folder `BOTW_Persian`, zip `out/BOTW_Persian.zip` (no build number; version is in rules.txt). Game Over text = «بازی تمام شد». Pack path in Cemu: put `BOTW_Persian` in graphicPacks (delete old `Persian_Final`).

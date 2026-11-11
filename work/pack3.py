@@ -50,11 +50,11 @@ def en_limits(n):
 m2={k:textfix.fix_msbt(v,en_limits(k),wfn) for k,v in mw.items()}
 inner=yaz0_comp(sarc_build(m2,ee,4)); outer=sarc_build({n0:inner},'>',128)
 CREDITS=open('work/credits.txt',encoding='utf-8').read()
-root='out/R4/Persian_Final'; shutil.rmtree('out/R4',ignore_errors=True)
+root='out/R4/BOTW_Persian'; shutil.rmtree('out/R4',ignore_errors=True)
 for p in ['content/Font','content/Pack','content/System/Resource']: os.makedirs(root+'/'+p)
 open(root+'/content/Font/Font_EU.sbfarc','wb').write(fsb)
 open(root+'/content/System/Resource/ResourceSizeTable.product.srsizetable','wb').write(rs)
 open(root+'/content/Pack/Bootup_EUen.pack','wb').write(outer)
 open(root+'/README_Credits.txt','w',encoding='utf-8').write(CREDITS)
-open(root+'/rules.txt','w').write("[Definition]\ntitleIds = 00050000101c9500\nname = Persian Final\npath = \"The Legend of Zelda: Breath of the Wild/Mods/Persian Final\"\ndescription = Persian translation by Majid Hoshyar (radoo.ir/author/majidh1), adapted for Wii U 1.5.0 EUen by ali123qp. Disable BCML.\nversion = 7\n")
+open(root+'/rules.txt','w').write("[Definition]\ntitleIds = 00050000101c9500\nname = Zelda BOTW Persian\npath = \"The Legend of Zelda: Breath of the Wild/Mods/BOTW Persian\"\ndescription = Persian translation by Majid Hoshyar (radoo.ir/author/majidh1), adapted for Wii U 1.5.0 EUen by ali123qp. Disable BCML.\nversion = 8\n")
 print('built',len(fsb),len(outer))
