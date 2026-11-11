@@ -1,0 +1,47 @@
+==============================================================
+  The Legend of Zelda: Breath of the Wild  -  Persian (Farsi)
+  افسانه‌ی زلدا: نفس وحش  -  ترجمه‌ی فارسی
+  Wii U 1.5.0 (EU) / Cemu 1.26.2f
+==============================================================
+
+ترجمه‌ی فارسی (نسخه‌ی اصلی Switch)
+Original Persian translation (Switch)
+    مجید هوشیار  |  Majid Hoshyar
+    https://www.radoo.ir/author/majidh1/
+
+تطبیق برای Wii U و گرافیک‌پک
+Wii U adaptation and graphic pack
+    ali123qp
+    تلگرام / Telegram: @ali123qp
+    https://t.me/ali123qp
+
+--------------------------------------------------------------
+درباره‌ی این گرافیک‌پک / About
+--------------------------------------------------------------
+این گرافیک‌پک فقط ترجمه‌ی آقای هوشیار را برای نسخه‌ی Wii U
+سازگار می‌کند (ترتیب متن، فونت، کدهای کنترلی). همه‌ی اعتبار
+ترجمه متعلق به سازنده‌ی اصلی است.
+
+This pack only adapts that translation for the Wii U version
+(text order, fonts, control codes). All translation credit
+belongs to the original author.
+
+برخی متن‌ها (ماموریت‌ها، نکته‌ها، دیالوگ‌ها و زیرنویس‌ها) برای
+روان‌تر و ساده‌تر شدن و رفع جمله‌های غلط یا ناقص ویرایش شده‌اند.
+Some texts were edited for plainer wording and to fix wrong or
+truncated sentences.
+
+--------------------------------------------------------------
+نصب / Install
+--------------------------------------------------------------
+1. پوشه‌ی BOTW_Persian را داخل graphicPacks قرار بده.
+   Put the BOTW_Persian folder in Cemu's graphicPacks folder.
+2. در Cemu: Options > Graphic packs، گزینه‌ی Zelda BOTW Persian
+   را فعال کن.
+   In Cemu enable "Zelda BOTW Persian".
+3. BCML باید خاموش باشد. / BCML must be OFF.
+
+--------------------------------------------------------------
+The Legend of Zelda is a trademark of Nintendo. This is an
+unofficial fan project, not affiliated with Nintendo.
+این یک پروژه‌ی طرفداری و غیررسمی است و ربطی به نینتندو ندارد.

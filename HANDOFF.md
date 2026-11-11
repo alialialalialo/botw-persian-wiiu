@@ -68,3 +68,6 @@ Versioning is now semantic: zip `BOTW_Persian_v1.0.0.zip`, pack name "Zelda BOTW
 
 ## UPDATE v1.0.1
 Game Over text = «شكست خورديد». Zip: BOTW_Persian_v1.0.1.zip.
+
+## UPDATE v1.0.2
+Credits file rewritten (adds Telegram ali123qp, install steps). rules.txt description updated.
