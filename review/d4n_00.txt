@@ -1,0 +1,4 @@
+changed 60, questions 8 of 130
+Terms not in glossary: Gerudo chief (ماجده), rune (طلسم), Slumber of Restoration (خواب بلند), Deku Tree (درخت دِكو), Travel Gate, Death Mountain (كوهستان مرگ), Great Calamity (فاجعه‌ی بزرگ), Emblem (نماد).
+Fixed: ايزدايزدايزدبانو, واله->واه, مِدوه->مدوه, شمشير استادی->شمشير استاد, معبد‌ی, مقبره->معبد.
+Item 20 (Urbosa song) rewritten from garbled text, please review.

@@ -1,0 +1,152 @@
+import sys,struct,cv2,numpy as np
+sys.path.insert(0,"/tmp/claude-0/-home-claude/e3988272-a021-590f-b21b-178f594b23ac/scratchpad/tools")
+import bffnt, swfont, che_synth
+from bffnt import A
+from tex import bc4_decode,bc4_encode
+
+def sharpen_dots(ink,im,rx,r,cellh):
+    """redraw small dot-like components of the source glyph as crisp >=2px dots with >=1px gaps"""
+    if r>=1: return im
+    m=(ink>128).astype(np.uint8); n,lab,stats,cent=cv2.connectedComponentsWithStats(m,connectivity=8)
+    H,W=im.shape; rects=[]
+    big=1+int(np.argmax(stats[1:,4])) if n>1 else 0
+    for k in range(1,n):
+        x,y,w,h,a=stats[k]
+        if k==big or h>=cellh*0.3 or w>=cellh*0.5 or a<=0.5*w*h or n<=2: continue
+        if w/h>1.7:   # two dots fused: split
+            hw=w/2.0; rects.append((x,y,hw,h,(x+hw/2,y+h/2))); rects.append((x+hw,y,hw,h,(x+hw*1.5,y+h/2)))
+        elif 0.5<w/h<=1.7: rects.append((x,y,w,h,(cent[k][0],cent[k][1])))
+    if not rects: return im
+    out=im.copy(); boxes=[]
+    for x,y,w,h,(cx,cy) in rects:
+        X0=int(np.floor(x*rx))-1; X1=int(np.ceil((x+w)*rx))+1; Y0=int(np.floor(y*r))-1; Y1=int(np.ceil((y+h)*r))+1
+        out[max(0,Y0):max(0,Y1),max(0,X0):max(0,X1)]=0
+    for x,y,w,h,(cx,cy) in rects:
+        tw=max(2,int(round(w*rx))); th=max(2,int(round(h*r)))
+        bx=int(round(cx*rx-tw/2)); by=int(round(cy*r-th/2))
+        for _ in range(4):
+            bad=[b for b in boxes if not (bx+tw+1<=b[0] or b[0]+b[2]+1<=bx or by+th+1<=b[1] or b[1]+b[3]+1<=by)]
+            if not bad: break
+            b=bad[0]; dx=(bx+tw/2)-(b[0]+b[2]/2); dy=(by+th/2)-(b[1]+b[3]/2)
+            if abs(dx)>=abs(dy): bx+=1 if dx>=0 else -1
+            else: by+=1 if dy>=0 else -1
+        bx=min(max(bx,0),max(0,W-tw)); by=min(max(by,0),max(0,H-th))
+        out[by:by+th,bx:bx+tw]=255; boxes.append((bx,by,tw,th))
+    return out
+def _pad4(b): return b+b'\0'*((-len(b))%4)
+def patch_sheet(raw,new_vis,fmt,k):
+    H,W=new_vis.shape; new=np.ascontiguousarray(new_vis[::-1])
+    if fmt==0xc:
+        so=A.getSurfaceInfo(0x34,W,H,1,1,4,0,0)
+        if raw is None: lin=None
+        else: lin=A.deswizzle(W,H,1,0x34,0,1,4,bffnt.swz(k),so.pitch,64,0,0,raw)
+        enc=np.frombuffer(bc4_encode(new),dtype=np.uint8).reshape(H//4,W//4,8)
+        if lin is None: out=enc.tobytes()
+        else:
+            old=bc4_decode(lin,W,H); mask=(old!=new).reshape(H//4,4,W//4,4).any(axis=(1,3))
+            arr=np.frombuffer(lin[:(H//4)*(W//4)*8],dtype=np.uint8).reshape(H//4,W//4,8).copy(); arr[mask]=enc[mask]
+            out=arr.tobytes()+lin[(H//4)*(W//4)*8:]
+        return A.swizzle(W,H,1,0x34,0,1,4,bffnt.swz(k),so.pitch,64,0,0,out),(0 if lin is None else int(mask.sum()))
+    else:
+        return bffnt.encode_sheet(new_vis,fmt,k,len(raw) if raw else bffnt_size(W,H)),0
+def build(wd,sd,used,r,name,verbose=True):
+    F=bffnt.parse(wd); t=F['tglp']; S=swfont.parse(sd); st=S['tglp']
+    wc=bffnt.codes(F); wg=bffnt.glyphs(F); sc=swfont.codes(S); sg=swfont.glyphs(S); ssh=swfont.sheets(sd,S)
+    N=max(wg)+1; assert sorted(wg)==list(range(N))
+    SYN=che_synth.synth(S,ssh,sg,sc)
+    def ginfo(g):
+        if isinstance(g,tuple): l,gw,adv,im,_m=SYN[g[1]]; return (l,gw,adv),im
+        l,gw,adv=sg[g]; s_,sx_,sy_=swfont.cell_of(S,g); return (l,gw,adv),ssh[s_][sy_+1:sy_+1+st['cellh'],sx_+1:sx_+1+max(gw,1)]
+    cw,ch=t['cellw'],t['cellh']; per=t['cols']*t['rows']
+    newmap={}   # code -> glyph index
+    # digits
+    for k in range(10):
+        if 0x6f0+k in used and 0x6f0+k not in wc: newmap[0x6f0+k]=wc[0x30+k]
+    todo=sorted(c for c in used if c>=0x20 and c not in wc and c not in newmap and (c in sc or c in SYN) and not (0x200b<=c<=0x200f) and not (0x64b<=c<=0x65f) and c not in(0x670,))
+    swg={}; ng=[]   # sw glyph -> new index
+    for c in todo:
+        g=('syn',c) if c in SYN else sc[c]
+        if g not in swg: swg[g]=N+len(ng); ng.append(g)
+        newmap[c]=swg[g]
+    zi=N+len(ng); ng.append(None)           # zero-width glyph
+    for c in used:
+        if c>=0x20 and c not in wc and c not in newmap: newmap[c]=zi
+    M=N+len(ng); nsheets=-(-M//per)
+    # extents-based vertical placement
+    maxbot=0
+    for g in ng:
+        if g is None: continue
+        cell=ginfo(g)[1]
+        ys=np.where(cell.max(axis=1)>20)[0]
+        if len(ys): maxbot=max(maxbot,ys[-1]+1)
+    oy=int(np.floor(min(t['baseline']-st['baseline']*r, ch-maxbot*r)))
+    sheets=[x.copy() for x in bffnt.decode_sheets(wd,F)]
+    for _ in range(len(sheets),nsheets): sheets.append(np.zeros((t['sh'],t['sw']),dtype=np.uint8))
+    newgl=[]; maxcw=t['maxcw']
+    for i,g in enumerate(ng):
+        gi=N+i; s,x0,y0=bffnt.cell_of(F,gi)
+        if g is None: newgl.append((0,1,0)); continue
+        (l,gw,adv),full0=ginfo(g); advn=max(0,int(round(adv*r))) if adv>0 else 0
+        rx=(advn/adv) if adv>0 else r
+        full=full0
+        cols=np.where(full.max(axis=0)>20)[0]
+        if gw<=0 or len(cols)==0: newgl.append((0,1,advn)); continue
+        c0,c1=int(cols[0]),int(cols[-1])
+        pl=l+c0; pr=l+c1+1
+        tl=0 if (0<=pl<=3 and advn>0) else int(round(pl*rx))
+        tr=advn if (advn>0 and 0<=adv-pr<=3) else int(round(pr*rx))
+        if tr<=tl: tr=tl+1
+        gwn=min(tr-tl,cw); maxcw=max(maxcw,gwn)
+        newgl.append((tl,gwn,advn))
+        ink=full[:,c0:c1+1]; hh=int(round(st['cellh']*r)); im=cv2.resize(ink,(gwn,hh),interpolation=cv2.INTER_AREA); im=sharpen_dots(ink,im,gwn/ink.shape[1],hh/ink.shape[0],st['cellh'])
+        if isinstance(g,tuple):
+            cx,cy,dw,dh=SYN[g[1]][4]; im=im.copy(); d=max(1,int(round(0.06*hh))); che_synth.draw_dots(im,(cx-c0)*gwn/ink.shape[1],cy*hh/st['cellh'],d)
+        y1=min(ch,oy+hh); ys0=max(0,oy)
+        dst=sheets[s][y0+1+ys0:y0+1+y1, x0+1:x0+1+gwn]; src=im[ys0-oy:y1-oy,:dst.shape[1]]
+        dst[:src.shape[0],:src.shape[1]]=np.maximum(dst[:src.shape[0],:src.shape[1]],src)
+    # sheets bytes
+    raws=[wd[t['doff']+k*t['sheetsize']:t['doff']+(k+1)*t['sheetsize']] for k in range(t['sheets'])]
+    out_sheets=[]; changed=0
+    for k in range(nsheets):
+        raw=raws[k] if k<len(raws) else None
+        if t['fmt']==8:
+            H,W=sheets[k].shape; so=A.getSurfaceInfo(0x1,W,H,1,1,4,0,0); pad=np.zeros((H,so.pitch),dtype=np.uint8); pad[:,:W]=sheets[k][::-1]
+            b=A.swizzle(W,H,1,0x1,0,1,4,bffnt.swz(k),so.pitch,8,0,0,pad.tobytes())
+        else: b,c=patch_sheet(raw,sheets[k],t['fmt'],k)
+        assert len(b)==t['sheetsize'],(len(b),t['sheetsize'])
+        out_sheets.append(b)
+    # assemble
+    p={m:(q,sz) for m,q,sz in F['secs'] if m in(b'FINF',b'TGLP',b'CWDH',b'KRNG')}
+    tg=bytearray(wd[0x34:t['doff']]); tg[10]=nsheets
+    struct.pack_into('B',tg,11,maxcw)
+    tglp_body=bytes(tg)+b''.join(out_sheets); tgsz=len(tglp_body)+0x34-0x34
+    tglp=bytearray(tglp_body); struct.pack_into('>I',tglp,4,len(tglp))
+    cwq,cwsz=p[b'CWDH']; cwdh_ents=bytearray(wd[cwq+16:cwq+16+3*N])
+    for (l,g,a) in newgl: cwdh_ents+=struct.pack('>bBB',l,g,a)
+    cwdh=bytearray(_pad4(b'CWDH'+struct.pack('>IHHI',0,0,M-1,0)+bytes(cwdh_ents)))
+    cmaps=[(q,sz) for m,q,sz in F['secs'] if m==b'CMAP']
+    cm_bytes=[]
+    for q,sz in cmaps:
+        raw=bytearray(wd[q:q+sz]); cb,ce,ty,_,nx=struct.unpack('>HHHHI',raw[8:20])
+        if ty==2 and nx==0:
+            n=struct.unpack('>H',raw[20:22])[0]; pairs={struct.unpack('>HH',raw[22+4*i:26+4*i])[0]:struct.unpack('>HH',raw[22+4*i:26+4*i])[1] for i in range(n)}
+            for c,g in newmap.items():
+                if c<=0xffff: pairs[c]=g
+            body=b''.join(struct.pack('>HH',c,pairs[c]) for c in sorted(pairs))
+            raw=bytearray(_pad4(bytes(raw[:20])+struct.pack('>H',len(pairs))+body))
+        cm_bytes.append(raw)
+    kq,ksz=p[b'KRNG']; krng=wd[kq:kq+ksz]
+    # sizes & pointers
+    pos=0x34; tglp_pos=pos; pos+=len(tglp); cwdh_pos=pos; pos+=len(cwdh)
+    cm_pos=[]; 
+    for c in cm_bytes: cm_pos.append(pos); pos+=len(c)
+    krng_pos=pos; pos+=len(krng)
+    struct.pack_into('>I',cwdh,4,len(cwdh)); struct.pack_into('>I',cwdh,12,cm_pos[0]+8)
+    for i,c in enumerate(cm_bytes):
+        struct.pack_into('>I',c,4,len(c)); struct.pack_into('>I',c,16,(cm_pos[i+1]+8) if i+1<len(cm_bytes) else 0)
+    fin=bytearray(wd[0x14:0x34]); struct.pack_into('>I',fin,24,cwdh_pos+8); struct.pack_into('>I',fin,28,cm_pos[0]+8)
+    hdr=bytearray(wd[:0x14]); struct.pack_into('>I',hdr,12,pos)
+    out=bytes(hdr)+bytes(fin)+bytes(tglp)+bytes(cwdh)+b''.join(bytes(c) for c in cm_bytes)+krng
+    assert len(out)==pos
+    info=dict(N=N,M=M,newmap=newmap,oy=oy,nsheets=nsheets,newgl=newgl,r=r)
+    return out,info

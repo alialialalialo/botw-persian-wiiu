@@ -1,0 +1,5 @@
+chunk 05: 130 items, 38 changed, 2 questions.
+Many items 650-665, 686, 743-ish have en misaligned with fa (en is from other lines); I judged by fa and left them.
+Terms not in glossary: «درخت دكو» (Deku Tree), «ايستگاه» (terminal), «واحد كنترل اصلی» (main control unit), «شاهدخت خاموش» (silent princess), «چشمه خرد» (Spring of Wisdom), «صَغرون» (Sunshroom?), «سلاح مقدس» (divine weapon), «آزمون شمشير».
+Variants fixed: اوربوزا->اوربوسا, نِيدرا->نايدرا, گنون->گانون, نشان‌های شجاعت->گوی‌های روح, سنگ هدايت->سنگ راهنما, الهه->ايزدبانو.
+Name variant: ميزو كيوشيا / ايمام ناسك (Maz Koshia) -> see question.

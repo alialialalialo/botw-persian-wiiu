@@ -1,0 +1,782 @@
+[
+{
+"id": 780,
+"fa": "⟦0⟧حسگر شيكا الان فعال است.",
+"en": "Sheikah Sensor now operational.",
+"src": "Demo004_0"
+},
+{
+"id": 781,
+"fa": "⟦0⟧نقشه كامل هايرول استخراج شد.",
+"en": "Complete map of Hyrule extracted.",
+"src": "Demo004_0"
+},
+{
+"id": 782,
+"fa": "⟦0⟧نقشه محلی استخراج شد.",
+"en": "Regional map extracted.",
+"src": "Demo004_0"
+},
+{
+"id": 783,
+"fa": "⟦0⟧نشانگر حسگر شيكا كنار نقشه كوچك قرار گرفت.\nبرای پيدا كردن معبد، به سمتی برو كه\nسيگنال قوی‌تری می‌دهد.",
+"en": "The sensor indicator has been placed\nnear the minimap.\n\nSearch for shrines by moving in the\ndirection with the strongest signal.",
+"src": "Demo004_0"
+},
+{
+"id": 784,
+"fa": "...آه...",
+"en": "...Ah...",
+"src": "Demo660_0"
+},
+{
+"id": 785,
+"fa": "پوووف...\nپوووف...",
+"en": "*pant*...\n*pant*...",
+"src": "Demo660_0"
+},
+{
+"id": 786,
+"fa": "كافی نيست.⟦0⟧نه، كافی نيست.\nبايد تو قلب طوفان بمونم...\nبايد بيشتر به خودم فشار بيارم...",
+"en": "Not enough.I must stay in the eye of the whirlwind...\nmust push myself harder...",
+"src": "Demo660_0"
+},
+{
+"id": 787,
+"fa": "...ها؟",
+"en": "...Huh?",
+"src": "Demo660_0"
+},
+{
+"id": 788,
+"fa": "ببخشيد، علياحضرت، ولی می‌دونين كه...\nسرك كشيدن تو خلوت بقيه بی‌ادبيه.",
+"en": "You know, your highness...\nit's rude to eavesdrop.",
+"src": "Demo660_0"
+},
+{
+"id": 789,
+"fa": "معذرت می‌خوام.\nرفتم روستا و بهم گفتن اينجا پيداتون می‌كنم.",
+"en": "My apologies. I went to the village, and\nI was told I could find you here.",
+"src": "Demo660_0"
+},
+{
+"id": 790,
+"fa": "پس كمك من رو می‌خواين.\nبرای شكست دادن بلای گانون به من نياز دارين.",
+"en": "You have need of me. To defeat Calamity Ganon.",
+"src": "Demo660_0"
+},
+{
+"id": 791,
+"fa": "نابود كردن اون هيولا برای هميشه،\n باعث افتخار و خوشحاليمه...",
+"en": "To slay the beast once and for all...\nIt will be my great pleasure.",
+"src": "Demo660_0"
+},
+{
+"id": 792,
+"fa": "ممنونم، ريوال.\nاگه همه با هم باشيم، مطمئنم كه می‌تونيم...",
+"en": "Thank you, Revali. If we work together,\nI'm certain we'll be able to defeat—",
+"src": "Demo660_0"
+},
+{
+"id": 793,
+"fa": "اما!",
+"en": "However!",
+"src": "Demo660_0"
+},
+{
+"id": 794,
+"fa": "اوه!",
+"en": "Oh!",
+"src": "Demo660_0"
+},
+{
+"id": 795,
+"fa": "هاه!",
+"en": "Huh!",
+"src": "Demo660_0"
+},
+{
+"id": 796,
+"fa": "می‌دونم نقش من مهم‌ترين و خطرناك‌ترين نقش در كمك به اون... اهم...",
+"en": "I know I play the biggest part in helping that, ahem...",
+"src": "Demo660_0"
+},
+{
+"id": 797,
+"fa": "شواليه جوونيه كه شمشيرش شر رو از بين می‌بره.\nدرسته؟",
+"en": "that little knight with the darkness-sealing sword.\nCorrect?",
+"src": "Demo660_0"
+},
+{
+"id": 798,
+"fa": "پس همين حالا بگم،\nاگه بعد از ديدن قهرمانی‌های من اعتمادبه‌نفسش رو از دست بده...",
+"en": "Well, if he loses his confidence after\nseeing me in action...",
+"src": "Demo660_0"
+},
+{
+"id": 799,
+"fa": "ديگه گريه و زاری پيش من فايده‌ای نداره.",
+"en": "don't come crying to me.",
+"src": "Demo660_0"
+},
+{
+"id": 800,
+"fa": "⟦0⟧آه! گشتن اينجا واقعاً بهم انرژی داد\nو شنيدن داستان‌های ⟦1⟧دلير داروك⟦2⟧.\n⟦3⟧به من الهام داد ياد او را به شيوه خودم گرامی بدارم،\nجدا از ⟦4⟧قصيده ناتمام استادم⟦5⟧.\n⟦6⟧برای همين اومدم اينجا آواز بخونم،\nزير سايه ⟦7⟧هيولای مقدس واه رودانيا⟦8⟧\nكه ⟦9⟧داروك⟦10⟧ خودش رامش كرده بود.",
+"en": "Ah! Wandering around here and listening\nto anecdotes about Champion Daruk\nhas truly invigorated me.\nIn fact, it has inspired me to honor\nhim in my own way, separate from\nmy teacher's unfinished song.\nThat is why I felt inclined to roost here,\nnear the Divine Beast Vah Rudania,\nwhich Daruk himself mastered.",
+"src": "Demo612_0"
+},
+{
+"id": 801,
+"fa": "⟦0⟧⟦1⟧⟦2⟧يه آهنگ نوشتم... تا سعی كنم\nروح ⟦3⟧دلير داروك⟦4⟧ رو توش بگنجونم...",
+"en": "I've written a song...to try and capture\nthe essence of Champion Daruk...",
+"src": "Demo612_0"
+},
+{
+"id": 802,
+"fa": "⟦0⟧⟦1⟧♪و از برايشان از دلاور اين ده بگو ⟦2⟧~⟦3⟧\t⟦4⟧كه جان فدا كرد تا اين ديار رهايی يابد ⟦5⟧♪⟦6⟧~⟦7⟧\n\n⟦8⟧⟦9⟧♪پس بايد مردم داستان بلندمرتبه ⟦10⟧\t⟦11⟧⟦12⟧داروك⟦13⟧، آن‌كه بر بزرگان [دشمن] چيره شد، بشنوند⟦14⟧\n⟦15⟧\tحتی شاهزاده‌ای نزد او آمد و طلب ⟦16⟧كمكش را برای نجات اين شهر كرد ♪⟦17⟧",
+"en": "♪Recall Rudania's Champion of flame,\nbefore his fated moment finally came.♪\n\n♪This is the tale of Great Daruk's task,\nand the princess who came to ask.♪",
+"src": "Demo612_0"
+},
+{
+"id": 803,
+"fa": "⟦0⟧⟦1⟧هوممم... انگار قهرمان‌ها هم\nاز ترس در امان نيستند.",
+"en": "Hmm... I suppose even Champions are\nnot immune to fear.",
+"src": "Demo612_0"
+},
+{
+"id": 804,
+"fa": "⟦0⟧خب، بگو ببينم، نظرت چيست\n⟦1⟧درباره قصيده دلير داروك⟦2⟧؟\nبا نوشتن قصيده‌ای كه لطافت دلير داروك را می‌ستايد،\nحس می‌كنم بيشتر از هميشه به استادم نزديك شده‌ام.",
+"en": "So? What do you think of\nChampion Daruk's Song?\n\nBy writing a song that celebrates the\nsofter side of Champion Daruk, I feel\ncloser than ever to my dear teacher.",
+"src": "Demo612_0"
+},
+{
+"id": 805,
+"fa": "عالی بود، لينك!",
+"en": "Well done, Link!",
+"src": "Demo117_0"
+},
+{
+"id": 806,
+"fa": "اون آشغال به زباله‌دان تاريخ پيوست!",
+"en": "That thing is history!",
+"src": "Demo117_0"
+},
+{
+"id": 807,
+"fa": "خبر بد اينه، لينك...⟦0⟧انگار ضربه محكمی خوردم...",
+"en": "Bad news, Link.It looks like I got hit pretty good back there...",
+"src": "Demo117_0"
+},
+{
+"id": 808,
+"fa": "شايد...⟦0⟧شايد مجبور باشم به سكوی پرواز برگردم.",
+"en": "I think...I think I need to get back to the Flight Range.",
+"src": "Demo117_0"
+},
+{
+"id": 809,
+"fa": "اميدوارم...⟦0⟧بتونم برگردم...",
+"en": "I just hope that...I can make it back...",
+"src": "Demo117_0"
+},
+{
+"id": 810,
+"fa": "تو هم روی مِدو فرود بيا.",
+"en": "You head down to Medoh.",
+"src": "Demo117_0"
+},
+{
+"id": 811,
+"fa": "موفق باشی!",
+"en": "Good luck!",
+"src": "Demo117_0"
+},
+{
+"id": 812,
+"fa": "ديگه دست توئه!",
+"en": "It's all you!",
+"src": "Demo117_0"
+},
+{
+"id": 813,
+"fa": "⟦0⟧⟦1⟧...⟦2⟧⟦3⟧\n\n\n⟦4⟧لينك...⟦5⟧⟦6⟧\n\n\n⟦7⟧⟦8⟧لينك...\n\n\n⟦9⟧مراقبت بودم و پيشرفتت را ديدم.\nهر مانعی را كه سر راهت بود پشت سر گذاشتی.\nهمه هيولاهای مقدس را،\n⟦10⟧روتا و رودانيا\n\n⟦11⟧و مدوه و نابوريس،\n\n⟦12⟧از شرارت آزاد كردی.\n\n\n⟦13⟧ايمان دارم با قدرتی كه به دست آورده‌ای، می‌توانی\nنيروی مهروموم‌شده را آزاد كنی.\n⟦14⟧به معبد رستاخيز برو،\nو لوح شيكا را به همان جايی برگردان كه برداشتی.",
+"en": "...\n\n\nLink...\n\n\nLink...\n\n\nI have witnessed your journey.\nYou have overcome every challenge\nlaid before you.\nRuta.\nRudania.\n\nMedoh.\nNaboris.\n\nAll of the Divine Beasts are now free.\n\n\nWith the strength you have attained,\nI am certain you can unlock the\npowerful force hidden within.\nReturn the Sheikah Slate to the terminal\nin the Shrine of Resurrection.",
+"src": "Demo600_1"
+},
+{
+"id": 814,
+"fa": "⟦0⟧⟦1⟧ياهاها! پيدام كردی!\n\n\n⟦2⟧صبر كن؟ ⟦3⟧ تو كه بوكورين نيستی!\n\n\n⟦4⟧ولی تو می‌تونی...⟦5⟧من رو ببينی؟⟦6⟧\nنمی‌دونستم هم‌نوعان تو\nمی‌تونن بچه‌های جنگل رو ببينن!\n⟦7⟧خب گوش كن،⟦8⟧ اگه به بوكورين برخوردی،\nلطفاً اين رو بهش برگردون.",
+"en": "Ya-ha-ha! You found me!\n\n\nHuh? You're not Hestu!\n\n\nBut you can...see me?\nI didn't know your kind could see the\nchildren of the forest!\nWell, if you run into Hestu, please\nreturn this to him.",
+"src": "Demo017_0"
+},
+{
+"id": 815,
+"fa": "⟦0⟧آه، درسته، من و دوستام عاشق قايم شدن\nتوی جاهای مختلف و عجيب و غريبيم! خجالت نكش و هر جای مشكوكی\nكه توجهت رو جلب كرد، حتماً بگرد!",
+"en": "Oh, and my friends are hiding in lots of\ndifferent places too! Don't be shy about\npoking your nose into suspicious places!",
+"src": "Demo017_0"
+},
+{
+"id": 816,
+"fa": "⟦0⟧⟦1⟧ياهاها! پيدام كردی!",
+"en": "Yahaha! You found me!",
+"src": "Demo017_0"
+},
+{
+"id": 817,
+"fa": "⟦0⟧سـ... سـ... سلام!",
+"en": "Buh-bye!",
+"src": "Demo017_0"
+},
+{
+"id": 818,
+"fa": "تمام كوروك‌های پنهان‌شده را پيدا كردی!\nپيش بوكورين برو تا اين مژده را به او بدهی!",
+"en": "You've found all of the hidden Koroks!\nYou should tell Hestu the good news!",
+"src": "Demo017_0"
+},
+{
+"id": 819,
+"fa": "تمام كوروك‌های پنهان‌شده را پيدا كردی!",
+"en": "You found all the hidden Koroks!",
+"src": "Demo017_0"
+},
+{
+"id": 820,
+"fa": "⟦0⟧آه، بالاخره برگشتی.\nاز آخرين باری كه ديدمت قوی‌تر شده‌ای...",
+"en": "Ah. You have finally returned. You look\nstronger than when last I saw you...",
+"src": "Demo205_1"
+},
+{
+"id": 821,
+"fa": "شمشير استادی كه در دست داری از قبل قوی‌تر شده.",
+"en": "The Master Sword you wield is now\nmore powerful than before.",
+"src": "Demo205_1"
+},
+{
+"id": 822,
+"fa": "⟦0⟧اگر قدرت بيشتری می‌خواهی\nو می‌خواهی دوباره آزمون شمشير را بدهی...",
+"en": "If you desire still more power and\nwish to retry the blade's test...",
+"src": "Demo205_1"
+},
+{
+"id": 823,
+"fa": "پس شمشير استادی را يك بار ديگر در پايه بگذار.",
+"en": "once again place the Master Sword\nin its pedestal.",
+"src": "Demo205_1"
+},
+{
+"id": 824,
+"fa": " حالا مراقب باش! اين بلای كثيف كار گانون است! ⟦0⟧صد سال پيش من را شكست داد.",
+"en": "Watch yourself now! That ugly pain in the crag\nis Ganon's handiwork. Thing got the best of me a hundred years ago.",
+"src": "Demo160_0"
+},
+{
+"id": 825,
+"fa": "موفق باشی، كوچولو! نابودش كن!",
+"en": "Good luck, little guy! Go get 'im!",
+"src": "Demo160_0"
+},
+{
+"id": 826,
+"fa": "تاريخ هايرول، كهن و درخشان است،          نبردی با موجودی سهمگين در آن جريان داشت.",
+"en": "The kingdom of Hyrule is a vast and storied land,\nOft grasped in the palm of a villainous hand.",
+"src": "Demo105_1"
+},
+{
+"id": 827,
+"fa": "نيرويی ويرانگر، بارها شكست خورد؛         دوباره برخاست، گانون، آن بلای هولناك.\nبارها و بارها،         و او بازمی‌گردد و قدرتش را می‌افزايد.",
+"en": "A dark force of destruction, many times undone,\nRises once again—Ganon, the calamitous one.",
+"src": "Demo105_1"
+},
+{
+"id": 828,
+"fa": "ولی در هايرول، كسی بود كه مقدر شد تا ملت را محافظت كند.\nمبارزی كه روح قهرمان را با خود دارد، شاهزاده‌ای از هايرول نيز او را همراهی می‌كند.",
+"en": "But hope survives in Hyrule, for all is not lost,\nTwo brave souls protect it, no matter the cost.",
+"src": "Demo105_1"
+},
+{
+"id": 829,
+"fa": "شاهدختی با خون الهه و شواليه‌ای بی‌باك،   هر دوره برای نبرد برمی‌خيزند.",
+"en": "A Goddess-blood princess and a fearless knight,\nThey appear in each age to fight the good fight.",
+"src": "Demo105_1"
+},
+{
+"id": 830,
+"fa": "و نبردشان جاودانه شد و به تصوير كشيده شد،          برای آيندگان، و در قالب شعر سروده شد.",
+"en": "Their battle with Ganon I've committed to song,\nTo keep it through time, no matter how long.",
+"src": "Demo105_1"
+},
+{
+"id": 831,
+"fa": "حالا بند دوم شروع می‌شود، گوش كنيد؛    \nاز نبرد آنها با گانون، ده هزار سال پيش.",
+"en": "Now begins the second verse, listen and you'll know,\nOf their battle with Ganon 10,000 years ago.",
+"src": "Demo105_1"
+},
+{
+"id": 832,
+"fa": "پس هايرول كهن، پادشاهی استوار در علم و هنر بود.",
+"en": "The kingdom of Hyrule was once a land of lasting\npeace / A culture of such strength and wit, that\nsuffering did cease.",
+"src": "Demo105_1"
+},
+{
+"id": 833,
+"fa": "و دشمنانش از هيولاهای كهن، فرار كردند و ديگر اراده‌ای نداشتند.\nو مردم تصميم گرفتند تا از هنرهايشان استفاده كنند، برای ياری دادن به كسانی كه پيشگام بودند.",
+"en": "But Ganon lurked beneath the surface, strengthening\nits jaws / So the ancient people of Hyrule set out to\nhelp the cause.",
+"src": "Demo105_1"
+},
+{
+"id": 834,
+"fa": "تلاششان به نيرويی خودكار ثمر داد؛          تا از وقوع بلا\nجلوگيری كند و آن را در سرچشمه مهر و موم كند.",
+"en": "Their efforts bore fruit in an automated force,\nTo help avert Calamity by sealing it at its source.",
+"src": "Demo105_1"
+},
+{
+"id": 835,
+"fa": "چهار موجود غول‌پيكر كه قدرتشان پايان نداشت؛\n         هر يك از آنها «هيولای مقدس» نام گرفت.",
+"en": "Four giant behemoths for which power never ceased,\nEach of these titans was called a \"Divine Beast.\"",
+"src": "Demo105_1"
+},
+{
+"id": 836,
+"fa": "و آنها را با سربازانی مكانيكی تجهيز كردند،          كه جمع‌آوری شده بودند، و آنها را نگهبانان ناميدند.",
+"en": "And free-willed machines that hunted down their\nprey / These Guardians were built to last\nso they could join the fray.",
+"src": "Demo105_1"
+},
+{
+"id": 837,
+"fa": "برای هدايت آنها در نبرد، جنگجويانی لازم بود؛\nپس چهار قهرمان عهد بستند كه گانون را شكست دهند.",
+"en": "To guide the beasts in battle, warriors were needed,\nSo four Champions pledged to see Ganon defeated.",
+"src": "Demo105_1"
+},
+{
+"id": 838,
+"fa": "وحوش، نگهبانان، شاهدخت و شواليه؛          نقشه‌شان برای شكست گانون بی‌نقص بود.",
+"en": "Divine Beasts, Guardians, princess, and knight,\nTheir plan to rout Ganon was looking airtight.",
+"src": "Demo105_1"
+},
+{
+"id": 839,
+"fa": "وقتی بلای گانون سر برآورد، هايرول عليهش برخاست؛\n         و اميد مردم هايرول خشمش را بيشتر كرد.",
+"en": "And when Calamity Ganon reared its head, Hyrule\nrose against it / The optimism of Hyrule all the more\nincensed it.",
+"src": "Demo105_1"
+},
+{
+"id": 840,
+"fa": "گانون خشمگين می‌غريد؛        دندان می‌ساييد، اما ديگر دير بود.",
+"en": "Ganon raged in its assault, boiling with hate,\nIt gnashed its teeth and thrashed about, but\nit was all too late.",
+"src": "Demo105_1"
+},
+{
+"id": 841,
+"fa": "نگهبانان در تمام ساعات از قهرمان‌ها محافظت می‌كردند...",
+"en": "The Guardians kept the heroes safe through every\nhour...",
+"src": "Demo105_1"
+},
+{
+"id": 842,
+"fa": "وحوش با حمله‌هايشان،          قدرت گانون را كم كردند.",
+"en": "The Divine Beasts unleashed attacks that\nweakened Ganon's power.",
+"src": "Demo105_1"
+},
+{
+"id": 843,
+"fa": "قهرمان با شمشير مهركننده ضربه آخر را زد؛\nو نيروی مقدس شاهزاده، گانون را اين‌گونه مهر كرد.",
+"en": "The hero with the sealing sword struck the final blow,\nAnd the holy power of the princess sealed Ganon so.",
+"src": "Demo105_1"
+},
+{
+"id": 844,
+"fa": "و اين بود داستان آن حمله‌ی جسورانه؛\nبر بلای گانون، ده هزار سال پيش.",
+"en": "And that is the story of the brazen attack,\nOn Calamity Ganon 10,000 years back.",
+"src": "Demo105_1"
+},
+{
+"id": 845,
+"fa": "نابرو...",
+"en": "Nabooru...",
+"src": "Demo125_0"
+},
+{
+"id": 846,
+"fa": "او اسطوره‌ی قوم گرودو است،\nكه قرن‌ها با احترام از او ياد كرده‌اند.",
+"en": "Legend of the Gerudo, celebrated over ages.",
+"src": "Demo125_0"
+},
+{
+"id": 847,
+"fa": "و تو كه به ياد او نام گرفتی،\nخودت هم يك اسطوره شده‌ای. ⟦0⟧درست نمی‌گويم، نابوريس؟",
+"en": "And you, who were named to honor her—\nyou are a legend as well. Isn't that right, Naboris?",
+"src": "Demo125_0"
+},
+{
+"id": 848,
+"fa": "تلخی شكست صد سال پيش\nهنوز يادم هست...⟦0⟧اما گذشته‌ها گذشته.",
+"en": "The bitter essence of defeat from a\ncentury ago still sits upon my tongue...But that is now in the past...",
+"src": "Demo125_0"
+},
+{
+"id": 849,
+"fa": "گفته شده كه بلای گانون\nزمانی هيبت يك گرودويی را گرفته بود.",
+"en": "It was written that Calamity Ganon\nonce adopted the form of a Gerudo.",
+"src": "Demo125_0"
+},
+{
+"id": 850,
+"fa": "و اين...⟦0⟧پيروزی ما را شيرين‌تر می‌كند.",
+"en": "And that...will make this victory all the more satisfying.",
+"src": "Demo125_0"
+},
+{
+"id": 851,
+"fa": "اين را دوست دارم. ⟦0⟧اين را به يك مسئله‌ی شخصی تبديل خواهم كرد.",
+"en": "I like that. Now I can take this personally.",
+"src": "Demo125_0"
+},
+{
+"id": 852,
+"fa": "به محض اينكه آن موجود را نشانه بگيريم...\n⟦0⟧لينك بايد گانون را سرگرم نگه دارد\nتا لحظه‌ی حمله‌ی ما برسد.",
+"en": "Once we've established a lock on that thing...It will be up to Link to keep Ganon occupied\nuntil the moment we unleash our strike.",
+"src": "Demo125_0"
+},
+{
+"id": 853,
+"fa": "و آن لحظه...⟦0⟧خيلی شيرين خواهد بود.",
+"en": "That moment...is going to be so delicious.",
+"src": "Demo125_0"
+},
+{
+"id": 854,
+"fa": "تو با شجاعت تمام با اين چالش روبه‌رو شدی.",
+"en": "You faced that challenge with\ngreat courage.",
+"src": "Demo681_0"
+},
+{
+"id": 855,
+"fa": "همه‌ی شك‌هايم را از بين بردی.\nتو يك قهرمان واقعی هستی.",
+"en": "You have erased all doubt from my mind.\nYou are a true hero.",
+"src": "Demo681_0"
+},
+{
+"id": 856,
+"fa": "پس سرنوشتت بود كه اين شاهكار باستانی را\nبه دست بگيری...",
+"en": "As such, you were destined to take hold\nof this ancient masterpiece...",
+"src": "Demo681_0"
+},
+{
+"id": 857,
+"fa": "آن شاهزاده، دختر خودم بود...⟦0⟧زلدای عزيزم.",
+"en": "That princess was my own daughter...My dear Zelda.",
+"src": "Demo154_2"
+},
+{
+"id": 858,
+"fa": "و آن شواليه دلاور كه تا آخرين لحظه از او محافظت كرد... ⟦0⟧كسی جز تو نبود، لينك.",
+"en": "And the courageous knight who protected her\nright up to the very end... That knight was none other than you, Link.",
+"src": "Demo154_2"
+},
+{
+"id": 859,
+"fa": "با شجاعت جنگيدی، حتی وقتی سرنوشتت بد پيش رفت.\n        ⟦0⟧بعد تو را به معبد رستاخيز بردند.\n        و حالا بعد از صد سال، سرحال جلوی ما ايستاده‌ای.",
+"en": "You fought valiantly when your fate took an\nunfortunate turn.And then, you were taken to the Shrine of\nResurrection. Here you now stand revitalized, 100\nyears later.",
+"src": "Demo154_2"
+},
+{
+"id": 860,
+"fa": "راهنمايی‌هايی كه از وقتی بيدار شدی می‌شنوی،\n        از طرف خود پرنسس زلدا بوده‌اند.⟦0⟧او همين حالا هم در قلعه هايرول گانون را مهار می‌كند و كمك می‌خواهد.",
+"en": "The words of guidance you have been hearing since\nyour awakening are from Princess Zelda herself.Even now, as she works to restrain Ganon from\nwithin Hyrule Castle, she calls out for your help.",
+"src": "Demo154_2"
+},
+{
+"id": 861,
+"fa": "اما قدرت دخترم به‌زودی تمام می‌شود.\n        ⟦0⟧وقتی اين اتفاق بيفتد، گانون آزادانه دوباره شكل می‌گيرد\n        و ديگر چيزی جلوی بلعيدن سرزمينمان را نمی‌گيرد. ",
+"en": "However, my daughter's power will\nsoon be exhausted. Once that happens, Ganon will freely\nregenerate himself and nothing will stop\nhim from consuming our land. ",
+"src": "Demo154_2"
+},
+{
+"id": 862,
+"fa": "چون نتوانستم قلمروام را نجات بدهم،⟦0⟧حق ندارم اين را از تو بخواهم، لينك...",
+"en": "Considering that I could not save my own kingdom,I have no right to ask this of you, Link... ",
+"src": "Demo154_2"
+},
+{
+"id": 863,
+"fa": "اما من اينجا ناتوانم...",
+"en": "But I am powerless here...",
+"src": "Demo154_2"
+},
+{
+"id": 864,
+"fa": "تو بايد او را نجات دهی... يعنی دخترم را. ⟦0⟧و هر كاری لازم است انجام بده تا گنون را نابود كنی.",
+"en": "You must save her...my daughter. And do whatever it takes to annihilate Ganon.",
+"src": "Demo154_2"
+},
+{
+"id": 865,
+"fa": "گنون به هر شكلی كنترل هر چهار هيولای مقدس را\n        حفظ كرده،⟦0⟧و همين‌طور نگهبان‌هايی را كه دور قلعه هايرول می‌پلكند.",
+"en": "Somehow, Ganon has maintained control over all\nfour Divine Beasts,as well as those Guardians swarming around\nHyrule Castle.",
+"src": "Demo154_2"
+},
+{
+"id": 866,
+"fa": "به نظرم الان رفتن مستقيم به قلعه كار بی‌فكری است.\n        ⟦0⟧پيشنهاد می‌كنم... به سمت شرق بروی،\n        و به يكی از روستاهای صحرا سر بزنی.",
+"en": "I believe it would be quite reckless for you to head\ndirectly to the castle at this point.I suggest...that you make your way east, out to\none of the villages in the wilderness.",
+"src": "Demo154_2"
+},
+{
+"id": 867,
+"fa": "جاده را تا روستای كاكاريكو ادامه بده.⟦0⟧آنجا ايمپا، بزرگ روستا را پيدا می‌كنی. ⟦1⟧او درباره‌ی راه پيش رويت بيشتر به تو می‌گويد.",
+"en": "Follow the road out to Kakariko Village.There you will find the elder, Impa. She will tell you more about the path that lies ahead.",
+"src": "Demo154_2"
+},
+{
+"id": 868,
+"fa": "برای پيدا كردن مكان دقيق روستای كاكاريكو،\n        از نقشه‌ی لوح شيكا كمك بگير.\n        ⟦0⟧از كنار قله‌های كوه‌های دوقلو رد شو.\n        ⟦1⟧بعد جاده را به سمت شمال ادامه بده...",
+"en": "Consult the map on your Sheikah Slate for the\nprecise location of Kakariko Village. Make your way past the twin summits\nof the Dueling Peaks.From there, follow the road as it proceeds north...",
+"src": "Demo154_2"
+},
+{
+"id": 869,
+"fa": "لينك، رسيديم.",
+"en": "Well, Link, here we are.",
+"src": "Demo120_0"
+},
+{
+"id": 870,
+"fa": "فكر كنم كار اصلی الان شروع می‌شه.",
+"en": "Looks like this is where the real work starts.",
+"src": "Demo120_0"
+},
+{
+"id": 871,
+"fa": "موفق باشی.⟦0⟧آفرين كه جريان آب\nاين هيولای مقدس را قطع كردی.",
+"en": "Best of luck.Nice job cutting off the water flow\nfrom this Divine Beast.",
+"src": "Demo120_0"
+},
+{
+"id": 872,
+"fa": "بدون ترس با دشمن روبه‌رو شو.",
+"en": "Show the enemy no fear.",
+"src": "Demo120_0"
+},
+{
+"id": 873,
+"fa": "در قلمروی زورا می‌بينمت.",
+"en": "I'll see you back at Zora's Domain.",
+"src": "Demo120_0"
+},
+{
+"id": 874,
+"fa": "خداحافظ.",
+"en": "Farewell.",
+"src": "Demo120_0"
+},
+{
+"id": 875,
+"fa": "چيزی كه شروع كرديم رو كامل كن، لينك...",
+"en": "Finish the job, Link...",
+"src": "Demo120_0"
+},
+{
+"id": 876,
+"fa": "هاااااه... هاااه... هاااااااه... هاااا...",
+"en": "Haaah Haaah Haah Haa...",
+"src": "Demo138_0"
+},
+{
+"id": 877,
+"fa": "لينك، فرار كن! بدو!",
+"en": "Link, save yourself! Go!",
+"src": "Demo138_0"
+},
+{
+"id": 878,
+"fa": "من خوبم! نگران من نباش!",
+"en": "I'll be fine! Don't worry about me!",
+"src": "Demo138_0"
+},
+{
+"id": 879,
+"fa": "فرار كن!",
+"en": "Run!",
+"src": "Demo138_0"
+},
+{
+"id": 880,
+"fa": "وااااه!!",
+"en": "Uwaaaah!!",
+"src": "Demo138_0"
+},
+{
+"id": 881,
+"fa": "آيا...⟦0⟧آيا اون...؟",
+"en": "Was...Was that...?",
+"src": "Demo138_0"
+},
+{
+"id": 882,
+"fa": "قدرت...",
+"en": "The power...",
+"src": "Demo138_0"
+},
+{
+"id": 883,
+"fa": "آآغغغ...!",
+"en": "Uuughh...!",
+"src": "Demo138_0"
+},
+{
+"id": 884,
+"fa": "نه... نه، نه... ",
+"en": "No, no...",
+"src": "Demo138_0"
+},
+{
+"id": 885,
+"fa": "لينك! بلند شو!",
+"en": "Link! Get up!",
+"src": "Demo138_0"
+},
+{
+"id": 886,
+"fa": "كُх! كُх!",
+"en": "Cough! Cough!",
+"src": "Demo138_0"
+},
+{
+"id": 887,
+"fa": "خوب ميشی... ",
+"en": "You're going to be just fine...",
+"src": "Demo138_0"
+},
+{
+"id": 888,
+"fa": "اوووووه...\nآغغغ...",
+"en": "Ooohh...\nUghh...",
+"src": "Demo138_0"
+},
+{
+"id": 889,
+"fa": "هاااه...؟",
+"en": "Haaah...?",
+"src": "Demo138_0"
+},
+{
+"id": 890,
+"fa": "آآآآآآآآآآآه!",
+"en": "Aaaahhhh!",
+"src": "Demo138_0"
+},
+{
+"id": 891,
+"fa": "...اوووووه... اوووه!... اوووهغ....!!",
+"en": "...Ooooh...oooh!...Oooogh...!!",
+"src": "Demo138_0"
+},
+{
+"id": 892,
+"fa": "شمشير...؟",
+"en": "The sword...?",
+"src": "Demo138_0"
+},
+{
+"id": 893,
+"fa": "پس...⟦0⟧هنوز می‌شه نجاتش داد؟",
+"en": "So he can...He can still be saved?",
+"src": "Demo138_0"
+},
+{
+"id": 894,
+"fa": "سرورم!",
+"en": "Princess!",
+"src": "Demo138_0"
+},
+{
+"id": 895,
+"fa": "پرنسس ما! حالتون خوبه؟!",
+"en": "Princess! Are you all right?!",
+"src": "Demo138_0"
+},
+{
+"id": 896,
+"fa": "لينك رو به «معبد رستاخيز» ببريد.",
+"en": "Take Link to the Shrine of Resurrection.",
+"src": "Demo138_0"
+},
+{
+"id": 897,
+"fa": "اگه زود نرسونيدش اونجا،\nبرای هميشه از دستش می‌ديم!",
+"en": "If you don't get him there immediately,\nwe are going to lose him forever!",
+"src": "Demo138_0"
+},
+{
+"id": 898,
+"fa": "فهميديد؟!",
+"en": "Is that clear?!",
+"src": "Demo138_0"
+},
+{
+"id": 899,
+"fa": "عجله كنيد و بريد!",
+"en": "So make haste and go!",
+"src": "Demo138_0"
+},
+{
+"id": 900,
+"fa": "زندگی‌اش الان دست شماست!",
+"en": "His life is now in your hands!",
+"src": "Demo138_0"
+},
+{
+"id": 901,
+"fa": "ای كسی كه به اين هيولای مقدس نزديك می‌شوی...\nبه نام ايزدايزدايزدبانو هايليا اين آزمون را به تو می‌دهم.",
+"en": "To the one who approaches this\nDivine Beast... In the name of the\nGoddess Hylia, I offer this trial.",
+"src": "Demo614_2"
+},
+{
+"id": 902,
+"fa": "در ازای نشانه‌های روتا، فرصت می‌يابی پا به دنيای خاطرات بگذاری.",
+"en": "In exchange for Ruta's Emblems...\nyou will be granted the chance to\ntread through the realm of memories.",
+"src": "Demo614_2"
+},
+{
+"id": 903,
+"fa": "كسی كه عزم كافی نداشته باشد،\nاين آزمون را بی‌رحم خواهد يافت. \nاينجا را دست كم نگير\nو فكر نكن فقط دنيايی در ذهن توست.\nحقيقت خيلی عميق‌تر از اين حرف‌هاست.",
+"en": "Those who lack determination will find\nthis trial unforgiving.\n\nDo not take this place lightly, nor dismiss\nit as merely a world within your mind.\nThe truth is much deeper than you know.",
+"src": "Demo614_2"
+},
+{
+"id": 904,
+"fa": "ای قهرمان شجاع...\nآيا جرئت می‌كنی با جهانی روبه‌رو شوی كه در آن\nخيال و خاطره درهم آميخته‌اند...\nآيا قدم به ⟦0⟧هيولای مقدس واه روتا⟦1⟧ می‌گذاری؟⟦2⟧",
+"en": "Courageous hero... Dare you confront a\nrealm of illusion and memory... Dare you\nenter the Divine Beast Vah Ruta?",
+"src": "Demo614_2"
+},
+{
+"id": 905,
+"fa": "⟦0⟧ها؟ ⟦1⟧تويی.",
+"en": "Hm? Ah, it's you.",
+"src": "Demo646_0"
+},
+{
+"id": 906,
+"fa": "⟦0⟧نمی‌دانم چطور بگويم، ولی انگار از آخرين ديدارمان\nخيلی پخته‌تر و كامل‌تر شده‌ای.\nيك شعر عالی دارم كه برای كسی مثل تو مناسب است.\nخيلی دوست دارم برايت بخوانمش.",
+"en": "I can't put my feather on it, but I get the\nfeeling you're even more accomplished\nthan you were when last we met.\nI happen to have the perfect song for\nsomeone as esteemed as you.\nI would love to sing it for you.",
+"src": "Demo646_0"
+},
+{
+"id": 907,
+"fa": " ⟦0⟧شعر نيمه‌تمام استادم⟦1⟧...\nهمانی كه درباره‌اش با تو حرف زده بودم...\n\n⟦2⟧بالاخره ⟦3⟧قسمت اصلی⟦4⟧ را تمام كردم!",
+"en": "My teacher's unfinished song...\nthe one I told you about...\n\nI finally completed the key verses!",
+"src": "Demo646_0"
+},
+{
+"id": 908,
+"fa": "⟦0⟧هيچ جايی بهتر از اين برج بلند\nبرای خواندن اين شعر خاص نيست.\n\nماجرايش صد سال پيش اتفاق افتاده...\nدر ⟦1⟧قلعه هايرول⟦2⟧.\n\nبله، همين قلعه‌ای كه می‌بينی،\nو درباره‌ی مراسم باشكوهی است كه در آن\nدلاوران برگزيده معرفی شدند.",
+"en": "This lofty location is the perfect stage\nto sing this special song.\n\nIt takes place 100 years ago...\nat Hyrule Castle.\n\nYes, the very castle you can still see\nover yonder. It's about the magnificent\ninauguration of the chosen Champions.",
+"src": "Demo646_0"
+},
+{
+"id": 909,
+"fa": "لطفاً به اين شعر خاص گوش بده...\nشعر دلاوران...",
+"en": "If you would, please listen to this\nspecial song...\n\nThe Champions' Ballad...",
+"src": "Demo646_0"
+}
+]

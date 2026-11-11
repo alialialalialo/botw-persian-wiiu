@@ -1,0 +1,204 @@
+import sys,struct
+sys.path.insert(0,"/tmp/claude-0/-home-claude/e3988272-a021-590f-b21b-178f594b23ac/scratchpad/tools")
+from botw_min import *
+MIR={0x28:0x29,0x29:0x28,0x5b:0x5d,0x5d:0x5b,0x7b:0x7d,0x7d:0x7b,0x3c:0x3e,0x3e:0x3c,0xab:0xbb,0xbb:0xab}
+def is_r(c): return 0x590<=c<=0x8ff or 0xfb1d<=c<=0xfdff or 0xfe70<=c<=0xfeff or c in(0x200c,0x200d)
+def is_en(c): return 0x30<=c<=0x39 or 0x6f0<=c<=0x6f9 or 0x660<=c<=0x669
+def is_l(c): return (chr(c).isalpha() and not is_r(c)) or 0xe000<=c<=0xf8ff or c>=0x2e80
+TOG=set()
+def items_of(unit):
+    out=[]
+    for t in tokenize(unit,'>'):
+        if t[0]=='t': out+= [('c',c) for c in t[1]]
+        else: out.append(t)
+    return out
+def reorder_line(its):
+    # its: list of items for one line (no newline). returns visual list
+    n=len(its)
+    # pin leading/trailing non-toggle tags
+    a=0
+    while a<n and its[a][0] in('tag','end') and (its[a][0]=='end' or (its[a][1],its[a][2]) not in TOG): a+=1
+    b=n
+    while b>a and ((its[b-1][0]=='c' and its[b-1][1]==0) or its[b-1][0]=='end' or (its[b-1][0]=='tag' and (its[b-1][1],its[b-1][2]) not in TOG)): b-=1
+    lead,mid,trail=its[:a],its[a:b],its[b:]
+    if not any(i[0]=='c' and is_r(i[1]) for i in mid): return its
+    m=len(mid); cls=[]
+    for it in mid:
+        if it[0]=='c':
+            c=it[1]; cls.append('R' if is_r(c) else 'E' if is_en(c) else 'L' if is_l(c) else 'N')
+        else: cls.append('N')
+    # W: digit/Latin interplay
+    for i in range(m):
+        if cls[i]=='E':
+            j=i-1
+            while j>=0 and cls[j]=='N' and False: j-=1
+            if j>=0 and cls[j]=='L': cls[i]='L'
+    for i in range(1,m-1):
+        if cls[i]=='N' and mid[i][0]=='c' and mid[i][1] in(0x2c,0x2e,0x2f,0x3a) and cls[i-1] in('E','L') and cls[i+1]=='E' and (cls[i-1]=='E' or True):
+            if cls[i-1]=='L' or cls[i-1]=='E': cls[i]=cls[i-1] if cls[i-1]=='L' else 'E'
+    for i in range(1,m):
+        if cls[i]=='N' and mid[i][0]=='c' and mid[i][1]==0x25 and cls[i-1] in('E','L'): cls[i]=cls[i-1]
+    # N resolution
+    lev=[None]*m
+    def dirof(x): return 'L' if x=='L' else 'R'
+    i=0
+    while i<m:
+        if cls[i]!='N': i+=1; continue
+        j=i
+        while j<m and cls[j]=='N': j+=1
+        left=dirof(cls[i-1]) if i>0 else 'R'; right=dirof(cls[j]) if j<m else 'R'
+        d=left if left==right else 'R'
+        for k in range(i,j): cls[k]=d
+        i=j
+    lv=[2 if c in('L','E') else 1 for c in cls]
+    idx=list(range(m)); mx=max(lv)
+    for L in range(mx,0,-1):
+        i=0
+        while i<m:
+            if lv[idx[i]]>=L:
+                j=i
+                while j<m and lv[idx[j]]>=L: j+=1
+                idx[i:j]=idx[i:j][::-1]; i=j
+            else: i+=1
+    vis=[]
+    for k in idx:
+        it=mid[k]
+        if it[0]=='c' and lv[k]==1 and it[1] in MIR: it=('c',MIR[it[1]])+tuple(it[2:])
+        vis.append(it)
+    return lead+vis+trail
+import unicodedata
+def _join(c):
+    if c==0x200d: return (True,True)
+    if not (0xfb50<=c<=0xfdff or 0xfe70<=c<=0xfeff): return None
+    dc=unicodedata.decomposition(chr(c))
+    if dc.startswith('<initial>'): return (True,False)
+    if dc.startswith('<medial>'): return (True,True)
+    if dc.startswith('<final>'): return (False,True)
+    if dc.startswith('<isolated>'): return (False,False)
+    return None
+def _viol(seq):
+    v=0
+    def jf(c):
+        j=_join(c); return bool(j and j[0])
+    def jbk(c):
+        j=_join(c); return bool(j and j[1])
+    for a,b in zip(seq,seq[1:]):
+        ja,jb=_join(a),_join(b)
+        if ja is None or jb is None: continue
+        if ja[0]!=jb[1]: v+=1
+    # word-boundary evidence (breaks ties for single words)
+    for a,b in zip(seq,seq[1:]):
+        ja,jb=_join(a),_join(b)
+        if (ja is None)!=(jb is None):
+            if ja is not None and ja[0]: v+=1
+            if jb is not None and jb[1]: v+=1
+    if seq:
+        j=_join(seq[0])
+        if j and j[1]: v+=1
+        j=_join(seq[-1])
+        if j and j[0]: v+=1
+    return v
+def is_visual(chars):
+    return _viol(chars)>_viol(chars[::-1])
+OFF={(0,3):0xffff,(0,2):0x64}
+def pk(it):
+    if it[0]=='c': return struct.pack('>H',it[1])
+    if it[0]=='end': return pack_units([0x0F,it[1],it[2]],'>')
+    _,g,t,p=it; b=pack_units([0x0E,g,t,len(p)],'>')+p
+    return b+(b'\0' if len(p)%2 else b'')
+HX=set('0123456789ABCDEFabcdef')
+def strip_hexdump(its):
+    out=[]; i=0
+    while i<len(its):
+        it=its[i]
+        if it[0]=='c' and it[1]==0x29 and i+2<len(its) and its[i+1][0]=='c' and its[i+1][1]==0x24 and its[i+2][0]=='c' and chr(its[i+2][1]) in '0' and i+3<len(its) and its[i+3][0]=='c' and chr(its[i+3][1]) in 'Ee':
+            j=i+4
+            while j<len(its):
+                c=its[j]
+                if c[0]=='c' and chr(c[1]) in HX: j+=1; continue
+                if c[0]=='c' and c[1]==10 and j+1<len(its) and its[j+1][0]=='c' and chr(its[j+1][1]) in HX: j+=1; continue
+                break
+            if j<len(its) and its[j][0]=='c' and its[j][1]==0x28: j+=1
+            i=j; continue
+        out.append(it); i+=1
+    return out
+def wrap_items(its,limit,wfn):
+    # its: flat items of one unit; wrap logical (non-visual) lines wider than limit at spaces
+    lines=[[]]
+    for it in its:
+        if it[0]=='c' and it[1]==10: lines.append([])
+        else: lines[-1].append(it)
+    out=[]; nb=0
+    for k,l in enumerate(lines):
+        if k: out.append(('c',10))
+        chs=[i[1] for i in l if i[0]=='c']
+        if is_visual(chs) or 9 in chs or sum(wfn(c) for c in chs)<=limit: out+=l; continue   # tab = poem columns: never wrap
+        w=0; pend=[]; pw=0   # pend = current word items
+        cur=[]
+        def flush_word():
+            nonlocal w,cur,pend,pw,nb
+            if cur and w+pw>limit and any(i[0]=='c' and i[1]!=0x20 for i in cur):
+                # break before this word: drop trailing spaces already in cur
+                while cur and cur[-1][0]=='c' and cur[-1][1]==0x20: cur.pop()
+                out.extend(cur); out.append(('c',10)); nb+=1; cur=[]; w=0
+            cur.extend(pend); w+=pw; pend=[]; pw=0
+        for it in l:
+            if it[0]=='c' and it[1]==0x20:
+                pend.append(it); pw+=wfn(0x20); flush_word()   # word + its trailing space
+            else:
+                pend.append(it)
+                if it[0]=='c': pw+=wfn(it[1])
+        flush_word(); out.extend(cur)
+    return out,nb
+def reorder_unit(unit,limit=None,wfn=None):
+    its=strip_hexdump(items_of(unit))
+    if limit: its,_=wrap_items(its,limit,wfn)
+    st={(0,3):0xffff,(0,2):0x64}; lines=[[]]
+    for it in its:
+        if it[0]=='c' and it[1]==10: lines.append([]); continue
+        if it[0]=='tag' and (it[1],it[2]) in OFF:
+            st[(it[1],it[2])]=struct.unpack('>H',it[3])[0]; lines[-1].append(('T',it)); continue
+        if it[0]=='c': it=('c',it[1],(st[(0,3)],st[(0,2)]))
+        lines[-1].append(it)
+    out=bytearray()
+    BOUND={(0,4),(1,0),(5,0),(5,1),(5,2)}
+    def emit_seg(l,out,vis_dir):
+        chs=[i[1] for i in l if i[0]=='c']
+        if vis_dir or not any(is_r(c) for c in chs):
+            for it in l:
+                out+= pk(it[1]) if it[0]=='T' else pk(it)
+            return
+        l2=[i for i in l if i[0]!='T']
+        vis=reorder_line(l2)
+        cur={(0,3):0xffff,(0,2):0x64}
+        n=len(vis); b=n
+        while b>0 and (vis[b-1][0]=='end' or vis[b-1][0]=='tag' or (vis[b-1][0]=='c' and vis[b-1][1]==0)): b-=1
+        def emit(it,out):
+            if it[0]=='c' and len(it)>2:
+                for key,val in zip(((0,3),(0,2)),it[2]):
+                    if cur[key]!=val:
+                        out+=pk(('tag',key[0],key[1],struct.pack('>H',val))); cur[key]=val
+            out+=pk(it)
+        for it in vis[:b]: emit(it,out)
+        for key in cur:
+            if cur[key]!=OFF[key]: out+=pk(('tag',key[0],key[1],struct.pack('>H',OFF[key]))); cur[key]=OFF[key]
+        for it in vis[b:]: out+=pk(it)
+    for k,l in enumerate(lines):
+        if k: out+=struct.pack('>H',10)
+        chs=[i[1] for i in l if i[0]=='c']
+        vd=is_visual(chs)
+        # split at timing/page tags so spoken order == display order (engine reveals left to right)
+        segs=[[]]; bnds=[]
+        for it in l:
+            if it[0]=='tag' and (it[1],it[2]) in BOUND: bnds.append(it); segs.append([])
+            else: segs[-1].append(it)
+        for j,sg in enumerate(segs):
+            if j: out+=pk(bnds[j-1])
+            emit_seg(sg,out,vd)
+    return bytes(out)
+def fix_msbt(d,limits=None,wfn=None):
+    e,hdr,secs=msbt_sections(d); ns=[]
+    for m,b in secs:
+        if m==b'TXT2': b=build_txt2([reorder_unit(u,(limits[i] if limits and i<len(limits) else None),wfn) for i,u in enumerate(txt2_units(b,e))],e)
+        ns.append((m,b))
+    return build_msbt(hdr,ns,e)

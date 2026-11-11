@@ -1,0 +1,782 @@
+[
+{
+"id": 650,
+"fa": "متاسفم...",
+"en": "I'm sorry, no.",
+"src": "Demo136_0"
+},
+{
+"id": 651,
+"fa": "شاهدختم...",
+"en": "Then let's move on.",
+"src": "Demo136_0"
+},
+{
+"id": 652,
+"fa": "تمام تلاشتون رو نكرديد؟⟦0⟧ ",
+"en": "You've done all you could.Feeling sorry for yourself won't be of any help.",
+"src": "Demo136_0"
+},
+{
+"id": 653,
+"fa": "اگه تمام تلاشتون رو كرديد، پس كاری از دستمون برنمياد.\n⟦0⟧اين فرصت روی كوه هم كه آخرين شانس نبود.⟦1⟧~",
+"en": "After all, it's not like your last shot was up there\non Mt. Lanayru. Anything could finally spark the power to seal\nGanon away.We just have to keep looking for that...thing.",
+"src": "Demo136_0"
+},
+{
+"id": 654,
+"fa": "شايد قدرت مهر به روشی غيرمنتظره بيدار بشه.",
+"en": "urh...",
+"src": "Demo136_0"
+},
+{
+"id": 655,
+"fa": "ممنونم، اوربوزا. ⟦0⟧~",
+"en": "That's kind of you. Thank you.",
+"src": "Demo136_0"
+},
+{
+"id": 656,
+"fa": "اگه اجازه بديد، شاهدختم...",
+"en": "If I may...",
+"src": "Demo136_0"
+},
+{
+"id": 657,
+"fa": "هممم...⟦0⟧نمی‌تونم احساساتم رو در قالب كلمات بيان كنم...\nولی سعيم رو می‌كنم.",
+"en": "I thought you...Well, I'm not sure how to put this into words...",
+"src": "Demo136_0"
+},
+{
+"id": 658,
+"fa": "مثل چيزيه كه موقع استفاده از قدرت شفابخشيم بهش فكر می‌كنم⟦0⟧... ⟦1⟧يعنی...⟦2⟧چطوری بگم...",
+"en": "I'm actually quite embarrassed to say it.But I was thinking about what I do when I'm healing. You know, what usually goes through my mind...It helps when I think—when I think about—",
+"src": "Demo136_0"
+},
+{
+"id": 659,
+"fa": "اون...",
+"en": "It's here.",
+"src": "Demo136_0"
+},
+{
+"id": 660,
+"fa": "بدون شك...",
+"en": "This is it, then...",
+"src": "Demo136_0"
+},
+{
+"id": 661,
+"fa": "بالاخره...",
+"en": "Are you sure?",
+"src": "Demo136_0"
+},
+{
+"id": 662,
+"fa": "اون..",
+"en": "Positive.",
+"src": "Demo136_0"
+},
+{
+"id": 663,
+"fa": "بيدار شد... و ظهور كرد...⟦0⟧~",
+"en": "It's awake...Ganon!",
+"src": "Demo136_0"
+},
+{
+"id": 664,
+"fa": "آه... آه...",
+"en": "Ah...ah... *gasp*",
+"src": "Demo136_0"
+},
+{
+"id": 665,
+"fa": "نگران نباشيد، شاهدخت. ⟦0⟧اون يه نفره، و ما همه اينجاييم!",
+"en": "Let's stop wasting time! We're gonna need everything we got to take\nthat thing down!",
+"src": "Demo136_0"
+},
+{
+"id": 666,
+"fa": "و حالا رفقا! هر كس بره به سمت هيولای خودش⟦0⟧و برای زدن ضربه‌ای مهلك به اين بلا آماده بشه!\n⟦1⟧به محض اينكه لينك با گانون درگير شد، همگی يك‌صدا بهش يورش می‌بريم!",
+"en": "Now Champions! To your Divine Beasts!Show that swirling swine who's boss!Link will need to meet Ganon head on when we\nattack! This needs to be a unified assault!",
+"src": "Demo136_0"
+},
+{
+"id": 667,
+"fa": "و تو، رفيق! برو به قلعه هايرول.",
+"en": "Little guy! You get to Hyrule Castle.",
+"src": "Demo136_0"
+},
+{
+"id": 668,
+"fa": "همگی ازت حمايت می‌كنيم. ⟦0⟧بذار كار گانون ملعون رو يه سره كنيم!",
+"en": "You can count on us for support. But it's up to you to pound Ganon into oblivion!",
+"src": "Demo136_0"
+},
+{
+"id": 669,
+"fa": "يالا شاهدخت. ⟦0⟧شما بايد به يك جای امن بريد.",
+"en": "Come. We should go. We need to get you someplace safe.",
+"src": "Demo136_0"
+},
+{
+"id": 670,
+"fa": "نه!",
+"en": "No!",
+"src": "Demo136_0"
+},
+{
+"id": 671,
+"fa": "خواهش می‌كنم بذاريد با شما بيام! ⟦0⟧شايد به هيچ دردی نخورم...\nولی حداقل... حداقل بذاريد همراهتون باشم!",
+"en": "I am not a child anymore! I may not be\nmuch use on the battlefield... But there must... There must be\nsomething I can do to help!",
+"src": "Demo136_0"
+},
+{
+"id": 672,
+"fa": "⟦0⟧آه! گشتن اينجا حسابی سرحالم كرد\nو شنيدن داستان‌های ⟦1⟧قهرمان ميفا⟦2⟧.\n⟦3⟧به من الهام داد يادش رو به شيوه خودم گرامی بدارم،\nجدا از ⟦4⟧ترانه‌ی ناتمام⟦5⟧ استادم.\n⟦6⟧برای همين اومدم اينجا آواز بخونم،\nكنار ⟦7⟧هيولای مقدس واه روتا⟦8⟧\nكه ⟦9⟧ميفا⟦10⟧ خودش رامش كرده بود.",
+"en": "Ah! Wandering around here and listening\nto anecdotes about Champion Mipha\nhas truly invigorated me.\nIn fact, it has inspired me to honor\nher in my own way, separate from\nmy teacher's unfinished song.\nThat is why I felt inclined to roost here,\nnear the Divine Beast Vah Ruta,\nwhich Mipha herself mastered.",
+"src": "Demo612_2"
+},
+{
+"id": 673,
+"fa": "⟦0⟧⟦1⟧⟦2⟧يه آهنگ نوشتم... تا سعی كنم\nروح ⟦3⟧قهرمان ميفا⟦4⟧ رو توش بگنجونم...",
+"en": "I've written a song...to try and capture\nthe essence of Champion Mipha...",
+"src": "Demo612_2"
+},
+{
+"id": 674,
+"fa": "⟦0⟧⟦1⟧♪ به ياد آوريد قهرمانِ ⟦2⟧~⟦3⟧روتا⟦4⟧ را كه⟦5⟧\tدر خشمش نيز، شيرينی يك مرواريد بود⟦6⟧\nو همگان گواهی می‌دهند كه او⟦7⟧⟦8⟧⟦9⟧\t آری⟦10⟧ميفا،⟦11⟧\t دلبر قلمرو بود⟦12⟧⟦13⟧\nو برای مردمان شگفت نبود⟦14⟧\tكه آن بانو، دلاوری را مجذوب خود كند♪⟦15⟧",
+"en": "♪Recall the Champion of Ruta's wrath,\nbefore she walked her chosen path.♪\n\n♪Mipha's kindness was known to all,\nwhich is why the princess came to call.♪",
+"src": "Demo612_2"
+},
+{
+"id": 675,
+"fa": "⟦0⟧⟦1⟧هممم... به نظر می‌رسه شاهدخت زورا با اينكه به مهربونی و\nلطافتش معروف بود، گاهی اوقات رگه‌هايی از خشم نشون می‌داده.",
+"en": "Hmm... Though she was known for her\nkindness, it seems the Zora princess\ncould be quite strict when necessary.",
+"src": "Demo612_2"
+},
+{
+"id": 676,
+"fa": "⟦0⟧خب، بهم بگو نظرت چيه؟\n⟦1⟧درباره قصيده‌ی قهرمان ميفا⟦2⟧؟\n\nحس می‌كنم با نوشتن اين قصيده كه شجاعت قهرمان ميفا رو می‌ستايه،\nيك قدم به استاد عزيزم نزديك‌تر شدم.",
+"en": "So? What do you think of\nChampion Mipha's Song?\n\nBy writing a song that captures the\ndetermination of Champion Mipha, I feel\ncloser than ever to my dear teacher.",
+"src": "Demo612_2"
+},
+{
+"id": 677,
+"fa": "هاااه هاااه هاااه هاا...",
+"en": "Haaah Haaah Haah Haa...",
+"src": "Demo331_0"
+},
+{
+"id": 678,
+"fa": "⟦0⟧آروم باش!⟦1⟧ بايد مراقب اون\n⟦2⟧نگهبان‌ها⟦3⟧ باشيم!\n\n⟦4⟧اگه يكيشون ما رو ببينه، ⟦5⟧رودانيا ⟦6⟧شروع می‌كنه به كوبيدن پاهاش\n⟦7⟧و كوهستان مرگ هم فوران می‌كنه.\n⟦8⟧هر وقت سوت بزنی، دنبالت ميام،⟦9⟧ تو فقط حواست باشه كه چطور از اين مسير رد بشيم\nبدون اينكه هيچ ⟦10⟧نگهبانی⟦11⟧ ما رو ببينه!",
+"en": "Hold on! We need to watch out for those\nsentries!\n\nIf one of them spots us, Rudania will\nstomp around and cause Death Mountain\nto erupt.\nI'll follow along when you whistle, so just\nfocus on getting us through here without\nbeing spotted by the sentries!",
+"src": "Demo346_4"
+},
+{
+"id": 679,
+"fa": "اين يكی!⟦0⟧آه! و اينم يكی ديگه!",
+"en": "There's one!Oh! And another!",
+"src": "Demo131_0"
+},
+{
+"id": 680,
+"fa": "گل‌های هايرول فقط زيبا نيستند...\n⟦0⟧برای ساختن چيزهای مختلف هم خيلی به كار می‌آيند.",
+"en": "The flowers we have in Hyrule aren't just beautiful...They're also quite useful as ingredients for a\nvariety of things.",
+"src": "Demo131_0"
+},
+{
+"id": 681,
+"fa": "و اين...",
+"en": "...Ah...",
+"src": "Demo131_0"
+},
+{
+"id": 682,
+"fa": "و اين يكی اينجا «شاهدخت خاموش» است.⟦0⟧گلی نادر و در معرض انقراض.",
+"en": "This one here is called the silent princess.It's a rare, endangered species.",
+"src": "Demo131_0"
+},
+{
+"id": 683,
+"fa": "تو خونه پرورشش نتونستيم. ⟦0⟧شاهدخت فقط تو طبيعت رشد می‌كنه.",
+"en": "Despite our efforts, we can't get them to grow\ndomestically yet. The princess can only thrive out here in the wild.",
+"src": "Demo131_0"
+},
+{
+"id": 684,
+"fa": "فقط اميد داريم...⟦0⟧اين گونه خودش قوی بمونه و دووم بياره.",
+"en": "All that we can hope...is that the species will be strong enough\nto prosper, on its own.",
+"src": "Demo131_0"
+},
+{
+"id": 685,
+"fa": "اوه، اينو نگاه كن! اينجا!",
+"en": "Is that what I think it is?! Look at this!",
+"src": "Demo131_0"
+},
+{
+"id": 686,
+"fa": "اين صَغرون به خاطر خوشمزگی و شيرينيش معروفه، ⟦0⟧و تحقيقات اخير ثابت كرده كه به خورنده‌اش انرژی ميده!⟦1⟧~",
+"en": "I don't believe it, but I actually caught one! This delicacy is known to have very, very potent\neffects under the proper circumstances. Ta-da!",
+"src": "Demo131_0"
+},
+{
+"id": 687,
+"fa": "تحقيقات قلعه می‌گه خوردنش بعضی توانايی‌ها رو تقويت می‌كنه.",
+"en": "Research from the castle shows ingesting one of\nthese can actually augment certain abilities.",
+"src": "Demo131_0"
+},
+{
+"id": 688,
+"fa": "اينجا شرايط كنترل‌شده‌ای نيست، ولی با اين بدنت\n⟦0⟧برای اين تحقيق انتخاب كاملی هستی!",
+"en": "We wouldn't be in a controlled environment out here,\nand with your level of physical fitness...you'd be a perfect candidate for the study!",
+"src": "Demo131_0"
+},
+{
+"id": 689,
+"fa": "يالا!",
+"en": "Go on!",
+"src": "Demo131_0"
+},
+{
+"id": 690,
+"fa": "آه......",
+"en": "Uh-mm……",
+"src": "Demo131_0"
+},
+{
+"id": 691,
+"fa": "آغ......",
+"en": "Err……",
+"src": "Demo131_0"
+},
+{
+"id": 692,
+"fa": "خوب كردی كه اين چشمه را پيدا كردی.",
+"en": "You have done well to find your way to\nthis spring.",
+"src": "Demo480_1"
+},
+{
+"id": 693,
+"fa": "تويی كه از آزمون‌های بسياری گذشتی\nو ⟦0⟧نشان‌های شجاعت⟦1⟧ را جمع كردی...",
+"en": "You who have overcome numerous trials\nand obtained the Spirit Orbs...",
+"src": "Demo480_1"
+},
+{
+"id": 694,
+"fa": "آنچه می‌بينی، خدمتگزار ⟦0⟧چشمه خرد⟦1⟧ است. \nاو ⟦2⟧نِيدرا⟦3⟧ است، روح آبی لانايرو.\nقرن‌هاست به هايليا خدمت می‌كند و از ارواح اين سرزمين مراقبت می‌كند،\nبی‌آنكه كسی از وجودش خبر داشته باشد. اما پليدی نفرت‌انگيزی\nكه از بلای گنون سرچشمه گرفته،\nبدنش را آلوده و تسخير كرده\nو او را به اين حال انداخته است.",
+"en": "The one you see before you is an \nattendant to the Spring of Wisdom. \nThis is Naydra, the blue spirit of Lanayru.\nThis servant of the Goddess has looked\nover the spirits of this land for ages,\nunknown to the world of man.\nHowever, the dreaded Malice unleashed\nby Calamity Ganon has possessed its\nbody and reduced it to this state.",
+"src": "Demo480_1"
+},
+{
+"id": 695,
+"fa": "تو كه نشان‌های شجاعت را جمع كرده‌ای...\n⟦0⟧نِيدرا ⟦1⟧را از اين پليدی آزاد كن.\nقدرتت را نشان بده!",
+"en": "You who have received the Spirit Orbs...\nFree Naydra from this Malice.\nShow what your power can achieve!",
+"src": "Demo480_1"
+},
+{
+"id": 696,
+"fa": "من ايمام ناسك، ميزو كيوشيا هستم.\nآزمون‌هايی را كه پيش رويت بود، با موفقيت گذراندی.",
+"en": "I am Maz Koshia. You have done well\nto conquer the trials laid before you.",
+"src": "Demo609_0"
+},
+{
+"id": 697,
+"fa": "تو نور اميد هايرول هستی.",
+"en": "You are Hyrule's beacon of hope.",
+"src": "Demo609_0"
+},
+{
+"id": 698,
+"fa": "اما آزمون‌های تو تازه شروع شده.\nراه تو را سلاح مقدس نشان خواهد داد...",
+"en": "But your trials have only just begun.\nThe divine weapon shall lead you...",
+"src": "Demo609_0"
+},
+{
+"id": 699,
+"fa": "حالا كه قدرتت را ثابت كردی،\nسفری تازه در انتظارت است.\n\nبه چهار مكانی برو كه به تو نشان داده می‌شود،\nو به اوج‌هايی بالاتر از هميشه برس.",
+"en": "Now that you have proven your power,\na new journey awaits.\n\nGo to the four locations that will be\nrevealed to you, and reach for\ngreater heights than ever before.",
+"src": "Demo609_0"
+},
+{
+"id": 700,
+"fa": "تنها ⟦0⟧چهار⟦1⟧ ⟦2⟧ايستگاه ⟦3⟧مانده!\nهنوز راه زيادی داری.⟦4⟧",
+"en": "There are four terminals remaining!\nStill a ways to go.",
+"src": "Demo044_0"
+},
+{
+"id": 701,
+"fa": "سه ⟦0⟧ايستگاه⟦1⟧ مانده!\nادامه بده، تسليم نشو!⟦2⟧",
+"en": "There are three terminals remaining!\nKeep going.",
+"src": "Demo044_0"
+},
+{
+"id": 702,
+"fa": "تنها ⟦0⟧~⟦1⟧~⟦2⟧دو ايستگاه⟦3⟧.\nتقريباً رسيدی.⟦4⟧",
+"en": "There are two terminals remaining.\nYou're almost there.",
+"src": "Demo044_0"
+},
+{
+"id": 703,
+"fa": "تنها ⟦0⟧يك ايستگاه⟦1⟧ ⟦2⟧مانده ⟦3⟧!\nعجب، كی فكرش را می‌كرد؟⟦4⟧",
+"en": "Just one terminal remaining!\nWhat do you know?",
+"src": "Demo044_0"
+},
+{
+"id": 704,
+"fa": "و اين آخرين ⟦0⟧ايستگاه⟦1⟧ بود!\nحالا فقط بايد\n⟦2⟧واحد كنترل اصلی⟦3⟧ را فعال كنی!⟦4⟧\nنقشه‌ات را خوب نگاه كن.\nيك نقطه درخشان جديد رويش پيدا شده.\nمی‌بينی‌اش؟⟦5⟧\nبه سمتش پرواز كن!⟦6⟧",
+"en": "That was the last terminal!\nNow you just need to start the\nmain control unit!\nI want you to take a good look at your\nmap. There should be a new glowing\npoint on there. Well?\nFlap to it!",
+"src": "Demo044_0"
+},
+{
+"id": 705,
+"fa": "تنها ⟦0⟧چهار ايستگاه⟦1⟧!\nاينطوريه كارها!⟦2⟧",
+"en": "There are four terminals remaining!\nThat's the way!",
+"src": "Demo044_0"
+},
+{
+"id": 706,
+"fa": "تنها ⟦0⟧سه ايستگاه⟦1⟧!\nعاليه، حركت كنيم و فعال باشيم!⟦2⟧",
+"en": "There are three terminals remaining!\nAll right, let's get movin'!",
+"src": "Demo044_0"
+},
+{
+"id": 707,
+"fa": "تنها ⟦0⟧دو ايستگاه⟦1⟧!\nنزديكيم، خيلی نزديكيم!⟦2⟧",
+"en": "There are two terminals remaining!\nJust a little more!",
+"src": "Demo044_0"
+},
+{
+"id": 708,
+"fa": "تنها ⟦0⟧يك ايستگاه ⟦1⟧!\n⟦2⟧فقط يكی ديگه!⟦3⟧⟦4⟧",
+"en": "Just one terminal remaining!\nJust one more!",
+"src": "Demo044_0"
+},
+{
+"id": 709,
+"fa": "عالی! اين آخرين ⟦0⟧ايستگاه⟦1⟧ بود!\nحالا ⟦2⟧واحد كنترل اصلی⟦3⟧ را فعال كن!⟦4⟧\nبايد به آنجا بروی.\nيك نقطه درخشان جديد روی نقشه‌ات ظاهر می‌شود.\nسعی كن راهی برای رسيدن به آنجا پيدا كنی.⟦5⟧\nحواست را جمع كن، پسر!⟦6⟧",
+"en": "Nice! That was the last terminal!\nNow go ahead and start up the\nmain control unit!\nThere should be a new glowing mark on\nyour map. You're gonna need to make\nyour way over to that.\nStay focused, little guy!",
+"src": "Demo044_0"
+},
+{
+"id": 710,
+"fa": "تنها ⟦0⟧چهار ايستگاه⟦1⟧!\nازت انتظار دارم كه از پسش بربيای!⟦2⟧",
+"en": "There are four terminals remaining!\nI'm counting on you!",
+"src": "Demo044_0"
+},
+{
+"id": 711,
+"fa": "تنها ⟦0⟧سه ايستگاه⟦1⟧!\nفقط كافيه نااميد نشی!⟦2⟧",
+"en": "There are three terminals remaining!\nHang in there!",
+"src": "Demo044_0"
+},
+{
+"id": 712,
+"fa": "تنها ⟦0⟧دو ايستگاه⟦1⟧!\nخوب تمركز كن!⟦2⟧",
+"en": "There are two terminals remaining!\nStay focused!",
+"src": "Demo044_0"
+},
+{
+"id": 713,
+"fa": "تنها ⟦0⟧آخرين ايستگاه⟦1⟧!\nنزديكی، تقريباً رسيدی!⟦2⟧",
+"en": "Just one terminal remaining!\nYou're almost there!",
+"src": "Demo044_0"
+},
+{
+"id": 714,
+"fa": "آفرين!\nاين آخرين\n⟦0⟧ايستگاه⟦1⟧ بود. حالا فقط باقی مانده\nكه ⟦2⟧واحد كنترل اصلی⟦3⟧ را فعال كنی!⟦4⟧\nنقشه‌ات را نگاه كن و\nبه سمت علامت درخشان برو.\nتا اينجا عالی بودی...⟦5⟧\nولی بی‌احتياطی نكن، چون اعتمادبه‌نفس بيش از حد\nمی‌تواند كشنده باشد.⟦6⟧",
+"en": "Well done! That was the last of the\nterminals. Now...you'll need to\nstart up the main control unit!\nTake a good look at your map. Head for\nthe glowing mark you see there.\nYou're doing well...\nbut overconfidence can be a\ndeadly foe.",
+"src": "Demo044_0"
+},
+{
+"id": 715,
+"fa": "تنها ⟦0⟧چهار ايستگاه⟦1⟧.\nنااميد نشو!⟦2⟧",
+"en": "There are four terminals remaining.\nDon't give up!",
+"src": "Demo044_0"
+},
+{
+"id": 716,
+"fa": "تنها ⟦0⟧سه ايستگاه⟦1⟧.\nمطمئنم از پسش برمی‌آيی!⟦2⟧",
+"en": "There are three terminals remaining.\nYou can do it!",
+"src": "Demo044_0"
+},
+{
+"id": 717,
+"fa": "تنها ⟦0⟧دو ايستگاه⟦1⟧.\nتقريباً رسيدی...⟦2⟧",
+"en": "There are two terminals remaining.\nYou're nearly there...",
+"src": "Demo044_0"
+},
+{
+"id": 718,
+"fa": "تنها ⟦0⟧آخرين ايستگاه⟦1⟧!\nكاملاً بهت ايمان دارم!⟦2⟧",
+"en": "Just one terminal remaining!\nI have faith in you!",
+"src": "Demo044_0"
+},
+{
+"id": 719,
+"fa": "همه ⟦0⟧ايستگاه‌ها⟦1⟧ را فعال كردی!\nحالا می‌توانی\n⟦2⟧واحد كنترل اصلی⟦3⟧ را فعال كنی.⟦4⟧\nيك علامت درخشان روی نقشه‌ات هست.\nسريع برو آنجا!⟦5⟧\n\nمراقب باش و غافل نشو.⟦6⟧",
+"en": "You activated all the terminals!\nNow you can start the\nmain control unit.\nThere should be a new glowing mark on\nyour map. Head there!\n\nBe careful not to let your guard down.",
+"src": "Demo044_0"
+},
+{
+"id": 720,
+"fa": "⟦0⟧در واحد كنترل اصلی ايراد پيدا شد.\nتأييد لوح شيكا ناموفق بود.",
+"en": "Main control unit abnormality detected.\nUnable to authenticate Sheikah Slate.",
+"src": "Demo044_0"
+},
+{
+"id": 721,
+"fa": "⟦0⟧لوح شيكا تأييد شد.\n\n\n⟦1⟧فعال‌سازی واحد كنترل اصلی ناموفق بود.\nهنوز ايستگاه‌هايی فعال نشده‌اند.",
+"en": "Sheikah Slate authenticated.\n\n\nUnable to activate main control unit.\nUnactivated terminals remain.",
+"src": "Demo044_0"
+},
+{
+"id": 722,
+"fa": "⟦0⟧بعد از فعال كردن واحد كنترل اصلی\nديگر نمی‌توانی وارد هيولای مقدس شوی.\n⟦1⟧هنوز هم می‌خواهی فعالش كنی؟⟦2⟧",
+"en": "Once you activate the main control unit,\nyou will not be able to reenter the\ninterior of this Divine Beast.\nDo you still wish to activate it?",
+"src": "Demo044_0"
+},
+{
+"id": 723,
+"fa": "سلام، سلام! چه چهره آشنايی...⟦0⟧\n\n\nهميشه حس می‌كردم يه روز می‌آيی اينجا.\nولی صد سال دير كردن، يه كم... ناز كردن نيست؟⟦1⟧\nفكر كنم برای نجات «مدوه»\nاز چنگ گانون آمدی، درسته؟⟦2⟧",
+"en": "Well now, I've seen that face before...\n\n\nI had a feeling you would show\nup eventually. But making me wait\na hundred years is a bit...indulgent.\nYou're here to wrest control of Medoh\naway from Ganon, correct?",
+"src": "Demo704_0"
+},
+{
+"id": 724,
+"fa": "اگر اينطور است، اولين كارت پيدا كردن يك نقشه است.⟦0⟧",
+"en": "If so, then the first thing you'll want to\ndo is find yourself a map.",
+"src": "Demo704_0"
+},
+{
+"id": 725,
+"fa": "آن ⟦0⟧سنگ هدايت ⟦1⟧اطلاعات نقشه اين هيولای مقدس را دارد.\nمی‌توانی خودت را به آن برسانی؟⟦2⟧",
+"en": "That Guidance Stone has the information\nfor the layout of this Divine Beast. Can\nyou make it there?",
+"src": "Demo704_0"
+},
+{
+"id": 726,
+"fa": "⟦0⟧سلام، سلام و خوش برگشتی.⟦1⟧\nبرای چه كاری آمدی؟",
+"en": "Well, well. You've returned.\nWhat is it?",
+"src": "Demo309_0"
+},
+{
+"id": 727,
+"fa": "⟦0⟧نه...⟦1⟧ به اين زودی همه مكان‌های عكس‌ها رو پيدا كردی؟⟦2⟧\nو به همه‌شون سر زدی؟!",
+"en": "No... All twelve pictures already?\nYou've visited every place?!",
+"src": "Demo309_0"
+},
+{
+"id": 728,
+"fa": "⟦0⟧هممم... پس فكر كنم وقتش رسيده...⟦1⟧\nتا مكان آخرين خاطره رو بهت بگم.",
+"en": "Hmm... Then I suppose it's time.\nI will reveal the location of the final\nmemory.",
+"src": "Demo309_0"
+},
+{
+"id": 729,
+"fa": "اين چيزيه كه اون روز اتفاق افتاد...⟦0⟧",
+"en": "Here is what happened...",
+"src": "Demo309_0"
+},
+{
+"id": 730,
+"fa": "بانو زلدا بهم دستور مشخصی داده بود.⟦0⟧\nگفته بود صبر كنم و اين رو آخر از همه بهت نشون بدم.",
+"en": "Lady Zelda gave me specific instructions.\nShe asked me to wait to show you this.",
+"src": "Demo309_0"
+},
+{
+"id": 731,
+"fa": "⟦0⟧پس، اينم آخرين عكس.",
+"en": "This is the final picture.",
+"src": "Demo309_0"
+},
+{
+"id": 732,
+"fa": "اين مكان‌ها برات آشنا به نظر می‌رسن؟⟦0⟧ ⟦1⟧\n می‌تونی تو نيم روز از همين دهكده\nبه اونجا برسی⟦2⟧ پس برو اونجا، پسر.\nو ببين بانو زلدا می‌خواست چی بهت نشون بده.",
+"en": "Does it look familiar? From this village,\nyou should be able to get there in a\nhalf day's time.\nNow go, child. Seek out what Lady Zelda\nhas shown you.",
+"src": "Demo309_0"
+},
+{
+"id": 733,
+"fa": "⟦0⟧هم؟ اين چيه؟ صدايی تو رو به اينجا كشونده؟\nفهميدم. پس زمانش رسيده.",
+"en": "Hm? What's this? A voice beckoned you\nhere? I see. So the time has come.",
+"src": "Demo209_0"
+},
+{
+"id": 734,
+"fa": "حالا بذار هر چی می‌دونم درباره\nآزمون سختی كه منتظرته بهت بگم.",
+"en": "I shall now tell you all I know about the\narduous trial that awaits you.",
+"src": "Demo209_0"
+},
+{
+"id": 735,
+"fa": "⟦0⟧اين شمشيری را كه دوباره پيدا كردی می‌بينی؟...\nشمشير استادی...\nهنوز به كمال واقعی‌اش نرسيده.",
+"en": "That sword you have reunited with...\nthe Master Sword...it has yet to realize\nits true splendor.",
+"src": "Demo209_0"
+},
+{
+"id": 736,
+"fa": "اين آزمون جرئتت را می‌سنجد تا ببيند\nشايسته اين شكوه هستی يا نه.",
+"en": "This trial shall test your courage to\nensure you are worthy of this splendor.",
+"src": "Demo209_0"
+},
+{
+"id": 737,
+"fa": "نامش آزمون شمشير است.\nاز هر چه ديده‌ای سخت‌تر است.",
+"en": "It is called the Trial of the Sword.\nIt will challenge you as you have\nnever been challenged before.",
+"src": "Demo209_0"
+},
+{
+"id": 738,
+"fa": "⟦0⟧همه اسلحه‌ها و سپرهايت گرفته می‌شود.\nبايد بدون ابزارهايی كه به آن‌ها عادت كرده‌ای\nبا دشمنان روبرو شوی.",
+"en": "All of your weapons and armor will be\nsealed away. You must face your enemies\nwithout the tools you've come to rely on.",
+"src": "Demo209_0"
+},
+{
+"id": 739,
+"fa": "وقتی با گذراندن آزمون شمشير روحت را آبديده كنی\nو خرد و شجاعتت را ثابت كنی...",
+"en": "Once you have tempered your soul and\nproven your wisdom and courage by\ncompleting the Trial of the Sword...",
+"src": "Demo209_0"
+},
+{
+"id": 740,
+"fa": "شمشير استاد واقعاً مال تو می‌شود!",
+"en": "the Master Sword shall truly be yours!",
+"src": "Demo209_0"
+},
+{
+"id": 741,
+"fa": "...هوم. اگر چشمم اشتباه نكند،\nانگار مصمم هستی اين آزمون را قبول كنی.\nيك قهرمان تمام‌عيار!",
+"en": "...Hm. Unless my eyes deceive me,\nyou seem quite willing to take on this\ntrial. A hero through and through!",
+"src": "Demo209_0"
+},
+{
+"id": 742,
+"fa": "حالا، لينك... شمشير استادی را در پايه‌اش بگذار.",
+"en": "Now, Link... Place the Master Sword\nin its pedestal.",
+"src": "Demo209_0"
+},
+{
+"id": 743,
+"fa": "همين الان يه چيزی به ذهنم رسيد...⟦0⟧كه اين منو ياد اولين ديدارمـون می‌اندازه.",
+"en": "I was thinking...this reminds me of the time we first met.",
+"src": "Demo152_0"
+},
+{
+"id": 744,
+"fa": "يه پسر بی‌پروا بودی...⟦0⟧هميشه به خودت آسيب می‌زدی.",
+"en": "You were just a reckless child...always getting yourself hurt at every turn.",
+"src": "Demo152_0"
+},
+{
+"id": 745,
+"fa": "و هر بار، من تو رو مداوا می‌كردم. ⟦0⟧درست مثل الان.",
+"en": "Every time, I would heal you. Just as I'm doing right now.",
+"src": "Demo152_0"
+},
+{
+"id": 746,
+"fa": "چون هايليايی بودی، خيلی زودتر از من بزرگ شدی،⟦0⟧و اون موقع به نظرم خنده‌دار بود.",
+"en": "I thought it was funny how, being a Hylian,you looked grown-up so much faster than I did.",
+"src": "Demo152_0"
+},
+{
+"id": 747,
+"fa": "هميشه...",
+"en": "I was...",
+"src": "Demo152_0"
+},
+{
+"id": 748,
+"fa": "هميشه آماده بودم زخم‌هات رو درمان كنم.⟦0⟧حتی اون موقع.",
+"en": "I was always willing to heal your wounds.Even back then.",
+"src": "Demo152_0"
+},
+{
+"id": 749,
+"fa": "پس اگه بلای گانون واقعاً برگرده، چيكار می‌تونيم بكنيم؟\n⟦0⟧انگار درباره دشمنی كه جلومونه، چيز زيادی نمی‌دونيم.",
+"en": "So if this Calamity Ganon does, in fact, return,\nwhat can we really do? We just don't seem to know much about\nwhat we'll be up against.",
+"src": "Demo152_0"
+},
+{
+"id": 750,
+"fa": "ولی اين رو بدون،\nهر قدر هم اين نبرد سخت بشه...⟦0⟧اگه آسيب ديدی... اگه كسی سعی كرد بهت آسيب برسونه...",
+"en": "But know this: that no matter how difficult\nthis battle might get...if you—if anyone ever tries to do you harm...",
+"src": "Demo152_0"
+},
+{
+"id": 751,
+"fa": "اون موقع درمانت می‌كنم.",
+"en": "Then I will heal you.",
+"src": "Demo152_0"
+},
+{
+"id": 752,
+"fa": "مهم نيست چی بشه، يا چقدر آسيب ببينی...",
+"en": "No matter when, or how bad the wound...",
+"src": "Demo152_0"
+},
+{
+"id": 753,
+"fa": "اميدوارم بدونی...⟦0⟧كه من هميشه ازت محافظت می‌كنم.",
+"en": "I hope you know...that I will always protect you.",
+"src": "Demo152_0"
+},
+{
+"id": 754,
+"fa": "شايد وقتی اينو تموم كنيم،⟦0⟧زندگی برگرده به اون چيزی كه بود\nوقتی بچه بوديم.",
+"en": "Once this whole thing is over,maybe things can go back to how they used\nto be when we were young.",
+"src": "Demo152_0"
+},
+{
+"id": 755,
+"fa": "و شايد...⟦0⟧بتونيم وقت بيشتری رو با هم بگذرونيم.",
+"en": "You know...Perhaps we could spend some time together.",
+"src": "Demo152_0"
+},
+{
+"id": 756,
+"fa": "كيه...؟⟦0⟧دوباره خوابم برده بود؟",
+"en": "Who is that...?Did I doze off again?",
+"src": "Demo104_0"
+},
+{
+"id": 757,
+"fa": "هوم؟⟦0⟧آه، خودتی... ⟦1⟧بالاخره تصميم گرفتی برگردی.",
+"en": "Hrm?Well, well...it's you. You finally decided to return.",
+"src": "Demo104_0"
+},
+{
+"id": 758,
+"fa": "دير كردی، ولی دير بهتر از هرگز است. ⟦0⟧بعد از صد سال\nانتظار، داشتم اميدم را برای\nديدن دوباره‌ات از دست می‌دادم. ⟦1⟧صبر من هم حدی دارد...",
+"en": "Better late than never. After 100 years, I'd nearly given up\nhope on seeing you again. Even my patience has limits, you know...",
+"src": "Demo104_0"
+},
+{
+"id": 759,
+"fa": "?\n※As in 「همم؟ ماذا يحصل؟」",
+"en": "?\n※As in 「Hm? What's going on?」",
+"src": "Demo104_0"
+},
+{
+"id": 760,
+"fa": "「اين كيه؟」",
+"en": "「Who is it?」",
+"src": "Demo104_0"
+},
+{
+"id": 761,
+"fa": "「ميشناسيمش؟」",
+"en": "「Someone we know?」",
+"src": "Demo104_0"
+},
+{
+"id": 762,
+"fa": "ولی از نگاهت پيداست...\nكه هيچ‌چيز از من يادت نيست.",
+"en": "That look on your face tells me that you have no\nrecollection of me, however.",
+"src": "Demo104_0"
+},
+{
+"id": 763,
+"fa": "از زمان‌های بسيار دور مراقب هايرول بوده‌ام.⟦0⟧در اين مدت، خيلی‌ها مرا درخت دكو صدا زده‌اند.",
+"en": "I have watched over Hyrule since time immemorial.Many have referred to me over the ages\nas the Deku Tree.",
+"src": "Demo104_0"
+},
+{
+"id": 764,
+"fa": "اين سلاحی است كه الهه باستان ساخته.⟦0⟧شمشيری كه تاريكی را مهر می‌كند و جز\nقهرمان برگزيده، كسی نمی‌تواند با آن عليه بلای گانون بجنگد.",
+"en": "That is the weapon created by the ancient Goddess.The sword that seals the darkness—that only the\nchosen knight can wield against the Calamity Ganon.",
+"src": "Demo104_0"
+},
+{
+"id": 765,
+"fa": "باور كنی يا نه... كسی كه آن شمشير را\nصد سال پيش به دست گرفت، خودِ تو بودی.",
+"en": "Believe it or not...it was actually you who wielded\nthat sword 100 years ago.",
+"src": "Demo104_0"
+},
+{
+"id": 766,
+"fa": "*ههههههههه*",
+"en": "*laughter*",
+"src": "Demo104_0"
+},
+{
+"id": 767,
+"fa": "ولی هشدار می‌دهم، خيلی احتياط كن.",
+"en": "But I must warn you to take extreme caution.",
+"src": "Demo104_0"
+},
+{
+"id": 768,
+"fa": "چون اين شمشير برای هر كسی كه جرئت كند\nصاحبش شود، يك آزمون است.",
+"en": "The sword stands as a test to anyone who would\ndare attempt to possess it.",
+"src": "Demo104_0"
+},
+{
+"id": 769,
+"fa": "با وضعيت فعلی‌ات نمی‌توانم بگويم\nشايسته هستی يا نه...",
+"en": "As you are now, I cannot say whether you are \nworthy or not...",
+"src": "Demo104_0"
+},
+{
+"id": 770,
+"fa": "اگر در اين حالت ضعيف بخواهی شمشير را آزاد كنی،\nهمان‌جا جانت را از دست خواهی داد.",
+"en": "If you sought to free the sword in any sort of\nweakened state, you would surely lose your life\nwhere you stand.",
+"src": "Demo104_0"
+},
+{
+"id": 771,
+"fa": ")توضيحات دوبله(",
+"en": "Pulling out→Struggling voice",
+"src": "Demo104_0"
+},
+{
+"id": 772,
+"fa": "⟦0⟧موفق باشی، كوچولو...",
+"en": "Best of luck, young one...",
+"src": "Demo104_0"
+},
+{
+"id": 773,
+"fa": "⟦0⟧در حال اسكن نقشه...",
+"en": "Scanning area...",
+"src": "Demo004_0"
+},
+{
+"id": 774,
+"fa": "⟦0⟧برج شيكا فعال شد.",
+"en": "Sheikah Tower activated.",
+"src": "Demo004_0"
+},
+{
+"id": 775,
+"fa": "⟦0⟧مراقب سنگ‌های در حال سقوط باش.",
+"en": "Please watch for falling rocks.",
+"src": "Demo004_0"
+},
+{
+"id": 776,
+"fa": "⟦0⟧در حال استخراج اطلاعات منطقه محلی...",
+"en": "Distilling local information...",
+"src": "Demo004_0"
+},
+{
+"id": 777,
+"fa": "⟦0⟧نقشه منطقه استخراج شد.\n\n\nلوح شيكا به‌روزرسانی شد.⟦1⟧\nقابليت‌های جديدی در لوح شناسايی شد.",
+"en": "Regional map extracted.\n\n\nSheikah Slate updated.\nAdditional functionality detected.",
+"src": "Demo004_0"
+},
+{
+"id": 778,
+"fa": "⟦0⟧راه‌اندازی حسگر شيكا كامل شد. \n\n\nمی‌توان آن را با ⟦1⟧ در صفحه نقشه فعال يا غيرفعال كرد.",
+"en": "Sheikah Sensor acquired. \n\n\nYou can enable or disable the Sheikah\nSensor with  on the map screen.",
+"src": "Demo004_0"
+},
+{
+"id": 779,
+"fa": "⟦0⟧لوح شيكا را روی پايه قرار بده.",
+"en": "Place the Sheikah Slate in the pedestal.",
+"src": "Demo004_0"
+}
+]

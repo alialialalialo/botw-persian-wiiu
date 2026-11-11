@@ -1,0 +1,782 @@
+[
+{
+"id": 1040,
+"fa": "اين بار با هم می‌رويم تا حسش كنی.",
+"en": "We'll go together so you can get a feel for it.",
+"src": "Demo662_0"
+},
+{
+"id": 1041,
+"fa": "بيا برويم!",
+"en": "Let's go!",
+"src": "Demo662_0"
+},
+{
+"id": 1042,
+"fa": "ای سيدون عزيز. اگر سرنوشت ما را از هم جدا كند...",
+"en": "Sweet Sidon. Should fate ever part us...",
+"src": "Demo662_0"
+},
+{
+"id": 1043,
+"fa": "روی تو حساب می‌كنم خانه‌ی عزيزمان را\nاز آسيب حفظ كنی.",
+"en": "I'm counting on you to protect our\nbeloved home from harm.",
+"src": "Demo662_0"
+},
+{
+"id": 1044,
+"fa": "قبول؟",
+"en": "Understood?",
+"src": "Demo662_0"
+},
+{
+"id": 1045,
+"fa": "به تو ايمان دارم.⟦0⟧حالا، يك بار ديگر امتحان كنيم؟",
+"en": "I believe in you.Now, shall we try one more time?",
+"src": "Demo662_0"
+},
+{
+"id": 1046,
+"fa": "ای برگزيده...\n\n\nای قهرمان، لينك...\n\n\n\nوقتش رسيده. حالا آماده‌ای تا مرز شجاعتت را بيازمايی.\n\nبه جنگل مقدس كُوروگ برو،\nهمان جايی كه سرنوشت تو را به شمشير استادی رساند.\n\n آنجا درخت بزرگ دِكو را پيدا می‌كنی، پس خوب به حرف‌هايش گوش بده..\nاين كار را بكن تا آزمونی باشكوه به تو داده شود.",
+"en": "Chosen one...\n\n\nThe hero called Link...\n\n\nThe time has come. You are now ready\nto test the limits of your courage.\n\nHeed the Great Deku Tree's words at\nthis sacred place, the Korok Forest.\n\nDo so, and a glorious trial will be\nbestowed upon you.",
+"src": "Demo201_0"
+},
+{
+"id": 1047,
+"fa": "در ازای نشان‌های رودانيا...\nفرصت می‌يابی پا به دنيای خاطرات بگذاری.",
+"en": "In exchange for Rudania's Emblems...\nyou will be granted the chance to\ntread through the realm of memories.",
+"src": "Demo614_0"
+},
+{
+"id": 1048,
+"fa": "كسی كه عزم كافی نداشته باشد، در اين آزمون رحمی نمی‌بيند. \nاينجا را دست‌كم نگير\nو فكر نكن فقط خيالی در ذهن توست.\nحقيقت خيلی عميق‌تر از اين حرف‌هاست.",
+"en": "Those who lack determination will find\nthis trial unforgiving.\n\nDo not take this place lightly, nor dismiss\nit as merely a world within your mind.\nThe truth is much deeper than you know.",
+"src": "Demo614_0"
+},
+{
+"id": 1049,
+"fa": "ای قهرمان شجاع...\nآيا جرئت می‌كنی با دنيايی روبه‌رو شوی كه خيال و خاطره\nدر آن درهم آميخته‌اند...\nآيا قدم به ⟦0⟧هيولای مقدس واه رودانيا⟦1⟧ می‌گذاری؟⟦2⟧",
+"en": "Courageous hero... Dare you confront a\nrealm of illusion and memory... Dare you\nenter the Divine Beast Vah Rudania?",
+"src": "Demo614_0"
+},
+{
+"id": 1050,
+"fa": "عقب برو.",
+"en": "Quit.",
+"src": "Demo614_0"
+},
+{
+"id": 1051,
+"fa": "هر كه می‌خواهد شكل واقعی بلای گانون را بشناسد،\nبايد داستانی را بداند كه از دورانی\nبسيار دور می‌آيد. ⟦0⟧ارباب تاريكی در اين سرزمين به دنيا آمد،\nولی تبديل شدنش به پليدی محض او را به اين هيولای ترسناك\nكه حالا می‌بينی تبديل كرد.",
+"en": "To know Calamity Ganon's true form, one must\nknow the story from an age long past. The demon king was born into this kingdom, but his\ntransformation into Malice created the horror you\nsee now.",
+"src": "Demo101_0"
+},
+{
+"id": 1052,
+"fa": "قصه‌های گانون نسل به نسل به شكل افسانه و قصه منتقل شده بود.⟦0⟧اما در ميان آن‌ها... يك پيشگويی هم بود.",
+"en": "Stories of Ganon were passed from generation to\ngeneration in the form of legends and fairy tales.But there was also...a prophecy.",
+"src": "Demo101_0"
+},
+{
+"id": 1053,
+"fa": "\"نشانه‌های بازگشت بلای گانون\nروشن است. ⟦0⟧و قدرتی كه می‌توان با آن مقابله كرد،\nزير زمين خفته است.\"",
+"en": "\"The signs of a resurrection of\nCalamity Ganon are clear. And the power to oppose it lies\ndormant beneath the ground.\"",
+"src": "Demo101_0"
+},
+{
+"id": 1054,
+"fa": "به جای ناديده گرفتن پيشگويی، تصميم گرفتيم آماده شويم\nو شروع كرديم به كندن زمين‌های وسيع. ⟦0⟧طولی نكشيد\nكه چند آثار باستانی پيدا كرديم\nكه نياكان دورمان ساخته بودند.",
+"en": "We decided to heed the prophecy and began\nexcavating large areas of land. It wasn't long before we discovered several ancient\nrelics made by the hands of our distant ancestors.",
+"src": "Demo101_0"
+},
+{
+"id": 1055,
+"fa": "آن آثار همان هيولاهای مقدس بودند؛\nماشين‌های عظيمی كه جنگجويان هدايتشان می‌كردند.\n⟦0⟧نگهبان‌ها را هم پيدا كرديم، سربازهای مكانيكی\nكه خودشان می‌جنگيدند.",
+"en": "These relics, the Divine Beasts, were giant machines\npiloted by warriors.We also found the Guardians, an army of mechanical\nsoldiers who fought autonomously.",
+"src": "Demo101_0"
+},
+{
+"id": 1056,
+"fa": "اين با افسانه‌های كهنی جور بود كه\nدر سراسر سرزمينمان بارها گفته می‌شد.",
+"en": "This coincided with ancient legends, oft repeated\nthroughout our land.",
+"src": "Demo101_0"
+},
+{
+"id": 1057,
+"fa": "از شاهدختی با قدرت مقدس و شواليه برگزيده‌اش هم\nشنيديم، شواليه‌ای كه شمشيرِ مهركننده‌ی\nپليدی او را برگزيده بود. ⟦0⟧آن‌ها بودند كه با قدرت اين آثار باستانی\nگانون را مهر و موم كردند.",
+"en": "We also learned of a princess with a sacred power\nand her appointed knight, chosen by the sword that\nseals the darkness. It was they who sealed Ganon away using the power\nof these ancient relics.",
+"src": "Demo101_0"
+},
+{
+"id": 1058,
+"fa": "صد سال پيش شاهدختی بود كه قرار بود قدرتی مقدس را به ارث ببرد\nو شواليه‌ای ماهر كنارش بود.⟦0⟧معلوم بود كه بايد راه نياكانمان را برويم.",
+"en": "One hundred years ago, there was a princess\nset to inherit a sacred power and a skilled knight\nat her side.It was clear that we must follow our ancestors' path.",
+"src": "Demo101_0"
+},
+{
+"id": 1059,
+"fa": "ما چهار فرد ماهر را از سراسر هايرول برگزيديم\nو هدايت هيولاهای مقدس را به آن‌ها سپرديم.",
+"en": "We selected four skilled individuals from across\nHyrule and tasked them with the duty of piloting the\nDivine Beasts.",
+"src": "Demo101_0"
+},
+{
+"id": 1060,
+"fa": "شاهدخت فرمانده‌شان بود و ما اين خلبان‌ها را «قهرمانان» ناميديم؛\n⟦0⟧نامی كه پيوند ويژه‌شان را نشان می‌داد.",
+"en": "With the princess as their commander, we dubbed\nthese pilots Champions—a name that would solidify their unique bond.",
+"src": "Demo101_0"
+},
+{
+"id": 1061,
+"fa": "شاهدخت، شواليه برگزيده‌اش و بقيه‌ی قهرمانان\nدر آستانه‌ی مهر و موم كردن گانون بودند...",
+"en": "The princess, her appointed knight, and the rest\nof the Champions were on the brink of sealing\naway Ganon...",
+"src": "Demo101_0"
+},
+{
+"id": 1062,
+"fa": "اما افسوس...⟦0⟧گانون حيله‌گر بود و نقشه‌ای كشيد\nكه به تصور ما نمی‌رسيد.",
+"en": "But nay...Ganon was cunning, and he responded with a plan\nbeyond our imagining.",
+"src": "Demo101_0"
+},
+{
+"id": 1063,
+"fa": "آن روز او از اعماق زير قلعه هايرول بيرون آمد،\nكنترل نگهبان‌ها و هيولاهای مقدس را به دست گرفت⟦0⟧و آن‌ها را عليه ما به كار برد.",
+"en": "He appeared from deep below Hyrule Castle,\nseized control of the Guardians and the\nDivine Beasts,and turned them against us.",
+"src": "Demo101_0"
+},
+{
+"id": 1064,
+"fa": "قهرمانان جانشان را از دست دادند.\nساكنان قلعه هم همين‌طور.⟦0⟧شواليه برگزيده هم كه زخمی شده بود،\nموقع دفاع از شاهدخت از پا درآمد...",
+"en": "The Champions lost their lives. Those residing in the\ncastle as well.The appointed knight, gravely wounded, collapsed\nwhile defending the princess...",
+"src": "Demo101_0"
+},
+{
+"id": 1065,
+"fa": "و اين‌طور بود كه پادشاهی هايرول سقوط كرد\nو بلای گانون آن را كاملاً نابود كرد.",
+"en": "And thus, the kingdom of Hyrule was devastated\nabsolutely by Calamity Ganon.",
+"src": "Demo101_0"
+},
+{
+"id": 1066,
+"fa": "شاهدخت زنده ماند...⟦0⟧و تنهايی به مقابله با گانون رفت.",
+"en": "The princess survived...to face Ganon alone.",
+"src": "Demo101_0"
+},
+{
+"id": 1067,
+"fa": "لينك...⟦0⟧تو آخرين اميد ما هستی. ⟦1⟧سرنوشت هايرول دست توست.",
+"en": "Link...You are our final hope. The fate of Hyrule rests with you.",
+"src": "Demo101_0"
+},
+{
+"id": 1068,
+"fa": "⟦0⟧سه ايستگاه باقی مانده.",
+"en": "There are three terminals remaining.",
+"src": "Demo643_2"
+},
+{
+"id": 1069,
+"fa": "⟦0⟧دو ايستگاه باقی مانده.",
+"en": "There are two terminals remaining.",
+"src": "Demo643_2"
+},
+{
+"id": 1070,
+"fa": "⟦0⟧آخرين ايستگاه باقی مانده.",
+"en": "There is one terminal remaining.",
+"src": "Demo643_2"
+},
+{
+"id": 1071,
+"fa": "⟦0⟧قفل همه‌ی ايستگاه‌ها باز شد.\nحالا می‌توانی به عميق‌ترين منطقه بروی.",
+"en": "All terminal locks have been deactivated.\nYou can now access the deepest area.",
+"src": "Demo643_2"
+},
+{
+"id": 1072,
+"fa": "⟦0⟧يك قفل در باز می‌شود.",
+"en": "Deactivating one lock of the door.",
+"src": "Demo643_2"
+},
+{
+"id": 1073,
+"fa": "مِدو حالا هدفش را نشانه گرفته است.",
+"en": "Medoh's sights are now set.",
+"src": "Demo119_0"
+},
+{
+"id": 1074,
+"fa": "از اينجا درست روی گانون نشانه می‌گيری.\n ⟦0⟧و وقتی وقتش رسيد،\nهر چی داری رويش خالی كن!",
+"en": "You'll have a precise bead on Ganon\nfrom this vantage point. And when the time is right,\ngive him everything you've got!",
+"src": "Demo119_0"
+},
+{
+"id": 1075,
+"fa": "ولی ما منتظر لحظه‌ی مناسب می‌مانيم...",
+"en": "Now we wait for that perfect moment...",
+"src": "Demo119_0"
+},
+{
+"id": 1076,
+"fa": " ⟦0⟧ای مِدو، نزديك صد سال\nبا افتخار كنارت صبر كردم.⟦1⟧فكر نمی‌كنم چند لحظه‌ی ديگر برايت سخت باشد...",
+"en": " Medoh, we've been artfully patient\nfor the last 100 years.I doubt you'll suffer a feather\nover a few more moments...",
+"src": "Demo119_0"
+},
+{
+"id": 1077,
+"fa": "هممم...",
+"en": "... Hm.",
+"src": "Demo119_0"
+},
+{
+"id": 1078,
+"fa": "بايد راستش را بگويم. بعد از اين‌همه سال...",
+"en": "After all these years, I simply must admit the truth...",
+"src": "Demo119_0"
+},
+{
+"id": 1079,
+"fa": "لينك بدون توانايی پرواز هم خودش را به اين هيولای مقدس رساند...",
+"en": "Even without the power of flight,\nLink made his way to this Divine Beast...",
+"src": "Demo119_0"
+},
+{
+"id": 1080,
+"fa": "و كاری كرد كه من هم از پسش برنيامدم...",
+"en": "And accomplished something that even I could not...",
+"src": "Demo119_0"
+},
+{
+"id": 1081,
+"fa": "اعتراف می‌كنم درباره...⟦0⟧شانس او اشتباه كرده بودم.",
+"en": "Guess I was wrong about...how lucky he would be.",
+"src": "Demo119_0"
+},
+{
+"id": 1082,
+"fa": "لينك، اميدوارم شانست...⟦0⟧به خاطر همه، تمام نشود..",
+"en": "I hope that luck holds out, Link...For everyone's sake.",
+"src": "Demo119_0"
+},
+{
+"id": 1083,
+"fa": "می‌تونم الان برم.",
+"en": "I'm good to go.",
+"src": "Demo019_0"
+},
+{
+"id": 1084,
+"fa": "اول بايد تجهيزاتم رو آماده كنم.",
+"en": "I need to prepare.",
+"src": "Demo019_0"
+},
+{
+"id": 1085,
+"fa": "بازگشت به ميدان پرواز.",
+"en": "Back to Flight Range.",
+"src": "Demo019_0"
+},
+{
+"id": 1086,
+"fa": "ادامه بديم.",
+"en": "Let's keep going.",
+"src": "Demo019_0"
+},
+{
+"id": 1087,
+"fa": "⟦0⟧رفيق...⟦1⟧ مطمئنی كه می‌تونی ادامه بدی؟⟦2⟧",
+"en": "Man... Are you OK to keep going?",
+"src": "Demo019_0"
+},
+{
+"id": 1088,
+"fa": "⟦0⟧خوبه. اون ⟦1⟧توپ‌ها⟦2⟧ رو بتركون!",
+"en": "All right. Take out those cannons!",
+"src": "Demo019_0"
+},
+{
+"id": 1089,
+"fa": "⟦0⟧فهميدم. تو هم حواست به خودت باشه!",
+"en": "Got that. Watch yourself!",
+"src": "Demo019_0"
+},
+{
+"id": 1090,
+"fa": "⟦0⟧باشه.⟦1⟧ بيا فرود بيايم و يه كم نفس تازه كنيم.",
+"en": "Understood. Let's head back to the\nground for a bit.",
+"src": "Demo019_0"
+},
+{
+"id": 1091,
+"fa": "⟦0⟧اگه ادامه بديم مشكلی نداری؟⟦1⟧",
+"en": "Are you OK to keep going?",
+"src": "Demo019_0"
+},
+{
+"id": 1092,
+"fa": "⟦0⟧هی، چی شده؟⟦1⟧\nواقعاً می‌خوای برگردی؟⟦2⟧",
+"en": "Hey, what's going on?\nYou really want to go back?",
+"src": "Demo019_0"
+},
+{
+"id": 1093,
+"fa": "⟦0⟧پس مشكلی با ادامه دادن نداری؟⟦1⟧",
+"en": "So you're OK to keep going?",
+"src": "Demo019_0"
+},
+{
+"id": 1094,
+"fa": "⟦0⟧هوا اصلا با ما نيست.⟦1⟧\nبرای ⟦2⟧مقابله با سرما⟦3⟧ آماده‌ای؟⟦4⟧",
+"en": "Looks like the weather is not on our side.\nAre you all set for cold protection?",
+"src": "Demo019_0"
+},
+{
+"id": 1095,
+"fa": "⟦0⟧ديگه هيچ ⟦1⟧كمانی⟦2⟧ برات نمونده؟!⟦3⟧\nپس بيا فعلاً عقب‌نشينی كنيم.",
+"en": "You're all out of bows?!\nLet's head back for now.",
+"src": "Demo019_0"
+},
+{
+"id": 1096,
+"fa": "⟦0⟧ديگه ⟦1⟧تير انفجاری⟦2⟧ نداری؟!⟦3⟧\nپس بيا فعلاً عقب‌نشينی كنيم.",
+"en": "You're out of bomb arrows?!\nLet's head back for now.",
+"src": "Demo019_0"
+},
+{
+"id": 1097,
+"fa": "لينك، لطفاً مراقب باش.⟦0⟧آن... چيز... از مخلوقات گانون است.\n⟦1⟧صد سال پيش تا جايی كه می‌شد با آن جنگيدم،\nولی مرگم شد...",
+"en": "Please take care.That...thing is one of Ganon's creations.I put up as much of a fight as I could, but it\nproved to be my demise 100 years ago...",
+"src": "Demo162_0"
+},
+{
+"id": 1098,
+"fa": "با اين حال...\nفكر می‌كنم برای اين لحظه كاملاً آماده‌ای.⟦0⟧بهت ايمان دارم!",
+"en": "Regardless...I believe that you are well prepared\nfor this moment.I have faith in you!",
+"src": "Demo162_0"
+},
+{
+"id": 1099,
+"fa": "آفرين، عالی بود!",
+"en": "That was so cool!",
+"src": "Demo114_0"
+},
+{
+"id": 1100,
+"fa": "نابودش كردی، لينك!",
+"en": "You really put a licking on that thing, Link!",
+"src": "Demo114_0"
+},
+{
+"id": 1101,
+"fa": "وقتشه كار رو تموم كنيم!",
+"en": "It's time to finish the job!",
+"src": "Demo114_0"
+},
+{
+"id": 1102,
+"fa": "اين بهترين فرصتمونه!",
+"en": "This is our big chance!",
+"src": "Demo114_0"
+},
+{
+"id": 1103,
+"fa": "می‌تونی كنار اين آتش وقت بگذرونی.",
+"en": "You can pass time by the fire.",
+"src": "Demo007_1"
+},
+{
+"id": 1104,
+"fa": "كنار آتش می‌نشينی...⟦0⟧",
+"en": "Sit by the fire until...",
+"src": "Demo007_1"
+},
+{
+"id": 1105,
+"fa": "تا شب.",
+"en": "Night.",
+"src": "Demo007_1"
+},
+{
+"id": 1106,
+"fa": "با دشمنی روبه‌رو می‌شوی كه از ترس نهفته در درونت زاده شده.\nبايد بر او غلبه كنی تا بتوانی پيش بروی.",
+"en": "The enemy you shall face is a product\nof the fear that dwells within. You must\novercome this fear to proceed.",
+"src": "Demo670_0"
+},
+{
+"id": 1107,
+"fa": "صد سال ما را به اين لحظه رساند...⟦0⟧صبر كن، شاهدخت. لحظه‌مان رسيد!",
+"en": "A hundred years in the making...Hold on, Princess. Our moment has arrived!",
+"src": "Demo143_2"
+},
+{
+"id": 1108,
+"fa": "ای قهرمان برگزيده‌ی شمشير...\nبه نام ايزدايزدايزدبانو هايليا،\nآزمون شمشير را به تو می‌دهم.",
+"en": "To the blade's chosen hero...\nIn the name of the Goddess Hylia,\nI offer the Trial of the Sword.",
+"src": "Demo202_1"
+},
+{
+"id": 1109,
+"fa": "هنوز قدرت كافی نداری\nتا شكوه واقعی شمشير استادی را به كار ببری...",
+"en": "You presently lack the power necessary\nto wield the true splendor of the\nMaster Sword...",
+"src": "Demo202_1"
+},
+{
+"id": 1110,
+"fa": "بايد ذهن، جسم و روحت را با از ميان برداشتن\nتمام موانع اين جهان قوی كنی.",
+"en": "You must fortify your mind, body,\nand soul by eradicating all obstacles\nthat appear in this realm.",
+"src": "Demo202_1"
+},
+{
+"id": 1111,
+"fa": "هر چيزی كه اينجا به دست آوری، وقتی به دنيای واقعی\nبرگردی از دست می‌رود.",
+"en": "All that you obtain here will be lost upon\nyour return to the reality you know.",
+"src": "Demo202_1"
+},
+{
+"id": 1112,
+"fa": "ای قهرمان برگزيده‌ی شمشير استاد...\nآزمون شمشير را بگذران و شكوه واقعی شمشير را بگير!",
+"en": "Chosen hero of the Master Sword...\nOvercome the Trial of the Sword and\nclaim the blade's true splendor!",
+"src": "Demo202_1"
+},
+{
+"id": 1113,
+"fa": "⟦0⟧می‌دونستم از پسش برميای كوچولو!\nحالا هم محافظ داروك پشتته.",
+"en": "I knew ya could do it, little guy!\nNow you can use Daruk's Protection\nmore than ever.",
+"src": "Demo622_0"
+},
+{
+"id": 1114,
+"fa": "⟦0⟧اگه يه بار ديگه اون حيوون گانون رو ديدی،\nاين سلام رو از طرف من بهش برسون...\n\"آخيش، خلاص شديم از دستت، ای دهن خوك!\"",
+"en": "If ya see that Ganon jerk, give him a\nmessage for me... \"Good riddance,\nbacon-breath!\"",
+"src": "Demo622_0"
+},
+{
+"id": 1115,
+"fa": "⟦0⟧گوش كن كوچولو! اومدی كه يه بار ديگه مهارت‌هاتو محك بزنی؟",
+"en": "Hey, little guy! So ya came to test\nyour skills again, huh?",
+"src": "Demo622_0"
+},
+{
+"id": 1116,
+"fa": "⟦0⟧مطمئنم با اين قدرتی كه به دست آوردی،\nشكست دادن گانون برات مثل آب خوردنه!",
+"en": "With the strength you've mustered,\nI'm sure beating down Calamity Ganon\nwill be a piece of slate!",
+"src": "Demo622_0"
+},
+{
+"id": 1117,
+"fa": "⟦0⟧كوچولو! می‌شه يه پيام رو به اون كوچولوی ديگه برسونی،\nبه پاس اين لطفت؟",
+"en": "Little guy! Can ya pass along a message\nto the youngster for me?",
+"src": "Demo622_0"
+},
+{
+"id": 1118,
+"fa": "⟦0⟧بهش بگو وقتی من كوچيك بودم،\nهيچ‌كس با احترام بهم نگاه نمی‌كرد.\nمثل يه علف تازه، ضعيف بودم،\nو خجالتی‌تر و ترسو‌تر از موش‌ها بودم!",
+"en": "Tell him, when I was young, nobody gave\nme the time o' day. I was green as grass\nand timid as a mouse!",
+"src": "Demo622_0"
+},
+{
+"id": 1119,
+"fa": "⟦0⟧اما كافيه پشتكار داشته باشی و سخت كار كنی،\nو مراقب دوستات و برادرهات باشی، و سنگ‌های خوشمزه رو بخوری.\nاگه اين كارو كنه، حتی از منم قوی‌تر می‌شه!",
+"en": "Just work hard, watch out for your\nbrothers, and eat lots of tasty rocks.\nDo that, and you'll be stronger than me!",
+"src": "Demo622_0"
+},
+{
+"id": 1120,
+"fa": "⟦0⟧خوشحال می‌شم اگه اين حرف‌ها رو كلمه به كلمه بهش منتقل كنی.",
+"en": "It'd be great if you could tell him that\nfor me, brother.",
+"src": "Demo622_0"
+},
+{
+"id": 1121,
+"fa": "⟦0⟧سلام كوچولو! بگو ببينم، اولين ملاقاتمون يادت مياد؟",
+"en": "Hey there, little guy! Say, do ya\nremember when we first met?",
+"src": "Demo622_0"
+},
+{
+"id": 1122,
+"fa": "⟦0⟧و راستش رو بخوای...\nهيچ‌وقت فكر نمی‌كردم يه هايليا رو ببينم\nكه به اندازه كافی قوی باشه تا برادر خودم صداش كنم!",
+"en": "Honestly... I never thought I'd find a\nHylian strong enough to be considered\na true brother!",
+"src": "Demo622_0"
+},
+{
+"id": 1123,
+"fa": "⟦0⟧مطمئنم كه اون موقع از شوك، قيافه‌م احمقانه شده بود.\nاما چرا دارم بهت يادآوری می‌كنم، ترجيح می‌دم اون قسمت رو كلاً فراموش كنی.",
+"en": "I was so shocked, bet I had a dopey look\non my face. Maybe it's best if ya don't\nremember that part.",
+"src": "Demo622_0"
+},
+{
+"id": 1124,
+"fa": "⟦0⟧برادر كوچولوی من!\nانگار حافظه‌ت هنوزم قاطی‌پاتيه... درسته؟ بذار ببينم...",
+"en": "Little guy! I'm guessing your memory's\nstill scrambled, yeah? Well...",
+"src": "Demo622_0"
+},
+{
+"id": 1125,
+"fa": "⟦0⟧شايد بهت كمك كنه اگه اون دفترچه‌ای كه خاطراتمون توشه رو بخونی.\nمی‌شناسيش، همونی كه خودم تو گذشته‌های دور نوشتم.",
+"en": "Maybe it'd help if you'd read that thing\nabout our memories. Ya know, the one\nfrom back in the good ol' days.",
+"src": "Demo622_0"
+},
+{
+"id": 1126,
+"fa": "⟦0⟧می‌پرسی چيه؟ آها، درست گفتی، دفتر خاطراتم. يا منظورم...\nدفترچه تمريناتمه. مطمئنم هنوز همين نزديكی‌هاست.",
+"en": "What's that thing? Oh, yeah, my diary.\nI mean...my training journal. I bet it's\nstill around.",
+"src": "Demo622_0"
+},
+{
+"id": 1127,
+"fa": "⟦0⟧چی؟ تعجب كردی كه من دفتر خاطرات می‌نوشتم؟\nاگه كنجكاو شدی، سعی كن پيداش كنی!",
+"en": "What? Surprised I kept a journal?\nIf you're curious, try to find it!",
+"src": "Demo622_0"
+},
+{
+"id": 1128,
+"fa": "⟦0⟧گوش كن كوچولو! بهت اعتماد می‌كنم، راز رو نگه می‌داری، باشه؟",
+"en": "Hey, little guy! Listen, I'm trusting ya\nto keep a secret, OK?",
+"src": "Demo622_0"
+},
+{
+"id": 1129,
+"fa": "⟦0⟧يه هيولايی بود كه نتونستم شكستش بدم!\nچقدر از اون لعنتی متنفر بودم!",
+"en": "Between you and me, there was once a\nmonster I just couldn't beat. I hated that\nstupid thing!",
+"src": "Demo622_0"
+},
+{
+"id": 1130,
+"fa": "⟦0⟧وقتی كوچيك بودم دُمش رو لگد كردم،\nاونم شروع كرد به \"هب!\" و \"غنن!\" و \"غررر!\" كردن.\nعجب موجود كوچولوی لعنتی‌ای بود.",
+"en": "When I was young, I stepped on its tail,\nand it went \"ARP!\" and \"RUFF!\"\nand \"GRRRR!\" Nasty critter.",
+"src": "Demo622_0"
+},
+{
+"id": 1131,
+"fa": "⟦0⟧هنوز اون صورت زشت و چنگال‌های تيزش رو يادمه.\nراحت نيست كه با ترس‌هات روبرو بشی و پارس...\nاهم، زخم‌های روحت رو ازشون درمان كنی.",
+"en": "I can still see its awful face and sharp\nfangs. Facing your fears is certainly no\nwalk in the bark. I mean...park.",
+"src": "Demo622_0"
+},
+{
+"id": 1132,
+"fa": "⟦0⟧...⟦1⟧⟦2⟧⟦3⟧لينك...⟦4⟧⟦5⟧لينك...⟦6⟧خيلی مراقب باش، لينك.",
+"en": "...Link...Link...Be on your guard.",
+"src": "Demo165_5"
+},
+{
+"id": 1133,
+"fa": "قدرت گانون در حال افزايش است...\nو با طلوع ماه سرخ به اوجش می‌رسد.",
+"en": "Ganon's power grows...it rises to its\npeak under the hour of the blood moon.",
+"src": "Demo165_5"
+},
+{
+"id": 1134,
+"fa": "با درخشش آن، ارواح سرگردان هيولاهايی كه\nبه نام نور كشته شده‌اند،\nدوباره جان می‌گيرند.",
+"en": "By its glow, the aimless spirits of\nmonsters slain in the name of the light\nreturn to flesh.",
+"src": "Demo165_5"
+},
+{
+"id": 1135,
+"fa": "مراقب باش... لينك.",
+"en": "Link...please be careful.",
+"src": "Demo165_5"
+},
+{
+"id": 1136,
+"fa": "وای وای وای...⟦0⟧حالا چی‌كار كنم؟",
+"en": "Oh man, oh man, oh man...What am I gonna do?",
+"src": "Demo175_0"
+},
+{
+"id": 1137,
+"fa": "هيولاها! هيولاها اومدن اينجا! فهميدن من كجام! كمك!",
+"en": "Monsters! They're here! They found me! Help!",
+"src": "Demo175_0"
+},
+{
+"id": 1138,
+"fa": "از اينجا می‌ريم به شهر چورون.",
+"en": "From here, we'll make our way to Goron City.",
+"src": "Demo127_0"
+},
+{
+"id": 1139,
+"fa": "آنجا بايد چند تغيير روی هيولای\nالهی بدهيم تا داروك بتواند راحت‌تر كنترلش كند.",
+"en": "Then, we'll need some adjustments on that\nDivine Beast so Daruk can manage it as easily\nas possible.",
+"src": "Demo127_0"
+},
+{
+"id": 1140,
+"fa": "او فهميده چطور راهش بيندازد...⟦0⟧اما هنوز خيلی چيزها مانده كه ندانيم.",
+"en": "He's figured out how to get it to move...However, it's apparent that we still have\nmuch more to learn.",
+"src": "Demo127_0"
+},
+{
+"id": 1141,
+"fa": "هيولای مقدس رو آدم‌ها ساخته بودند...",
+"en": "But to think, that Divine Beast was actually\nbuilt by people...",
+"src": "Demo127_0"
+},
+{
+"id": 1142,
+"fa": "يعنی می‌شود كارشان را فهميد و ازشان استفاده كرد.",
+"en": "That means we should be able to understand how it\nworks and how to use it to our advantage.",
+"src": "Demo127_0"
+},
+{
+"id": 1143,
+"fa": "هيولاهای الهی هنوز رازآلودند... ⟦0⟧اما بهترين اميد ما عليه گانون‌اند.",
+"en": "These Divine Beasts...so much we don't know... But if we want to turn back the Calamity Ganon, \nthey're our best hope.",
+"src": "Demo127_0"
+},
+{
+"id": 1144,
+"fa": "راستش را بگو...⟦0⟧الان با آن شمشيری كه به پشتت است چقدر ماهری؟",
+"en": "Tell me the truth...How proficient are you right now,\nwielding that sword on your back?",
+"src": "Demo127_0"
+},
+{
+"id": 1145,
+"fa": "می‌گويند صدايی باستانی درون شمشير است... ⟦0⟧هنوز می‌شنويش، قهرمان؟",
+"en": "Legend says that an ancient voice\nresonates inside it. Can you hear it yet...hero?",
+"src": "Demo127_0"
+},
+{
+"id": 1146,
+"fa": "⟦0⟧⟦1⟧*سرفه سرفه*⟦2⟧\n*اهم*",
+"en": "*cough cough*\n*ahem*",
+"src": "Demo370_0"
+},
+{
+"id": 1147,
+"fa": "⟦0⟧هادسون...",
+"en": "Hudson...",
+"src": "Demo370_0"
+},
+{
+"id": 1148,
+"fa": "⟦0⟧آيا پائودا را به همسری می‌پذيری،\nبا او می‌مانی، در روزهای خوب و بد؟",
+"en": "Do you take Rhondson to be your wife,\nto have and to hold, in good times and\nin bad?",
+"src": "Demo370_0"
+},
+{
+"id": 1149,
+"fa": "⟦0⟧و آيا هادسون را\nبه شوهری می‌پذيری، در سلامتی و بيماری؟",
+"en": "Do you take Hudson as your lawfully\nwedded husband, in sickness and\nin health?",
+"src": "Demo370_0"
+},
+{
+"id": 1150,
+"fa": "⟦0⟧می‌پذيرم.",
+"en": "I do.",
+"src": "Demo370_0"
+},
+{
+"id": 1151,
+"fa": "⟦0⟧عالی.",
+"en": "Excellent.",
+"src": "Demo370_0"
+},
+{
+"id": 1152,
+"fa": "⟦0⟧و تو، پائودا...",
+"en": "And Rhondson...",
+"src": "Demo370_0"
+},
+{
+"id": 1153,
+"fa": "⟦0⟧آيا به همه‌ی حاضران قول می‌دهی كه...\n⟦1⟧اسم بچه‌هايتان را طبق آيين‌نامه‌ی\nنام‌گذاری سازه‌های ساكورادا انتخاب كنی؟",
+"en": "And do you also vow to...name your\nchildren in accordance with the Bolson\nConstruction naming guidelines?",
+"src": "Demo370_0"
+},
+{
+"id": 1154,
+"fa": "⟦0⟧يك لحظه صبر كن...\n⟦1⟧اين سوگندها با هيچ\nسنتی جور درنمی‌آيند!",
+"en": "Wait a moment... Those vows are not\ntraditional by anyone's standards!",
+"src": "Demo370_0"
+},
+{
+"id": 1155,
+"fa": "⟦0⟧چرا اين‌طور فكر می‌كنی؟",
+"en": "What makes you say that?",
+"src": "Demo370_0"
+},
+{
+"id": 1156,
+"fa": "⟦0⟧به جان خودم، سنتی‌تر از اين نمی‌شود!",
+"en": "They're as traditional as it gets!",
+"src": "Demo370_0"
+},
+{
+"id": 1157,
+"fa": "⟦0⟧فكر نمی‌كنم منظورش از سنتی اين باشد.",
+"en": "I don't think she means traditional in that\nsense of the word.",
+"src": "Demo370_0"
+},
+{
+"id": 1158,
+"fa": "⟦0⟧⟦1⟧قسم به يك سنت جاودان!",
+"en": "A vow of undying tradition!",
+"src": "Demo370_0"
+},
+{
+"id": 1159,
+"fa": "⟦0⟧و قسم به رعايت آيين‌نامه‌ی حرفه‌ای!",
+"en": "And a vow of guidelines compliance!",
+"src": "Demo370_0"
+},
+{
+"id": 1160,
+"fa": "⟦0⟧⟦1⟧من اين قسم را قبول می‌كنم!⟦2⟧",
+"en": "I'll take that vow!",
+"src": "Demo370_0"
+},
+{
+"id": 1161,
+"fa": "⟦0⟧⟦1⟧⟦2⟧خب، قاعده همين است...\n⟦3⟧⟦4⟧پس قبول می‌كنم.",
+"en": "Well, those are the guidelines...\nI do.",
+"src": "Demo370_0"
+},
+{
+"id": 1162,
+"fa": "⟦0⟧به نسل‌های آينده فكر كنيد!",
+"en": "Think of future generations!",
+"src": "Demo370_0"
+},
+{
+"id": 1163,
+"fa": "⟦0⟧⟦1⟧*⟦2⟧سرفه سرفه*⟦3⟧",
+"en": "*cough cough*",
+"src": "Demo370_0"
+},
+{
+"id": 1164,
+"fa": "⟦0⟧و حالا، حاضران عزيز،\n⟦1⟧بياييد با هم به اين زوج تازه\nخوشامد و تبريك بگوييم.",
+"en": "And so, dearly beloved, please help me\nin greeting this newly married couple.",
+"src": "Demo370_0"
+},
+{
+"id": 1165,
+"fa": "⟦0⟧امروز اينجا جمع شده‌ايم تا هادسون و پائودا را\nبه عقد هم دربياوريم.",
+"en": "We are gathered here today to join\nHudson and Rhondson in matrimony.",
+"src": "Demo370_0"
+},
+{
+"id": 1166,
+"fa": "⟦0⟧برای اين زوج جديد بهترين شادی‌ها را آرزو می‌كنم\nكه سفر زندگی مشتركشان را آغاز می‌كنند!",
+"en": "I wish this new couple nothing but the\nutmost happiness as they set out on this\njourney of marital bliss!",
+"src": "Demo370_0"
+},
+{
+"id": 1167,
+"fa": "⟦0⟧در برابر شاهدان حاضر،\n⟦1⟧\n⟦2⟧و در برابر ايزدايزدايزدبانو هايليا...",
+"en": "Before the eyes of these witnesses\nand before those of Goddess Hylia...",
+"src": "Demo370_0"
+},
+{
+"id": 1168,
+"fa": "⟦0⟧لطفاً سكوت كنيد، همگی.\n⟦1⟧\nحالا شروع می‌كنيم.",
+"en": "Silence please, everyone.\nWe shall now begin.",
+"src": "Demo370_0"
+},
+{
+"id": 1169,
+"fa": "به شجاعتت كه تو را اينجا آورد، آفرين می‌گويم.\n\n\nجاهايی كه برايت آشكار می‌شوند، آزمون‌هايی‌اند\nكه نيروی خفته در وجودت را بيدار می‌كنند.\nهرگز بی‌دقت نباش،\nو هميشه مراقب خطرات باش...",
+"en": "I applaud your courage in coming here.\n\n\nThe locations that will be revealed to\nyou are of trials that will enhance\nthe power sleeping within.\nDo not let your guard down...",
+"src": "Demo610_1"
+}
+]

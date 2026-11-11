@@ -1,0 +1,746 @@
+[
+{
+"id": 1170,
+"fa": "⟦0⟧هوم؟⟦1⟧ از كی اينجايی؟⟦2⟧\nنفهميدم كی اومدی!",
+"en": "Hm? How long have you been here?\nI didn't even notice your arrival!",
+"src": "Demo610_1"
+},
+{
+"id": 1171,
+"fa": "⟦0⟧آه، باز هم همديگر را ديديم!\nانگار غافلگيرم كردی... داشتم با خودم حرف می‌زدم.",
+"en": "Ah, we meet again! And it seems you\ncaught me...well, talking to myself.",
+"src": "Demo610_1"
+},
+{
+"id": 1172,
+"fa": "⟦0⟧⟦1⟧آه، چه شادی‌ای! چه شكوهی دارد كه\nاين آواز را در برابر\n⟦2⟧يادمان⟦3⟧ واقعی بخوانم...",
+"en": "Ah, sweet joy! How glorious to sing this\nsong in front of the real monument...",
+"src": "Demo610_1"
+},
+{
+"id": 1173,
+"fa": "⟦0⟧⟦1⟧آوازی كه استادم به جا گذاشته...\n ⟦2⟧بيتی⟦3⟧ دارد درباره‌ی آزمون‌هايی كه⟦4⟧قهرمان ريوال⟦5⟧ از سر گذراند.\n⟦6⟧اجازه بده برايت بخوانمش...",
+"en": "The song my teacher left behind...\nThere's a verse about the trials that\nChampion Revali overcame.\nAllow me to sing it for you...",
+"src": "Demo610_1"
+},
+{
+"id": 1174,
+"fa": "⟦0⟧⟦1⟧♪ياور باد، پرنده‌ی سرزمين ابرها⟦2⟧\tاوج می‌گيرد، تيز و سربلند\n⟦3⟧ای قهرمانِ⟦4⟧مدوه⟦5⟧\t تيزپرواز و سربلند⟦6⟧♪",
+"en": "♪Wind's ally soars the land of cloud.\nMedoh's Champion, swift and proud.♪",
+"src": "Demo610_1"
+},
+{
+"id": 1175,
+"fa": "⟦0⟧⟦1⟧\tقدرت قهرمان رشد می‌كند⟦2⟧~⟦3⟧~⟦4⟧⟦5⟧~⟦6⟧آزمون‌های يادمان‌ها را بجو♪",
+"en": "♪The hero's power shall grow.\nSeek trials monuments show.♪",
+"src": "Demo610_1"
+},
+{
+"id": 1176,
+"fa": "⟦0⟧⟦1⟧\tيك: شاخ اژدهای آتشين را نشانه بگير⟦2⟧⟦3⟧دو: از حلقه‌های قله بتاز، ⟦4⟧~⟦5⟧چون باد⟦6⟧⟦7⟧⟦8⟧~",
+"en": "♪One, shoot the flame dragon's horn.\nTwo, race down a peak rings adorn.♪",
+"src": "Demo610_1"
+},
+{
+"id": 1177,
+"fa": "⟦0⟧⟦1⟧\tسه: چهار هدف را با تير بزن⟦2⟧⟦3⟧تا پيروز شوی،⟦4⟧ ای قهرمان، آزمون‌ها آغاز شد!⟦5⟧⟦6⟧~",
+"en": "♪Three, shoot four targets to win.\nChampion, the trials begin!♪",
+"src": "Demo610_1"
+},
+{
+"id": 1178,
+"fa": "⟦0⟧چه اعتماد به نفسی لازم بوده كه بتواند بر⟦1⟧\nهيولای مقدس⟦2⟧ مسلط شود... واقعاً الهام‌بخش است.",
+"en": "The confidence it must have taken to\nmaster a Divine Beast... How inspiring.",
+"src": "Demo610_1"
+},
+{
+"id": 1179,
+"fa": "⟦0⟧رويای استادم حالا رويای من است و بايد تمامش كنم.\n⟦1⟧\nآوازی ناتمام...⟦2⟧ بار سنگينی است بر روح يك شاعر... نمی‌گذارم اين‌طور بماند.",
+"en": "My teacher's dream is now mine to fulfill.\nAn unfinished song weighs heavily on\na bard's soul... I won't allow it.",
+"src": "Demo610_1"
+},
+{
+"id": 1180,
+"fa": "⟦0⟧اما برای اينكه اين رويا به ثمر برسد،\nبايد درباره‌ی قهرمانان سال‌های دور بيشتر بدانم.",
+"en": "But in order to see this dream to fruition,\nI must learn more about the Champions\nof long ago...",
+"src": "Demo610_1"
+},
+{
+"id": 1181,
+"fa": "⟦0⟧خوشبختانه ⟦1⟧تبا⟦2⟧ و بزرگ ⟦3⟧دهكده ريتو⟦4⟧، ⟦5⟧كان⟦6⟧\nداستان‌های شگفت‌انگيزی درباره‌ی قهرمان ريتو برايم تعريف كردند.",
+"en": "Thankfully, Teba and the Rito Village\nelder, Kaneli, told me some wonderful\nstories of the Rito Champion.",
+"src": "Demo610_1"
+},
+{
+"id": 1182,
+"fa": "⟦0⟧اما ناتمام ماندن اين آواز هنوز دلم را می‌سوزاند.\nبه همين خاطر زادگاهم فقط يك توقف كوتاه\nدر سفر من است.",
+"en": "Yet this unfinished song still pulls at\nmy heart. And so, my hometown is but\na stopping point on this journey of mine.",
+"src": "Demo610_1"
+},
+{
+"id": 1183,
+"fa": "روتا، راهی پيدا كرديم كه به لينك كمك كنيم... ⟦0⟧و البته به ديگر قهرمانان هم.",
+"en": "Ruta, we've found a way to be useful to Link. And...the other Champions, of course. ",
+"src": "Demo122_0"
+},
+{
+"id": 1184,
+"fa": "كار ما كمك به لينك است وقتی داخل قلعه\nبا گنون می‌جنگد... پس تا جايی كه می‌توانيم كمكش كنيم.",
+"en": "Our job will be to help Link as he fights Ganon\ninside the castle...however we can.",
+"src": "Demo122_0"
+},
+{
+"id": 1185,
+"fa": "كليد موفقيت ما اين است كه با قدرتت،\nنيروی گنون را از او بگيری.  ",
+"en": "Using your ability to drain Ganon\nof his power is key to our success.  ",
+"src": "Demo122_0"
+},
+{
+"id": 1186,
+"fa": "همين است، لحظه‌اش رسيده.⟦0⟧آخرين فرصت ماست...",
+"en": "This is it.This will be our last chance...",
+"src": "Demo122_0"
+},
+{
+"id": 1187,
+"fa": "و اميد تمام دنيا.",
+"en": "and everyone's last hope.",
+"src": "Demo122_0"
+},
+{
+"id": 1188,
+"fa": "بيا مهرش كنيم و آرامش را به هايرول برگردانيم. ⟦0⟧اين‌طوری وظيفه‌ی من و تو هم تمام می‌شود.",
+"en": "If we seal him away, then we can\nrestore peace to Hyrule. And both your duty and mine will be fulfilled.",
+"src": "Demo122_0"
+},
+{
+"id": 1189,
+"fa": "پدر... اميدوارم حالت خوب باشد...",
+"en": "Father, are you well, I wonder...",
+"src": "Demo122_0"
+},
+{
+"id": 1190,
+"fa": "می‌خواهم بدانی كه من...⟦0⟧هميشه از دلم پيروی كرده‌ام.",
+"en": "I want you to know...I have always followed my heart.",
+"src": "Demo122_0"
+},
+{
+"id": 1191,
+"fa": "ببخش كه نگرانت كردم...",
+"en": "I'm sorry I made you worry...",
+"src": "Demo122_0"
+},
+{
+"id": 1192,
+"fa": "چقدر دلم می‌خواهد يك بار ديگر ببينمت...",
+"en": "I wish I could see you again...",
+"src": "Demo122_0"
+},
+{
+"id": 1193,
+"fa": "فقط برای يك بار ديگر...",
+"en": "Even just once more...",
+"src": "Demo122_0"
+},
+{
+"id": 1194,
+"fa": "ای زائری كه به اين معبد قدم نهادی...\nمن ⟦0⟧ هستم. به نام ايزدايزدايزدبانو هايليا،\nاين آزمون را پيش رويت می‌گذارم.",
+"en": "To you who sets foot in this shrine...\nI am . In the name of the\nGoddess Hylia, I offer this trial.",
+"src": "Demo008_2"
+},
+{
+"id": 1195,
+"fa": "ای زائری كه به اين معبد قدم نهادی...\nمن ⟦0⟧ هستم. به نام ايزدايزدايزدبانو هايليا،\nاين آزمون مبارزه را پيش رويت می‌گذارم.",
+"en": "To you who sets foot in this shrine...\nI am . In the name of the\nGoddess Hylia, I offer this combat trial.",
+"src": "Demo008_2"
+},
+{
+"id": 1196,
+"fa": "ای زائری كه به اين معبد قدم نهادی...\nمن ⟦0⟧ هستم. همين كه اينجا آمده‌ای، شايستگی‌ات ثابت شده.",
+"en": "To you who sets foot in this shrine...\nI am . By entering this\nplace, you've already proven your worth.",
+"src": "Demo008_2"
+},
+{
+"id": 1197,
+"fa": "ای زائری كه به اين معبد قدم نهادی...\nمن ⟦0⟧ هستم. دانشی را كه به دست آورده‌ام با تو شريك می‌شوم،\nتا خشنودی ايزدايزدايزدبانو هايليا را جلب كنم.",
+"en": "To you who sets foot in this shrine...\nI am . I share with you my\nknowledge, that it may please Hylia.",
+"src": "Demo008_2"
+},
+{
+"id": 1198,
+"fa": "⟦0⟧~⟦1⟧آماده‌ای كه ادامه بديم؟⟦2⟧",
+"en": "What is it? Are you OK to keep going?",
+"src": "Demo022_0"
+},
+{
+"id": 1199,
+"fa": "بزن بريم.",
+"en": "Let's go.",
+"src": "Demo022_0"
+},
+{
+"id": 1200,
+"fa": "بايد آماده بشم.",
+"en": "I need to prepare.",
+"src": "Demo022_0"
+},
+{
+"id": 1201,
+"fa": "⟦0⟧خيلی خب، ادامه می‌ديم!⟦1⟧ از شر اين\n ⟦2⟧توپ‌ها!⟦3⟧!",
+"en": "All right. Let's keep going! Take out\nthose cannons!",
+"src": "Demo022_0"
+},
+{
+"id": 1202,
+"fa": "⟦0⟧فهميدم! ⟦1⟧مراقب خودت باش.",
+"en": "Roger! Watch yourself.",
+"src": "Demo022_0"
+},
+{
+"id": 1203,
+"fa": "⟦0⟧...فهميدم.⟦1⟧ بيا برگرديم زمين و كمی منتظر بمونيم.",
+"en": "...Understood. Let's head back to the\nground for a bit.",
+"src": "Demo022_0"
+},
+{
+"id": 1204,
+"fa": "⟦0⟧آماده‌ای ادامه بدهی؟⟦1⟧",
+"en": "Are you OK to keep going?",
+"src": "Demo022_0"
+},
+{
+"id": 1205,
+"fa": "⟦0⟧چته، مشكلی پيش اومده؟ ⟦1⟧\nمی‌خوای برگرديم؟⟦2⟧",
+"en": "Hey, what's the deal? \nYou really want to go back?",
+"src": "Demo022_0"
+},
+{
+"id": 1206,
+"fa": "⟦0⟧~⟦1⟧مطمئنی می‌خوای ادامه بدی؟⟦2⟧",
+"en": "So...you're OK to keep going?",
+"src": "Demo022_0"
+},
+{
+"id": 1207,
+"fa": "⟦0⟧انگار هوا با ما نيست...\n⟦1⟧ چيزی برای ⟦2⟧مقابله با سرما⟦3⟧ همراهت هست؟⟦4⟧",
+"en": "Looks like the weather is not on our\nside... You all set for cold protection?",
+"src": "Demo022_0"
+},
+{
+"id": 1208,
+"fa": "⟦0⟧⟦1⟧⟦2⟧⟦3⟧كمان‌هات⟦4⟧ تموم شده؟!⟦5⟧\nفعلاً برگرديم، كاری از دستمون برنمياد.",
+"en": "You're all out of bows?!\nLet's head back for now.",
+"src": "Demo022_0"
+},
+{
+"id": 1209,
+"fa": "⟦0⟧⟦1⟧⟦2⟧⟦3⟧تيرهای انفجاريت⟦4⟧ تموم شده؟!⟦5⟧\nفعلاً برگرديم، كاری از دستمون برنمياد.",
+"en": "You're out of bomb arrows?!\nLet's head back for now.",
+"src": "Demo022_0"
+},
+{
+"id": 1210,
+"fa": "ثابت كردی كه قدرت قهرمان واقعی را داری.",
+"en": "You have proven to possess the power\nof a true hero.",
+"src": "Demo648_0"
+},
+{
+"id": 1211,
+"fa": "به نام ايزدايزدايزدبانو هايليا...",
+"en": "In the name of the Goddess Hylia...",
+"src": "Demo648_0"
+},
+{
+"id": 1212,
+"fa": "آخرين آزمون را پيش رويت می‌گذارم!",
+"en": "I offer this final trial!",
+"src": "Demo648_0"
+},
+{
+"id": 1213,
+"fa": "آفرين بر شهامتت كه تا اينجا آمدی.\nديگر چيزی ندارم\nكه به تو بدهم.",
+"en": "I applaud you for having the fortitude\nto come here. I have nothing more\nto offer you.",
+"src": "Demo648_0"
+},
+{
+"id": 1214,
+"fa": "اما هنوز يك كار هست كه می‌توانم بكنم\nتا قهرمانی مثل تو به اوج تازه‌ای برسد...",
+"en": "However, there is one thing I can do to\nhelp a hero such as yourself reach\nnew heights...",
+"src": "Demo648_0"
+},
+{
+"id": 1215,
+"fa": "می‌توانی يك بار ديگر با من مبارزه كنی.",
+"en": "You may challenge me once more.",
+"src": "Demo648_0"
+},
+{
+"id": 1216,
+"fa": "برگشتی.\nقلبت واقعاً قلب يك قهرمان است.",
+"en": "You have returned. Your heart is truly\nthat of a hero.",
+"src": "Demo648_0"
+},
+{
+"id": 1217,
+"fa": "آمده‌ام تا كمك بخواهم...⟦0⟧درباره‌ی قدرتی كه نسل‌به‌نسل به ارث رسيده...",
+"en": "I come seeking help...regarding this power that has been\nhanded down over time...",
+"src": "Demo135_0"
+},
+{
+"id": 1218,
+"fa": "دعا و نيايش قدرت مهر كردن گانون را بيدار می‌كند...",
+"en": "Prayer will awaken my power to seal Ganon away...",
+"src": "Demo135_0"
+},
+{
+"id": 1219,
+"fa": "دست‌كم تمام عمر همين را به من گفته‌اند...",
+"en": "Or so I've been told all my life...",
+"src": "Demo135_0"
+},
+{
+"id": 1220,
+"fa": "و با اين حال...",
+"en": "And yet...",
+"src": "Demo135_0"
+},
+{
+"id": 1221,
+"fa": "مادربزرگم صداهايی را از عالم ارواح شنيد...\n⟦0⟧و مادرم می‌گفت قدرتش در من بيدار خواهد شد.",
+"en": "Grandmother heard them—the voices from\nthe spirit realm. And Mother said her own power would\ndevelop within me.",
+"src": "Demo135_0"
+},
+{
+"id": 1222,
+"fa": "اما نه صدايی می‌شنوم، نه حسی دارم!",
+"en": "But I don't hear...or feel anything!",
+"src": "Demo135_0"
+},
+{
+"id": 1223,
+"fa": "پدرم بارها به من گفته ⟦0⟧هميشه می‌گويد:\n«وقتت را با ادای دانشمندها هدر نده!»",
+"en": "Father has told me time and time again... He always says, \"Quit wasting your time\nplaying at being a scholar!\"",
+"src": "Demo135_0"
+},
+{
+"id": 1224,
+"fa": "لعنت بر شما...",
+"en": "Curse you...",
+"src": "Demo135_0"
+},
+{
+"id": 1225,
+"fa": "تمام روزهای عمرم را وقف دعا و نيايش كرده‌ام!",
+"en": "I've spent every day of my life dedicated to praying!",
+"src": "Demo135_0"
+},
+{
+"id": 1226,
+"fa": "به ارواح خدايان باستان التماس كردم...",
+"en": "I've pleaded to the spirits tied to the ancient gods...",
+"src": "Demo135_0"
+},
+{
+"id": 1227,
+"fa": "و باز قدرت‌های مقدس به ندای من گوش نداده‌اند...",
+"en": "And still the holy powers have proven\ndeaf to my devotion.",
+"src": "Demo135_0"
+},
+{
+"id": 1228,
+"fa": "خواهش می‌كنم، فقط بگوييد...",
+"en": "Please just tell me...",
+"src": "Demo135_0"
+},
+{
+"id": 1229,
+"fa": "چه شده‌ام...؟ ⟦0⟧مشكلم چيست؟!",
+"en": "What is it...? What's wrong with me?!",
+"src": "Demo135_0"
+},
+{
+"id": 1230,
+"fa": "⟦0⟧يك رقيب تازه آمده تا\nمسابقه‌ی فوك‌های شنی گرودو را به چالش بكشد!\nظاهراً كسی است كه از به خطر انداختن\nجان و تنش هم نمی‌ترسد!",
+"en": "A challenger has appeared to take on the\nGerudo sand-seal race! Apparently one\nwho does not mind risking life and limb!",
+"src": "Demo330_0"
+},
+{
+"id": 1231,
+"fa": "⟦0⟧اما آيا ركورد فعلی شكسته می‌شود؟\nهمان ركوردی كه قهرمان شكست‌ناپذير ما\nثبت كرده است؟!",
+"en": "But will our current record fall? The one\nset by our undefeated champion?!",
+"src": "Demo330_0"
+},
+{
+"id": 1232,
+"fa": "⟦0⟧جانور بی‌همتای كوير...\nفوك شنی آماده‌ی سواری است!",
+"en": "The incomparable beast of the desert...\nThe sand seal is ready to ride!",
+"src": "Demo330_0"
+},
+{
+"id": 1233,
+"fa": "⟦0⟧آيا رقيب جديد ما می‌تواند از\nهمه دروازه‌ها عبور كند و به خط پايان برسد\n⟦1⟧در كمتر از ⟦2⟧:⟦3⟧ ⟦4⟧؟!",
+"en": "Can our new contestant reach the goal in\nless than : while still\npassing under every arch?!",
+"src": "Demo330_0"
+},
+{
+"id": 1234,
+"fa": "⟦0⟧دارم از هيجان می‌ميرم! شمارش معكوس را شروع می‌كنم...⟦1⟧شمارش معكوس...⟦2⟧\nهَـمـيــن الــآن!!",
+"en": "The suspense is killing me!\nI'm going to start...the...\ncountdoooooown!!",
+"src": "Demo330_0"
+},
+{
+"id": 1235,
+"fa": "بله، لطفاً.",
+"en": "Yes, please.",
+"src": "Demo035_0"
+},
+{
+"id": 1236,
+"fa": "ممنونم، اما نه.",
+"en": "Thanks, but no.",
+"src": "Demo035_0"
+},
+{
+"id": 1237,
+"fa": "ظرف نيرو.",
+"en": "Stamina Vessel.",
+"src": "Demo035_0"
+},
+{
+"id": 1238,
+"fa": "به اندازه كافی دارم.",
+"en": "I've had enough.",
+"src": "Demo035_0"
+},
+{
+"id": 1239,
+"fa": "يك نوع ديگر.",
+"en": "A different container.",
+"src": "Demo035_0"
+},
+{
+"id": 1240,
+"fa": "ميشه بيشتر توضيح بدی...؟",
+"en": "Tell me more...",
+"src": "Demo035_0"
+},
+{
+"id": 1241,
+"fa": "پسش بده بهم.",
+"en": "Give it back.",
+"src": "Demo035_0"
+},
+{
+"id": 1242,
+"fa": "يه ظرف قلب بهم بده.",
+"en": "Give me a heart.",
+"src": "Demo035_0"
+},
+{
+"id": 1243,
+"fa": "يه چرخ نيرو بهم بده.",
+"en": "Give me stamina.",
+"src": "Demo035_0"
+},
+{
+"id": 1244,
+"fa": "از چيزی كه هستم راضيم.",
+"en": "I'm all right for now.",
+"src": "Demo035_0"
+},
+{
+"id": 1245,
+"fa": "اوف...",
+"en": "Ugh...",
+"src": "Demo035_0"
+},
+{
+"id": 1246,
+"fa": "تو... حرف می‌زنی؟",
+"en": "You can talk?!",
+"src": "Demo035_0"
+},
+{
+"id": 1247,
+"fa": "يكی ديگه بردار.",
+"en": "Have another one.",
+"src": "Demo035_0"
+},
+{
+"id": 1248,
+"fa": "می‌خوام يكی رو پس بگيرم.",
+"en": "I want one back.",
+"src": "Demo035_0"
+},
+{
+"id": 1249,
+"fa": "چه بلايی بدتر از اين می‌تونه سرت بياد؟\nنمی‌تونی از چيزی كه امتحان نكردی پشيمون بشی...",
+"en": "What's the worst that could happen?",
+"src": "Demo035_0"
+},
+{
+"id": 1250,
+"fa": "انتخاب جالبی است... فقط بعداً\nگريه‌كنان نيا پيشم.",
+"en": "Very interesting choice... Just don't\ncome crying to me later.",
+"src": "Demo035_0"
+},
+{
+"id": 1251,
+"fa": "پسرجان، من كلك‌باز زياد ديده‌ام\nو پيداست كه جيبت به اندازه‌ی\n⟦0⟧صد و بيست روپی⟦1⟧ی كه می‌خواهم\nپر نيست.",
+"en": "I know from swindles, boy, and I can\nplainly tell that you don't have the\n120 rupees required.",
+"src": "Demo035_0"
+},
+{
+"id": 1252,
+"fa": "...\n⟦0⟧پس هنوز اينجا ايستادی و چكار می‌كنی؟",
+"en": "Then... What are you still doing here?",
+"src": "Demo035_0"
+},
+{
+"id": 1253,
+"fa": "هی تو...",
+"en": "You...",
+"src": "Demo035_0"
+},
+{
+"id": 1254,
+"fa": "كار ساده‌ای است. ⟦0⟧من به تو ⟦1⟧صد روپی ⟦2⟧\nمی‌دهم تا در ازايش يكی از ⟦3⟧ظرف‌های قلبت⟦4⟧\nيا يك ⟦5⟧ظرف نيرو⟦6⟧ را از تو بگيرم.\nمی‌توانی آن را به قيمت ⟦7⟧صد و بيست روپی⟦8⟧ پس بگيری.⟦9⟧\nو اگر چيزی كه پس می‌گيری همانی نباشد كه دادی،\nجای نگرانی نيست، رازت را برای كسی فاش نمی‌كنم.\nفرصت خوبی است، مگر نه؟ می‌توانی يك ⟦10⟧ظرف قلب⟦11⟧ را با يك ⟦12⟧ظرف نيرو⟦13⟧ \nمعاوضه كنی يا برعكس، و فقط ⟦14⟧بيست روپی⟦15⟧ می‌پردازی.\nاز اين معامله دهانت آب نيفتاده؟\nپس منتظر چی هستی؟ بيا معامله را ببنديم.⟦16⟧",
+"en": "It's simple. I'll give you 100 rupees to\ntake one of your Heart Containers or a\nStamina Vessel off your hands.\nYou can have one back for 120 rupees.\nAnd if it's not the same one you gave\nme, why, I won't tell a soul.\nExchanging a Heart Container for a\nStamina Vessel, or vice versa, for only\n20 rupees sounds good, doesn't it?\nYou must be salivating at the idea, so\nlet's go ahead and strike our bargain.",
+"src": "Demo035_0"
+},
+{
+"id": 1255,
+"fa": "قيمت پس دادن يك ⟦0⟧ظرف قلب⟦1⟧ به تو\n⟦2⟧صد و بيست روپی⟦3⟧ خواهد بود.⟦4⟧",
+"en": "The price to return a Heart Container to\nyou will be 120 rupees.",
+"src": "Demo035_0"
+},
+{
+"id": 1256,
+"fa": "با كمال ميل ⟦0⟧⟦1⟧صد روپی⟦2⟧ ⟦3⟧بابت يكی از\n⟦4⟧ظرف‌های قلبت⟦5⟧ می‌دهم.\nهمين را می‌خواهی؟⟦6⟧",
+"en": "I'll gladly pay you 100 rupees for one\nof your Heart Containers. Is that what\nyou want?",
+"src": "Demo035_0"
+},
+{
+"id": 1257,
+"fa": "با كمال ميل ⟦0⟧⟦1⟧صد روپی⟦2⟧ ⟦3⟧بابت يكی از\n⟦4⟧ظرف‌های نيرويت⟦5⟧ می‌دهم.\nهمين را می‌خواهی؟⟦6⟧",
+"en": "I'll gladly pay you 100 rupees for one\nof your Stamina Vessels. Is that what\nyou want?",
+"src": "Demo035_0"
+},
+{
+"id": 1258,
+"fa": "تا الان ⟦0⟧⟦1⟧⟦2⟧ تا از ⟦3⟧عناصر جوهر روحت ⟦4⟧ پيش من است.\nخب حالا چی، هوم؟⟦5⟧",
+"en": "I have  of your essences so far.\nWhat now, hmmmm?",
+"src": "Demo035_0"
+},
+{
+"id": 1259,
+"fa": "آمده‌ای تا با ⟦0⟧عناصر جوهر روحت⟦1⟧ ور بروی؟⟦2⟧",
+"en": "Come to tamper with your essence, yes?",
+"src": "Demo035_0"
+},
+{
+"id": 1260,
+"fa": "نه؟ ها... ⟦0⟧ها ها ها... هر طور مايلی، پس باشد.⟦1⟧اما بدان كه من آماده‌ام با\nهر كسی كه صدايم را بشنود معامله كنم.",
+"en": "No, eh? Fa ha ha... If you say so.Just know that I'm willing to strike a\nbargain with anyone who can hear\nmy voice.",
+"src": "Demo035_0"
+},
+{
+"id": 1261,
+"fa": "من هنوز ⟦0⟧⟦1⟧⟦2⟧ تا از ⟦3⟧عناصر جوهر روحت⟦4⟧ را دارم...⟦5⟧\nيك ⟦6⟧ظرف قلب⟦7⟧\nديگر به تو برگردانم؟⟦8⟧",
+"en": "I still have  of your essences...\nShall I return another Heart Container\nto you?",
+"src": "Demo035_0"
+},
+{
+"id": 1262,
+"fa": "و بدم نمی‌آيد اگر تعداد بيشتری از\n⟦0⟧ظرف‌های قلبت را به من بدهی.⟦1⟧.⟦2⟧",
+"en": "I wouldn't object if you wanted to give\nme more Heart Containers.",
+"src": "Demo035_0"
+},
+{
+"id": 1263,
+"fa": "من هنوز ⟦0⟧⟦1⟧⟦2⟧ تا از ⟦3⟧جوهر روحت⟦4⟧ را دارم...⟦5⟧\nيك ⟦6⟧ظرف نيرو⟦7⟧\nديگر به تو برگردانم؟⟦8⟧",
+"en": "I still have  of your essences...\nShall I return another Stamina Vessel\nto you?",
+"src": "Demo035_0"
+},
+{
+"id": 1264,
+"fa": "و بدم نمی‌آيد اگر تعداد بيشتری از\n⟦0⟧ظرف‌های نيرويت را به من بدهی.⟦1⟧.⟦2⟧",
+"en": "I wouldn't object if you wanted to give\nme more Stamina Vessels.",
+"src": "Demo035_0"
+},
+{
+"id": 1265,
+"fa": "نمی‌دانم ديگر چطور می‌خواهی\n⟦0⟧ظرف‌های قلب⟦1⟧ را كمتر كنی.",
+"en": "I don't see how you can reduce your\nHeart Containers any further.",
+"src": "Demo035_0"
+},
+{
+"id": 1266,
+"fa": "نمی‌دانم ديگر چطور می‌خواهی\n⟦0⟧ظرف‌های نيرو⟦1⟧ را كمتر كنی.",
+"en": "I don't see how you can reduce your\nStamina Vessels any further.",
+"src": "Demo035_0"
+},
+{
+"id": 1267,
+"fa": "نمی‌دانم ديگر چطور می‌خواهی\n⟦0⟧ظرف‌های قلب⟦1⟧ را بيشتر كنی.",
+"en": "I don't see how you can increase your\nHeart Containers any further.",
+"src": "Demo035_0"
+},
+{
+"id": 1268,
+"fa": "نمی‌دانم ديگر چطور می‌خواهی\n⟦0⟧ظرف‌های نيرو⟦1⟧ را بيشتر كنی.",
+"en": "I don't see how you can increase your\nStamina Vessels any further.",
+"src": "Demo035_0"
+},
+{
+"id": 1269,
+"fa": "مواظب باش... اگر ⟦0⟧ظرف‌های قلبت⟦1⟧ را\nبيشتر از اين به من بدهی، ممكن است بميری.",
+"en": "Careful... Give away any more of your\nHeart Containers, and it could have a\nfatal effect on your health.",
+"src": "Demo035_0"
+},
+{
+"id": 1270,
+"fa": "مواظب باش... اگر ⟦0⟧ظرف‌های نيرويت⟦1⟧ را\nبيشتر از اين به من بدهی،\nديگر توانی برای ايستادن نداری.",
+"en": "Have a care... Give me any more of your\nStamina Vessels, and you may not have\nthe strength to stand.",
+"src": "Demo035_0"
+},
+{
+"id": 1271,
+"fa": "نه نه... متأسفم، ولی بيشتر از اين نمی‌شود\n⟦0⟧ظرف‌های قلب⟦1⟧ داشته باشی.",
+"en": "No, no... I'm afraid you already have all\nthe Heart Containers you possibly can.",
+"src": "Demo035_0"
+},
+{
+"id": 1272,
+"fa": "نه نه... متأسفم، ولی بيشتر از اين نمی‌شود\n⟦0⟧ظرف‌های نيرو⟦1⟧ داشته باشی.",
+"en": "No, no... I'm afraid you already have all\nthe Stamina Vessels you possibly can.",
+"src": "Demo035_0"
+},
+{
+"id": 1273,
+"fa": "پس معامله انجام شد!",
+"en": "Then the bargain is struck!",
+"src": "Demo035_0"
+},
+{
+"id": 1274,
+"fa": "الان هيچ‌كدام از ⟦0⟧جوهر روحت⟦1⟧ پيش من نيست.\nمی‌خواهی چيزی بفروشی؟⟦2⟧",
+"en": "I'm currently without any of your\nessences. Are you in the mood to sell?",
+"src": "Demo035_0"
+},
+{
+"id": 1275,
+"fa": "هاااه... ⟦0⟧پس هنوز كسانی هستند كه\nبه من ادای احترام می‌كنند.⟦1⟧⟦2⟧",
+"en": "Ahhhh... So there are some who still\npay me homage.",
+"src": "Demo035_0"
+},
+{
+"id": 1276,
+"fa": "صبر كن... صدايم را می‌شنوی، درست است؟⟦0⟧",
+"en": "You don't say... You can hear my voice?",
+"src": "Demo035_0"
+},
+{
+"id": 1277,
+"fa": "چه غافلگيری ای.⟦0⟧برای چی دعا می‌كردی؟\nعمر طولانی؟ يا ثروت،\nمثل بيشتر هم‌نوعانت؟⟦1⟧هر كدام كه بود، بدان كه\nبه جای درستی آمده‌ای.",
+"en": "Now, that is a surprise.What were you praying for? Long life? \nWealth, like so many of your kind?Whichever it was, you came to the\nright place.",
+"src": "Demo035_0"
+},
+{
+"id": 1278,
+"fa": "پس برای دعا آمده‌ای... تو هم مثل بقيه\nهمان را می‌خواهی كه همه می‌خواهند.\nعمر طولانی و ثروت.",
+"en": "You came to pray, then... You want what\neveryone wants. Long life and wealth.",
+"src": "Demo035_0"
+},
+{
+"id": 1279,
+"fa": "پس مشكلت چيست؟ دعاهايت جواب نگرفته‌اند؟⟦0⟧",
+"en": "What's wrong, then? Have your prayers\ngone unanswered?",
+"src": "Demo035_0"
+},
+{
+"id": 1280,
+"fa": "هوم...",
+"en": "Hmm...",
+"src": "Demo035_0"
+},
+{
+"id": 1281,
+"fa": "دست من مثل هميشه بی‌صدا كار می‌كند...⟦0⟧ديدی چطور بخشی از ⟦1⟧جوهر روحت⟦2⟧ را\nاز وجودت⟦3⟧⟦4⟧ بيرون كشيدم و هيچ اثری نماند؟",
+"en": "My touch is as subtle as ever...Note how I took that essence from you\nwithout leaving a mark.",
+"src": "Demo035_0"
+},
+{
+"id": 1282,
+"fa": "كدام نوع ⟦0⟧جوهر روح ⟦1⟧را به من می‌دهی؟⟦2⟧",
+"en": "Which type of essence will you surrender\nto me?",
+"src": "Demo035_0"
+},
+{
+"id": 1283,
+"fa": "كدام نوع ⟦0⟧جوهر روح ⟦1⟧را بدهم به تو؟⟦2⟧",
+"en": "Which type of essence shall I grant you?",
+"src": "Demo035_0"
+},
+{
+"id": 1284,
+"fa": "خيلی وقت پيش، انگار يك عمر پيش...\nكارم خريد و فروش جان و نيرو بود.⟦0⟧اما افسوس، معامله‌هام كه جان می‌دادند و پول می‌گرفتند،\nخشم ⟦1⟧ايزدايزدايزدبانو هايليا⟦2⟧ را درآورد.⟦3⟧او مرا توی اين مجسمه‌ی سنگی زندانی كرد\nخيلی خيلی وقت پيش.⟦4⟧روستاييان مرا مجسمه شاخدار صدا می‌زنند، ⟦5⟧و حتی زحمت نمی‌كشند\nفضله‌ی پرندگان را از رويم پاك كنند. شايد فكر كنی سال‌ها از اين\nرفتار تحقيرآميز آدمم كرده و از كارهای قديمم پشيمانم كرده...\n⟦6⟧ولی اشتباه می‌كنی.\nمن فقط صبر كرده بودم،⟦7⟧\nمنتظر روزی كه كسی بيايد كه صدايم را بشنود.\nكسی درست مثل تو. ولی بس است ديگر، حرف زياد زدم.⟦8⟧",
+"en": "A dealer in life and power...\nThat was me, once.Alas, my life-for-money bargains didn't\nsit well with the Goddess Hylia.She trapped me in this stone statue\nlong, long ago.The villagers here call me the Horned\nStatue and don't even bother to wipe\naway the bird droppings.\nOne would think years upon years of\nsuch treatment would have made me\nmend my ways...\nOne would think wrongly.I have only been biding my time for the\nmoment someone who can hear me\nappears. Someone such as you.\nBut I've said enough.",
+"src": "Demo035_0"
+},
+{
+"id": 1285,
+"fa": "همان‌جا بايست و تكان نخور.\nلازم نيست كار ديگری بكنی.",
+"en": "Then stay that way. No further action on\nyour part is required.",
+"src": "Demo035_0"
+},
+{
+"id": 1286,
+"fa": "اين چيه؟ ⟦0⟧⟦1⟧تو حتی يك\n⟦2⟧ظرف قلب ⟦3⟧يا ⟦4⟧ظرف نيرو⟦5⟧ی اضافه نگرفته‌ای؟⟦6⟧⟦7⟧حيف شد...\nدلم می‌خواست با يك ⟦8⟧معامله‌ی⟦9⟧ كوچك كمكت كنم.⟦10⟧ ولی وقتی چيزی نداری\nكه معامله كنی، نمی‌شود.\nاز يكی از ⟦11⟧تنديس‌های بانو ⟦12⟧ كمك بگير تا قوی‌تر شوی،\n⟦13⟧بعد برگرد اينجا و دعا كن.",
+"en": "What's this?You haven't received even one more\nHeart Container or Stamina Vessel?Such a pity... I was eager to help you\nwith a minor transaction. But not if you\nhave nothing to trade.\nConsult a Goddess Statue to improve\nyourself, and then return here to pray.",
+"src": "Demo035_0"
+},
+{
+"id": 1287,
+"fa": "ها ها ها...",
+"en": "Fa ha ha...",
+"src": "Demo035_0"
+},
+{
+"id": 1288,
+"fa": "ها ها ها...⟦0⟧ فكر كردی گولت زدم؟⟦1⟧\nاصلاً. ⟦2⟧اميدوارم رابطه‌ی تجاری ما\nطولانی و پرسود باشد.\nحالا كدام را می‌خواهی؟",
+"en": "Fa ha ha... Did you think I'd\ndeceived you?Perish the thought. I hope that ours\nwill be a long and profitable relationship.\nSo which will it be?",
+"src": "Demo035_0"
+},
+{
+"id": 1289,
+"fa": "همان‌طور كه چند بار گفتم،\nمن تاجر جان و نيرو هستم. ⟦0⟧ ⟦1⟧از تو يك ⟦2⟧ظرف قلب ⟦3⟧يا يك ⟦4⟧ظرف نيرو ⟦5⟧ می‌گيرم...⟦6⟧\nو بعد در ازای مبلغی ناچيز، هر كدام از اين دو را\nكه خودت بخواهی، به تو پس می‌دهم.⟦7⟧",
+"en": "As I may have mentioned once or twice,\nI'm a dealer in life and power. I can\nprovide a valuable service to you.I take Heart Containers or Stamina\nVessels from you...and then, for a price,\nreturn whichever of the two you like.",
+"src": "Demo035_0"
+},
+{
+"id": 1290,
+"fa": "در عوض كدام نوع جوهر روح را می‌خواهی؟⟦0⟧",
+"en": "Which type of essence would you like\nin return?",
+"src": "Demo035_0"
+},
+{
+"id": 1291,
+"fa": "انتخاب درستی است. حالا تكان نخور.",
+"en": "A wise choice. Now, remain still.",
+"src": "Demo035_0"
+},
+{
+"id": 1292,
+"fa": "می‌بينم كه ترديد داری. ⟦0⟧نگران نباش.⟦1⟧برای من پول و جان فرقی ندارند.⟦2⟧اگر آماده‌ای،\nاول بايد يكی از دو نوع ⟦3⟧عناصر جوهر روحت ⟦4⟧ را\n⟦5⟧به صد روپی⟦6⟧ به من بفروشی.\nاگر خواستی آن را پس بخری،\nقيمتش ⟦7⟧صد و بيست روپی⟦8⟧ می‌شود.⟦9⟧و پيش از آنكه اعتراض كنی،\nبدان كه خودت انتخاب می‌كنی كدام را پس بگيری:⟦10⟧\nيك ⟦11⟧ظرف قلب ⟦12⟧يا يك⟦13⟧ظرف نيرو⟦14⟧.\nهر وقت برگشتی و خواستی، خوشحال می‌شوم\nدر دستكاری جوهر روحت كمكت كنم.",
+"en": "You look skeptical. Not to worry.Money and life are all as one to me.If you're ready to begin, then first you\nmust sell me either type of essence for\n100 rupees.\nIf you want to buy an essence back,\nthe price rises to 120 rupees.Before you cry foul, know that you may\nchoose which one I return to you:\na Heart Container or a Stamina Vessel.\nI'm eager to help tamper with your\nessence anytime you want to return\nand pray here.",
+"src": "Demo035_0"
+},
+{
+"id": 1293,
+"fa": "خب، معامله را ببنديم؟",
+"en": "Now then, shall we strike a bargain?",
+"src": "Demo035_0"
+}
+]
