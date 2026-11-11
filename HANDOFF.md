@@ -65,3 +65,6 @@ Pack renamed: folder `BOTW_Persian`, zip `out/BOTW_Persian.zip` (no build number
 
 ## UPDATE v1.0.0
 Versioning is now semantic: zip `BOTW_Persian_v1.0.0.zip`, pack name "Zelda BOTW Persian v1.0.0". Folder stays `BOTW_Persian`. Keep `version = 7` in rules.txt (that is the Cemu rules format, not ours). Bump: patch = small text fixes, minor = new batches (e.g. Arabic NPC translation), major = big changes.
+
+## UPDATE v1.0.1
+Game Over text = «شكست خورديد». Zip: BOTW_Persian_v1.0.1.zip.
