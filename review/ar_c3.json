@@ -1,0 +1,650 @@
+[
+{
+"id": 324,
+"fa": "⟦0⟧حظا موفقا! ستحتاجه... لكن لا تبدو أنها ستنجح.",
+"en": "Good luck! You'll need it... This seems\nlike a real long shot.",
+"src": "Npc_UMiiVillage031"
+},
+{
+"id": 325,
+"fa": "⟦0⟧وجدت رجلا ريتيا وجلبته إلى هنا. شكر ًا لك.\nلم يـُضيع الوقت وهو يعد متجره العام\nويبدو أن عائلته تدير متجر ًا أيضـًا.\n\nوإذ إن اسمه پـْدا، ينتهی بالمقطع \"دا\"\nسيناسب الوظيفة أحسن مناسبة!\nإنه يبيع الأشياء التی التقطها وهو يطير.\n⟦1⟧لا بد أن تذهب وتتفقد متجره.",
+"en": "You managed to find a Rito and bring him\nback here. Thank you.\n\nHe wasted no time getting a general\nstore up and running—apparently his\nfamily runs one too.\nAnd with a name like Fyson,\nhe'll fit right in!\n\nHe's selling things that he's picked up\nwhile flying around. You should really go\ncheck out the store.",
+"src": "Npc_UMiiVillage031"
+},
+{
+"id": 326,
+"fa": "⟦0⟧قبل أن نطلب من الناس المجیء، علينا أن نبنی دورا\nأكثر لهم.⟦1⟧هلا أحضرت لی ⟦2⟧خمسين حزمة حطب⟦3⟧؟",
+"en": "So before we can call more people here,\nwe need even more homes for them.\nCan you bring me 50 bundles of wood?",
+"src": "Npc_UMiiVillage031"
+},
+{
+"id": 327,
+"fa": "⟦0⟧هل أحضرت ⟦1⟧خمسين حزمة حطب⟦2⟧؟⟦3⟧",
+"en": "Did you bring the 50 bundles of wood?",
+"src": "Npc_UMiiVillage031"
+},
+{
+"id": 328,
+"fa": "⟦0⟧عجل بإحضار ⟦1⟧خمسين حزمة حطب⟦2⟧.\nهلا أسرعت؟ أريد البدء بالبناء.",
+"en": "Hurry up and bring me 50 bundles of\nwood, will you? I want to get to building.",
+"src": "Npc_UMiiVillage031"
+},
+{
+"id": 329,
+"fa": "⟦0⟧أوه، ليس هذا النوع من الأمور الخاصة. أريد أن أعلمك أنی خطبت.⟦1⟧",
+"en": "Oh, not that kind of personal.\nActually, I got engaged.",
+"src": "Npc_UMiiVillage031"
+},
+{
+"id": 330,
+"fa": "⟦0⟧هذا صحيح.⟦1⟧",
+"en": "It's true.",
+"src": "Npc_UMiiVillage031"
+},
+{
+"id": 331,
+"fa": "⟦0⟧هذا ما تقوله، لكن لسبب ما، أحسبك تقصد العكس...",
+"en": "You say that, but for some reason, I\nthink you mean the opposite...",
+"src": "Npc_UMiiVillage031"
+},
+{
+"id": 332,
+"fa": "⟦0⟧على أی حال، نريد أن نقيم مراسما للاحتفال، لكننا بحاجة\nإلى من يمثل ⟦1⟧دور الراهب⟦2⟧ ليقوم بالأمر.\nهل يمكنك البحث عن رجل يمثل الدور لأجلنا؟⟦3⟧",
+"en": "Anyway, we want to have a little\nceremony to celebrate, but we need\nsomeone priest-like to officiate.\nCould you look for someone priest-like\nfor us?",
+"src": "Npc_UMiiVillage031"
+},
+{
+"id": 333,
+"fa": "⟦0⟧بات بوسعی الزواج وپاودا الساعة!",
+"en": "Now Rhondson and I can be married!",
+"src": "Npc_UMiiVillage031"
+},
+{
+"id": 334,
+"fa": "⟦0⟧أنت من جلب راهب الزورا؟⟦1⟧ أشكرك... جزيل الشكر.\n\n\nتحدثت معه سابقا، ⟦2⟧وقال إنه كان راهبا أصلا قبل أن يتقاعد.\nلن تجد راهبا أفضل من ذلك.\nواسمه كاپودا، ينتهی بالمقطع \"دا\"،\nلذلك ليس لدی أی اعتراض. مدهش أنك استطعت إيجاد\nمن يمثل دور الراهب وذا اسم ملائم أيضـًا...",
+"en": "You found a Zora? Thank you...really.\n\n\nHe and I talked earlier, and he said that\nhe literally was a priest before he retired.\nYou can't get more priest-like than that.\nAnd his name is Kapson, so I have no\nobjections there.\n\nIt really is amazing that you were able to\nfind someone priest-like who also had\nan acceptable name...",
+"src": "Npc_UMiiVillage031"
+},
+{
+"id": 335,
+"fa": "⟦0⟧وبكل تأكيد فعلينا دعوة الضيوف لنقيم المراسم...⟦1⟧",
+"en": "Of course, we'll have to invite guests in\norder to hold a ceremony...",
+"src": "Npc_UMiiVillage031"
+},
+{
+"id": 336,
+"fa": "⟦0⟧تمام، أنا أتحدث عن رئيسی ساكورادا وتابعی كاتسورادا.⟦1⟧",
+"en": "Well, I'm talking about my boss, Bolson,\nand my subordinate, Karson.",
+"src": "Npc_UMiiVillage031"
+},
+{
+"id": 337,
+"fa": "⟦0⟧لكن علی الاستعداد للمراسم برای همين أنا مشغول،⟦1⟧\nفهلا توليت أمر الدعوات من أجلی؟⟦2⟧",
+"en": "However, I've got to prepare for the\nceremony, so my hands are full...\nCould you invite them for me?",
+"src": "Npc_UMiiVillage031"
+},
+{
+"id": 338,
+"fa": "⟦0⟧بإمكاننا بدء المراسم ما إن يأتی كاتسورادا ورئيسی ساكورادا.⟦1⟧\nعلى الأرجح أنهما ما زالا فی قرية خاتمو.⟦2⟧\nهلا دعوتهما؟",
+"en": "Once Karson and the boss Bolson get\nhere, we can start the ceremony.\n\nThey're probably still in Hateno Village.\nCan you invite them for me?",
+"src": "Npc_UMiiVillage031"
+},
+{
+"id": 339,
+"fa": "⟦0⟧فهمت...⟦1⟧ هذا حدث مثير بالنسبة لی كذلك.\nتعال وتحدث معی عندما تستجمع رباطة جأشك،.",
+"en": "I understand... This is an exciting event\nfor me too. When you've collected\nyourself, come talk to me.",
+"src": "Npc_UMiiVillage031"
+},
+{
+"id": 340,
+"fa": "⟦0⟧تمام، ⟦1⟧هذه لك.",
+"en": "All right. This is for you.",
+"src": "Npc_UMiiVillage031"
+},
+{
+"id": 341,
+"fa": "⟦0⟧والآن ⟦1⟧قرية منلاشی⟦2⟧⟦3⟧ باتت تبدو كقرية متكاملة ما فيها\nعيب ولا نقص. كل هذا بفضلك. ⟦4⟧أعجز أن أوفيك حقك.",
+"en": "And now Tarrey Town looks like a real\ntown at long last.\n\nThis was all possible because of you. \nI can't thank you enough for all the hard\nwork you did.",
+"src": "Npc_UMiiVillage031"
+},
+{
+"id": 342,
+"fa": "⟦0⟧وجدنا هذه داخل الصخور التی حطمناها عندما كنا\nننظف الأرض أنا وپاودا. لا تنفعنا،⟦1⟧\nبرای همين خذها فقد تنفعك.",
+"en": "These were found inside the boulders we\nsmashed when we were clearing land.\n\nRhondson and I have no use for them.\nYou can take them.",
+"src": "Npc_UMiiVillage031"
+},
+{
+"id": 343,
+"fa": "⟦0⟧وددت إعطاءهن لك⟦1⟧ لكن لا يبدو أن لديك سعة\n⟦2⟧لثلاث⟦3⟧ ⟦4⟧ماسات⟦5⟧.",
+"en": "Well, I want to give them to you, but it\nlooks like you haven't got room\nfor three diamonds.",
+"src": "Npc_UMiiVillage031"
+},
+{
+"id": 344,
+"fa": "⟦0⟧هذا أنت.",
+"en": "It's you.",
+"src": "Npc_UMiiVillage031"
+},
+{
+"id": 345,
+"fa": "⟦0⟧أنا وپاودا سعيدان جدا لعيشنا هنا.⟦1⟧\n... أليس لديك ما هو أهم تقوم به؟⟦2⟧",
+"en": "Rhondson and I are very happy to live\nhere now.\n\nSo... Isn't there something important\nyou should be doing?",
+"src": "Npc_UMiiVillage031"
+},
+{
+"id": 346,
+"fa": "⟦0⟧فاشرع فی الأمر. قد جـُبت َ العالم تساعد القوم،\nلكن هناك الكثير ممن يحتاجون المساعدة.⟦1⟧\nفليس عندك وقت زائد تقضيه هنا. ",
+"en": "Then get to it.\n\n\nYou've traveled the world helping folks,\nbut there's more that need helping. You\ndon't have the luxury of tarrying here.",
+"src": "Npc_UMiiVillage031"
+},
+{
+"id": 347,
+"fa": "⟦0⟧فهمت...⟦1⟧ ففی هذه الحالة فامكث هنا\nقدر ما تشاء. اتفقنا؟",
+"en": "I see... In that case, stay as long as you\nlike, OK?",
+"src": "Npc_UMiiVillage031"
+},
+{
+"id": 348,
+"fa": "⟦0⟧أنت تعرف أين هما. ⟦1⟧فالرئيس⟦2⟧ وكاتسورادا\n⟦3⟧فی قرية خاتمو، صح؟⟦4⟧",
+"en": "You know where they are. The boss and\nKarson are in Hateno Village, right?",
+"src": "Npc_UMiiVillage031"
+},
+{
+"id": 349,
+"fa": "⟦0⟧ليس لی رغبة حتى بالتفكير فی مآلی لو لم تأت لعونی.",
+"en": "I don't even want to think about what\nwould've happened if you hadn't come\nalong to help.",
+"src": "Npc_Road_045"
+},
+{
+"id": 350,
+"fa": "⟦0⟧أنقذت حياتی!⟦1⟧ مسرورة أنه حصل بيننا مثل هذا اللقاء.⟦2⟧\nأتراه هذا لقاء الشوق المقدور الذی طال انتظاره لنا؟",
+"en": "You saved my life! I'm glad we were able\nto meet like this.\nIs this our destined encounter?",
+"src": "Npc_Road_045"
+},
+{
+"id": 351,
+"fa": "⟦0⟧أوه، أشكرك!⟦1⟧ \nأنا محظوظة أنك أتيت لتنقذنی.",
+"en": "Oh, thank you! I'm lucky you were here\nto save me.",
+"src": "Npc_Road_045"
+},
+{
+"id": 352,
+"fa": "⟦0⟧كان السفر ليكون أيسر ميسرا لولا كثرة هذه الوحوش.⟦1⟧ \nلكن حضورك يسهله أكثر.",
+"en": "Traveling would be so much easier if it\nweren't for all these monsters. But at\nleast you were here to help.",
+"src": "Npc_Road_045"
+},
+{
+"id": 353,
+"fa": "⟦0⟧تصور أنی كدت أموت قبل أن أتزوج.⟦1⟧\nليس هذا الترتيب المناسب للأمور!",
+"en": "To think, I nearly died before getting\nmarried. That's not a proper order of\noperations!",
+"src": "Npc_Road_045"
+},
+{
+"id": 354,
+"fa": "⟦0⟧أتتجرأ هذه الوحوش وتهاجم آنسة عذراء لم تتزوج بعد؟⟦1⟧ \nابئس بها...⟦2⟧ من وحشية!",
+"en": "These monsters would attack a lady\nbefore she's wed? How so very...\nmonstrous!",
+"src": "Npc_Road_045"
+},
+{
+"id": 355,
+"fa": "⟦0⟧*هاااه...*⟦1⟧*هاااه*⟦2⟧دعنی...⟦3⟧كفى، مهلا حتى ألتقط أنفاسی...",
+"en": "*pant...pant*\nJust...let me catch my breath...",
+"src": "Npc_Road_045"
+},
+{
+"id": 356,
+"fa": "⟦0⟧ربما أحب الوحوش لكن حتى هذا كثير علی.⟦1⟧\nربما سيحالفنی الحظ وتقصفهم صاعقة أو ما شابه.",
+"en": "I may love monsters, but this is a bit\nmuch even for me. Maybe I'll get lucky\nand lightning will strike them.",
+"src": "Npc_Road_045"
+},
+{
+"id": 357,
+"fa": "⟦0⟧وعذارى البوكوبلين!⟦1⟧⟦2⟧ ⟦3⟧أهذا ⟦4⟧سادن⟦5⟧!⟦6⟧\nأنا راحلة!",
+"en": "Sweet Bokoblin! It's a Guardian!\nI'm out of here!",
+"src": "Npc_Road_045"
+},
+{
+"id": 358,
+"fa": "⟦0⟧رجاء خذ هذا. واعتبره شكری.",
+"en": "Please, take this.\nAs a thank-you!",
+"src": "Npc_Road_045"
+},
+{
+"id": 359,
+"fa": "أنا فقط أعشق الصباح.",
+"en": "I just love the morning.",
+"src": "Npc_Road_045"
+},
+{
+"id": 360,
+"fa": "أين ألقى رجلی...",
+"en": "Where to meet someone...",
+"src": "Npc_Road_045"
+},
+{
+"id": 361,
+"fa": "⟦0⟧آه، أخطأت وظننتی چـْرودية؟ لا حرج عليك، فدوما يحصل هذا معی.\n⟦1⟧ لسبب ما أجهله! ربما لأنی أبحث مسافرة عن الحب الحقيقی.\nأنا عزباء مستعدة لنصيبی، لكن عشقی للوحوش ينفر عنی الناس...\n⟦2⟧سمعت أن فی هذه الربوع ⟦3⟧حورية كبرى⟦4⟧.\n⟦5⟧ قيل إنها تغدق ببركات السعادة من يجدها.⟦6⟧ \nأتمنى لو تصح تلك الشائعات!",
+"en": "Oh, you mistook me for a Gerudo? No\nworries, for some reason it happens all\nthe time. No idea why!\nMaybe because I'm traveling in search of\ntrue love. I'm single and ready to mingle,\nbut my love of monsters scares people...\nBut I heard there's a Great Fairy in this\nregion. They say if you find her, you'll be\nblessed with happiness. I hope it's true!",
+"src": "Npc_Road_045"
+},
+{
+"id": 362,
+"fa": "⟦0⟧سمعت أن هناك ⟦1⟧حورية كبرى ⟦2⟧فی هذه الربوع.\n⟦3⟧ يقال إنها تغدق من يجدها ببركات السعادة.⟦4⟧ أتمنى لو صح هذا!",
+"en": "I heard there's a Great Fairy in this\nregion. They say if you find her, you'll be\nblessed with happiness. I hope it's true!",
+"src": "Npc_Road_045"
+},
+{
+"id": 363,
+"fa": "⟦0⟧آه، أخطأت وظننتی چـْرودية؟ لا حرج عليك، فدوما يحصل هذا معی.\n⟦1⟧ لسبب ما أجهله! ربما لأنی أبحث مسافرة عن الحب الحقيقی.\nأنا عزباء مستعدة لنصيبی، لكن عشقی للوحوش ينفر عنی الناس...\n⟦2⟧الستالنوكس ضخم ومرعب، لكن أسلوب رميه عظامه عليك...⟦3⟧ حلو!\nربما أجد رجلا يشاطرنی نفس عشق الوحوش.\n⟦4⟧ ثم نسهر الليل بطوله نتجاذب أطراف الحديث\nعن أخبار الستالنوكس!",
+"en": "Oh, you mistook me for a Gerudo? No\nworries, for some reason it happens all\nthe time. No idea why!\nMaybe because I'm traveling in search of\ntrue love. I'm single and ready to mingle,\nbut my love of monsters scares people...\nStalnoxes are pretty big and creepy, but\nthe way they throw their own bones at\nyou...is just so cool!\nMaybe I'll find someone who likes\nmonsters as much as I do. Then we can\nstay up all night talking about Stalnoxes!",
+"src": "Npc_Road_045"
+},
+{
+"id": 364,
+"fa": "⟦0⟧الستالنوكس ضخم ومرعب، لكن أسلوب رميه عظامه عليك...⟦1⟧حلو!\nربما أجد رجلا يشاطرنی نفس عشق الوحوش.\n⟦2⟧ ثم نسهر الليل بطوله نتجاذب أطراف الحديث\nعن أخبار الستالنوكس!",
+"en": "Stalnoxes are pretty big and creepy, but\nthe way they throw their own bones at\nyou...is just so cool!\nMaybe I'll find someone who likes\nmonsters as much as I do. Then we can\nstay up all night talking about Stalnoxes!",
+"src": "Npc_Road_045"
+},
+{
+"id": 365,
+"fa": "⟦0⟧آه، أخطأت وظننتی چـْرودية؟ لا حرج عليك، فدوما يحصل هذا معی.\n⟦1⟧ لسبب ما أجهله! ربما لأنی أبحث مسافرة عن الحب الحقيقی.\nأنا عزباء مستعدة لنصيبی، لكن عشقی للوحوش ينفر عنی الناس...\n⟦2⟧لو سرت شمالا ستجد⟦3⟧ إسطبل أكـّالا الشرقية⟦4⟧.⟦5⟧ سمعت أن من يقصده\nستعترضه وحوش جبارة شديدة.\nيقشعر بدنی حماسة وشغفا التفكير بجبروتها وعظمتها!",
+"en": "Oh, you mistook me for a Gerudo? No\nworries, for some reason it happens all\nthe time. No idea why!\nMaybe because I'm traveling in search of\ntrue love. I'm single and ready to mingle,\nbut my love of monsters scares people...\nIf you go north from here, you'll find the\nEast Akkala Stables. I heard there are\nsome strong monsters along the way.\nJust thinking about such strong monsters\ngives me goosebumps!",
+"src": "Npc_Road_045"
+},
+{
+"id": 366,
+"fa": "⟦0⟧لو سرت شمالا ستجد⟦1⟧ إسطبل أكـّالا الشرقية⟦2⟧. سمعت أن من يقصده\nستعترضه وحوش جبارة شديدة.\nيقشعر بدنی حماسة وشغفا التفكير بجبروتها وعظمتها!",
+"en": "If you go north from here, you'll find the\nEast Akkala Stables. I heard there are\nsome strong monsters along the way.\nJust thinking about such strong monsters\ngives me goosebumps!",
+"src": "Npc_Road_045"
+},
+{
+"id": 367,
+"fa": "⟦0⟧آه، أخطأت وظننتی چـْرودية؟ لا حرج عليك، فدوما يحصل هذا معی.\n⟦1⟧ لسبب ما أجهله! ربما لأنی أبحث مسافرة عن الحب الحقيقی.\nأنا عزباء مستعدة لنصيبی، لكن عشقی للوحوش ينفر عنی الناس...\n⟦2⟧سمعت أن فی هذه الربوع وحشا ضخما، ضخما جدا.\n⟦3⟧بل أعنی،⟦4⟧ أنه ضخم جدا جدا جدا. مع الأسف فهذا حد معلوماتی.\nولا تكفينی كی أقتفی أثره.\nوإنی أود رؤية هذا الوحش الضخم الذی عنه يتحدثون.",
+"en": "Oh, you mistook me for a Gerudo? No\nworries, for some reason it happens all\nthe time. No idea why!\nMaybe because I'm traveling in search of\ntrue love. I'm single, ready to mingle, but\nmy love of monsters scares people away.\nI heard there's a really big monster\nsomewhere in this region.\nLike...REALLY big.\nSadly, that's all the info I've got on it.\nIt's not enough to track it down, but I\nwould love to see such a big monster.",
+"src": "Npc_Road_045"
+},
+{
+"id": 368,
+"fa": "⟦0⟧سمعت أن فی هذه الربوع وحشا ضخما، ضخما جدا.\n⟦1⟧بل أعنی،⟦2⟧ أنه ضخم جدا جدا جدا. مع الأسف فهذا حد معلوماتی.\nولا تكفينی كی أقتفی أثره.\nوإنی أود رؤية هذا الوحش الضخم الذی عنه يتحدثون.",
+"en": "I heard there's a really big monster\nsomewhere in this region.\nLike...REALLY big.\nSadly, that's all the info I've got on it.\nIt's not enough to track it down, but I\nwould love to see such a big monster.",
+"src": "Npc_Road_045"
+},
+{
+"id": 369,
+"fa": "⟦0⟧أوه، رجوت أن تشتری منی شيئا؟ عادة يخطئ الناس ويظنوننی\nچـْرودية، لكن لم يسبق أن خلط أحد بينی وبين التجار!\n⟦1⟧سمعت أن فی ⟦2⟧قرية منلاشی⟦3⟧ حفل زفاف.\n⟦4⟧حفلات الزفاف خير مناسبات للقاء الناس،\nبرای همين أرجو أن ألتقی فارس أحلامی هناك.",
+"en": "Oh, were you hoping to buy something\nfrom me? Normally people mistake me for\na Gerudo, but never for a merchant!\nI hear there's a wedding in Tarrey Town.\nWeddings are great for meeting people,\nso I'm hoping to meet someone myself.",
+"src": "Npc_Road_045"
+},
+{
+"id": 370,
+"fa": "⟦0⟧سمعت أن فی ⟦1⟧قرية منلاشی⟦2⟧ حفل زفاف.\n⟦3⟧حفلات الزفاف خير مناسبات للقاء الناس،\nبرای همين أرجو أن ألتقی فارس أحلامی هناك.",
+"en": "I hear there's a wedding in Tarrey Town.\nWeddings are great for meeting people,\nso I'm hoping to meet someone myself.",
+"src": "Npc_Road_045"
+},
+{
+"id": 371,
+"fa": "⟦0⟧آه! أفزعتنی.⟦1⟧ هل كنت تطمع أن تشتری منی شيئا؟\n⟦2⟧ أعتذر لك أنی لست تاجرة.\nبل طالبة نصيب تسافر بحثا عن الحب الحقيقی.\nأنا عزباء تخاف ظل العنوسة ومستعدة للزواج.\nلكن حبی للوحوش ينفر الناس.⟦3⟧\nبمناسبة هذا الحديث...\nهل تعلم أن الأوكتا يغرق مع أنه من الأخطبوطيات؟\nفوحده الأوكتا المائی سينجو لو أسقطته فی الماء!",
+"en": "Oh! You startled me. Were you hoping to\nbuy something from me? Sorry, but I'm\nnot a merchant.\nI'm out here traveling in search of true\nlove. I'm single and ready to mingle, but\nmy love of monsters scares people away.\nSpeaking of... Did you know Octoroks\ncan drown even though they're octopi?\nOnly Water Octoroks survive the plunge!",
+"src": "Npc_Road_045"
+},
+{
+"id": 372,
+"fa": "⟦0⟧أتكلمنی؟⟦1⟧ أنا مجرد بنت سبيل هايلية عادية،\nلست بمدعاة للاهتمام مثل الچـْروديات أو الوحوش.\nخرجت أبحث عن حبی الحقيقی.\nعزباء ومستعدة لعش الزوجية، لكن عشقی للوحوش يفزع عنی الناس.\nعندما ترى قلعة هايرال يطلع منظر طبيعی رائع،\n⟦2⟧ ويزيد روعته الوحوش التی تعلوه.\n⟦3⟧سمعت أن فی القلعة كنوزا كثيرة متروكة،\nلكن ما يحمسنی أكثر هو أخبار أعداد\nالوحوش العرمرم التی يعج بها ذلك المكان!",
+"en": "You're talking to me? I'm just a plain ol'\nHylian traveler is all, nothing quite as\ninteresting as a Gerudo or a monster.\nI'm out here traveling in search of true\nlove. I'm single and ready to mingle, but\nmy love of monsters scares people away.\nSeeing Hyrule Castle can make for a\nnice view if you can get it, but all the\nmonsters around make it even nicer.\nI hear there's a lot of treasure left in the\ncastle, but I get more excited thinking of\nall the monsters that must be in there!",
+"src": "Npc_Road_045"
+},
+{
+"id": 373,
+"fa": "⟦0⟧سمعت أن فی القلعة كنوزا كثيرة متروكة،\nلكن ما يحمسنی أكثر هو أخبار أعداد\nالوحوش العرمرم التی يعج بها ذلك المكان!",
+"en": "I hear there's a lot of treasure left in the\ncastle, but I get more excited thinking of\nall the monsters that must be in there!",
+"src": "Npc_Road_045"
+},
+{
+"id": 374,
+"fa": "⟦0⟧أوه، السلام عليكم!⟦1⟧ فوجئت قليلا أنك قررت مبادرتی بالحديث.\nفكثيرا ما ينفر الناس وينفضون\nعنی بسبب عشقی للوحوش.⟦2⟧ لماذا يا ترى؟\nبمجرد سماعی عن وحش عظيم\nصنديد هائل الجثة فی طريق\n⟦3⟧إسطبل أكـّالا الشرقية\n⟦4⟧... ارتعدت كل جوارحی وما زالت!\n⟦5⟧من الشوق والشغف ارتعدت!",
+"en": "Oh, hello! I'm a bit surprised you decided\nto talk to me. My love of monsters often\nscares people away. No idea why!\nI heard there's a great big monster along\nthe way to East Akkala Stable, and I've\nbeen shaking ever since.\nShaking with excitement, that is!",
+"src": "Npc_Road_045"
+},
+{
+"id": 375,
+"fa": "⟦0⟧بمجرد سماعی عن وحش عظيم صنديد هائل الجثة\nفی طريق ⟦1⟧إسطبل أكـّالا الشرقية⟦2⟧...⟦3⟧⟦4⟧ \nارتعدت كل جوارحی وما زالت! من الشوق والشغف ارتعدت!",
+"en": "Even just hearing about a giant monster\nalong the way to East Akkala Stable... It\ngot me so excited—I'm still shaking!",
+"src": "Npc_Road_045"
+},
+{
+"id": 376,
+"fa": "⟦0⟧أتكلمنی؟⟦1⟧ أنا مجرد بنت سبيل هايلية عادية،\nلست بمدعاة للاهتمام مثل الچـْروديات أو الوحوش.\nخرجت أبحث عن حبی الحقيقی.\nعزباء ومستعدة لعش الزوجية، لكن عشقی للوحوش يفزع عنی الناس.\n⟦2⟧ما يثير اهتمامی الآن شائعات عن ⟦3⟧الحورية الكبرى⟦4⟧.⟦5⟧ \nيقال إن نظرة منها تعطيك السعادة...\nوتستطيع أن تزيد ملابسك بذخا!",
+"en": "You're talking to me? I'm just a plain ol'\nHylian traveler is all, nothing quite as\ninteresting as a Gerudo or a monster.\nI'm out here traveling in search of true\nlove. I'm single and ready to mingle, but\nmy love of monsters scares people away.\nRight now, I'm interested in rumors\nabout the Great Fairy. They say just a\nsingle glance will bring you happiness...\nAnd that she can make your clothes\nmore luxurious!",
+"src": "Npc_Road_045"
+},
+{
+"id": 377,
+"fa": "⟦0⟧ما يثير اهتمامی الآن شائعات عن ⟦1⟧الحورية الكبرى⟦2⟧.⟦3⟧ \nيقال إن نظرة منها تعطيك السعادة...\nوتستطيع أن تزيد ملابسك بذخا!",
+"en": "Right now, I'm interested in rumors\nabout the Great Fairy. They say just a\nsingle glance will bring you happiness...\nAnd that she can make your clothes\nmore luxurious!",
+"src": "Npc_Road_045"
+},
+{
+"id": 378,
+"fa": "⟦0⟧أتكلمنی؟⟦1⟧ أنا مجرد بنت سبيل هايلية عادية،\nلست بمدعاة للاهتمام مثل الچـْروديات أو الوحوش.\nخرجت أبحث عن حبی الحقيقی.\nعزباء ومستعدة لعش الزوجية، لكن عشقی للوحوش يفزع عنی الناس.\nتسأل كيف أتسلى؟⟦2⟧ بالطرق الطبيعية لا غير.\n⟦3⟧أحصی قائمة لسمات الوحوش المفضلة عندی...\nثم أتخيل منازلها وجحورها...\n⟦4⟧أتوق شوقا لحفل الزفاف فی⟦5⟧ قرية منلاشی⟦6⟧.\nأكاد أقسم أنه كتب لی أن ألقى فيه فارس أحلام يعشق الوحوش مثلی!",
+"en": "You're talking to me? I'm just a plain ol'\nHylian traveler is all, nothing quite as\ninteresting as a Gerudo or a monster.\nI'm out here traveling in search of true\nlove. I'm single and ready to mingle, but\nmy love of monsters scares people away.\nWhat do I do for fun? The normal things.\nI list my favorite things about monsters...\nI imagine where the monsters live...\nI'm looking forward to the wedding at\nTarrey Town. I'm bound to meet someone\nwho likes monsters as much as me there!",
+"src": "Npc_Road_045"
+},
+{
+"id": 379,
+"fa": "⟦0⟧بالمناسبة ألا تدری متى يبدأ حفل الزفاف الذی فی ⟦1⟧قرية منلاشی⟦2⟧؟\n⟦3⟧ لن أتأخر عن لقاء فارس أحلامی المقدور!",
+"en": "Speaking of, do you know when the\nwedding at Tarrey Town starts? I can't\nbe late to meeting my perfect someone!",
+"src": "Npc_Road_045"
+},
+{
+"id": 380,
+"fa": "⟦0⟧تسأل كيف أتسلى؟⟦1⟧  بالطرق الطبيعية لا غير.\n⟦2⟧أحصی قائمة لسمات الوحوش المفضلة عندی...\nثم أتخيل منازلها وجحورها...",
+"en": "What do I do for fun? The normal things.\nI list my favorite things about monsters...\nI imagine where the monsters live...",
+"src": "Npc_Road_045"
+},
+{
+"id": 381,
+"fa": "⟦0⟧لا أمانع التحصن من الغيث.⟦1⟧ يرفع هذا من فرص\nالظروف الرومنسية للقاء فارس أحلامی شريك العمر!",
+"en": "I don't mind taking shelter from the rain.\nIt raises my chances of meeting my\nspecial someone in a romantic setting!",
+"src": "Npc_Road_045"
+},
+{
+"id": 382,
+"fa": "⟦0⟧أنا أبيع الحشرات.⟦1⟧ ما لك؟ فهی حياتی!⟦2⟧",
+"en": "I sell bugs. What? It's a living!",
+"src": "Npc_Road_031"
+},
+{
+"id": 383,
+"fa": "⟦0⟧أأمورك مضبوطة؟⟦1⟧",
+"en": "You all set?",
+"src": "Npc_Road_031"
+},
+{
+"id": 384,
+"fa": "⟦0⟧إذا... ما زلت حيا أرزق. ⟦1⟧لعل هذه بشرى لشیء.",
+"en": "Well, I'm still alive. Guess that counts\nfor something.",
+"src": "Npc_Road_031"
+},
+{
+"id": 385,
+"fa": "⟦0⟧يا سلام عليك. ⟦1⟧يا سلام على \"الحركات\"",
+"en": "Wow, look at you. Nice \"moves.\"",
+"src": "Npc_Road_031"
+},
+{
+"id": 386,
+"fa": "⟦0⟧لو هاجمك وحش ولم تهرب فسوف... مم، ⟦1⟧أنت لست أنا، فانس الأمر.",
+"en": "If a monster attacks and you don't run,\nwell... You're not me, that's for sure.",
+"src": "Npc_Road_031"
+},
+{
+"id": 387,
+"fa": "⟦0⟧أحماری على ما يرام؟ ⟦1⟧وما حال حمولتی؟",
+"en": "Is my donkey OK? What about my cargo?",
+"src": "Npc_Road_031"
+},
+{
+"id": 388,
+"fa": "⟦0⟧أسترخی؟ أنى لی أن أسترخی وأنا أستشيط غضبا.",
+"en": "I'm still too nervous to relax.",
+"src": "Npc_Road_031"
+},
+{
+"id": 389,
+"fa": "⟦0⟧لم هذا؟ ⟦1⟧لم الآن؟ ⟦2⟧لم أنا؟",
+"en": "Why this? Why now? Why me?",
+"src": "Npc_Road_031"
+},
+{
+"id": 390,
+"fa": "⟦0⟧حرصت على خروجی من المأزق حيا.\n⟦1⟧ لا أعرف هل تريد هذه أصلا، لكنها حلال عليك.",
+"en": "You saw me through alive. I don't know if\nyou'd even want this, but it's yours.",
+"src": "Npc_Road_031"
+},
+{
+"id": 391,
+"fa": "حشرات ساخنة وباردة هنا!",
+"en": "Hot and cold bugs here!",
+"src": "Npc_Road_031"
+},
+{
+"id": 392,
+"fa": "⟦0⟧لن يضرك أن تلقی نظرة.",
+"en": "Can't hurt to look.",
+"src": "Npc_Road_031"
+},
+{
+"id": 393,
+"fa": "ستبيع هذه؟ أظن أننی سأعطيك ⟦0⟧⟦1⟧ روبية⟦2⟧.⟦3⟧",
+"en": "You're selling that? I guess I can give\nyou  rupees.",
+"src": "Npc_Road_031"
+},
+{
+"id": 394,
+"fa": "⟦0⟧معذرة ⟦1⟧نفد المخزون.",
+"en": "Sorry, I'm out.",
+"src": "Npc_Road_031"
+},
+{
+"id": 395,
+"fa": "⟦0⟧غالية على ميزانيتك أخی. ⟦1⟧هذا محل وليس دار صدقات.",
+"en": "You can't afford that. I'm running a shop,\nnot a charity.",
+"src": "Npc_Road_031"
+},
+{
+"id": 396,
+"fa": "⟦0⟧لم يبق عندك فسحة مكان. ⟦1⟧لا أستطيع أن أبيعك ما لا طاقة لك بحمله.",
+"en": "You're out of room. I can't sell you stuff\nyou can't carry.",
+"src": "Npc_Road_031"
+},
+{
+"id": 397,
+"fa": "سأعطيك ⟦0⟧⟦1⟧ روبية⟦2⟧.⟦3⟧",
+"en": "I'll give you  rupees.",
+"src": "Npc_Road_031"
+},
+{
+"id": 398,
+"fa": "⟦0⟧همممم، لا، محال.\n⟦1⟧لا تأخذه خلافا شخصيا،\nلكنی لا أظنه يصلح لأتاجر به.",
+"en": "Hmm, nah. Nothing personal, I just don't\nthink I could flip it.",
+"src": "Npc_Road_031"
+},
+{
+"id": 399,
+"fa": "⟦0⟧أرجو أنك لن تصاب بنزلة برد فی هذه الأمطار.\n⟦1⟧هل يساعدك لو عرضت عليك شراء فراشة مخمدة؟",
+"en": "I hope you don't catch cold in this rain.\nWould it help if I offered to sell you\na summerwing butterfly?",
+"src": "Npc_Road_031"
+},
+{
+"id": 400,
+"fa": "سيكون السعر ⟦0⟧⟦1⟧ روبية⟦2⟧.⟦3⟧",
+"en": "That'll be  rupees.",
+"src": "Npc_Road_031"
+},
+{
+"id": 401,
+"fa": "واحدة فقط؟ تمام. خذها بـ ⟦0⟧⟦1⟧ روبية⟦2⟧.⟦3⟧",
+"en": "Only one? OK. That'll be  rupees.",
+"src": "Npc_Road_031"
+},
+{
+"id": 402,
+"fa": "كلها؟ تمام. خذها بـ⟦0⟧⟦1⟧ روبية⟦2⟧.⟦3⟧",
+"en": "ALL of them? OK. That'll be\n rupees.",
+"src": "Npc_Road_031"
+},
+{
+"id": 403,
+"fa": "إذن... كلها؟ تمام. خذها بـ ⟦0⟧⟦1⟧ روبية⟦2⟧.⟦3⟧",
+"en": "So...all of them? Sure. I'll pay\n rupees.",
+"src": "Npc_Road_031"
+},
+{
+"id": 404,
+"fa": "⟦0⟧انتهى. ⟦1⟧نفد منی كل شیء. ⟦2⟧الفضل لك.",
+"en": "That's it. I'm out. Thanks for that.",
+"src": "Npc_Road_031"
+},
+{
+"id": 405,
+"fa": "واحدة؟ طبعا. ثمنها ⟦0⟧⟦1⟧ روبية⟦2⟧.⟦3⟧",
+"en": "One? Sure. That's  rupees.",
+"src": "Npc_Road_031"
+},
+{
+"id": 406,
+"fa": "⟦0⟧هذه الصحراء سعير فی النهار وصقيع فی الليل.\n⟦1⟧لا أظن هناك فردا مستعدا لهما إلا نساء گرودو أولئك.",
+"en": "The desert's scorching by day and\nfreezing at night.Those Gerudo women are probably the\nonly ones prepared for both.",
+"src": "Npc_Road_031"
+},
+{
+"id": 407,
+"fa": "⟦0⟧هذه الصحراء سعير فی النهار وصقيع فی الليل.\n ⟦1⟧لا أظن هناك فردا مستعدا لهما، فالأفضل أن تستعد!",
+"en": "The desert's scorching by day and\nfreezing at night. You'd better be\nprepared for both!",
+"src": "Npc_Road_031"
+},
+{
+"id": 408,
+"fa": "⟦0⟧⟦1⟧إسطبل أخدود گرودو ⟦2⟧مكان حلو مستطاب، لكن\nهل تتوغل فی الصحراء بعده؟ إن فعلت،\nفيجدر بك صنع أكاسير تدفئة وتبريد.",
+"en": "Gerudo Canyon Stable is a nice place\nand all, but are you going further into\nthe desert from here?\nBecause if so, you should make some\nelixirs to keep you both warm\nand cool.",
+"src": "Npc_Road_031"
+},
+{
+"id": 409,
+"fa": "⟦0⟧الأحرى بك أن تصنع أكاسيرا مدفئة ومبردة\nلتضمن لنفسك الثبات فی الصحراء.",
+"en": "You should make some elixirs to keep\nyou both warm and cool in the desert.",
+"src": "Npc_Road_031"
+},
+{
+"id": 410,
+"fa": "⟦0⟧أعندك كفايتك من الأكاسر لرحلتك للصحراء؟\nأتحتاج أی أشلاء وحشية لتصنع مزيد الأكاسير؟\nسعير النهار أسوء من صقيع الليل.\n ⟦1⟧لو خيرونی واحدا فقط، لصنعت الإكسير المبرد.",
+"en": "Got enough elixir for your trip into the\ndesert? Need any monster parts to\nmake more?\nThe daytime heat is much worse than the\nchill at night. If you can only do one,\nI'd make some cooling elixir.",
+"src": "Npc_Road_031"
+},
+{
+"id": 411,
+"fa": "⟦0⟧سعير النهار الحار أشنع بكثير من صقيع الليل.\n ⟦1⟧لو كنت مخيرا على إكسير واحد، لاخترت المبرد.",
+"en": "The daytime heat is much worse than\nthe chill at night. If you can only do one,\nI'd make some cooling elixir.",
+"src": "Npc_Road_031"
+},
+{
+"id": 412,
+"fa": "⟦0⟧حذار... فبعد هذه النقطة وحوش كثيرة.\n⟦1⟧ فلو قضوا على المزيد من المسافرين،\nسينخرب بيتی وأفلس.\n⟦2⟧ماذا سيستفيد الوحش من خنافسی؟ ⟦3⟧آخ...⟦4⟧ هذا الخط الأحمر لی.",
+"en": "Careful... There's lots of monsters past \nthis point. If they claim any more\ntravelers, my business is sunk.\nAfter all, what's a monster need with\nmy bugs? Nah... This is the end of the\nline for me.",
+"src": "Npc_Road_031"
+},
+{
+"id": 413,
+"fa": "⟦0⟧سأعود أدراجی. ⟦1⟧فالوحوش التی بعد هذا المكان\nزائدة عن حاجتی وما أطيقه.",
+"en": "I'm turning back. Too many monsters\npast this point for my tastes.",
+"src": "Npc_Road_031"
+},
+{
+"id": 414,
+"fa": "⟦0⟧يقع ⟦1⟧سوق كارا كارا ⟦2⟧على مشارف ⟦3⟧صحراء گرودو ⟦4⟧،\nهناك واحة عامرة يرتادها التجار. وهناك منافسة كثيرة. ⟦5⟧\nثم أنی لا أحب جر حماری هناك. ⟦6⟧\nفأفضل الإسطبلات.",
+"en": "The Kara Kara Bazaar just beyond the\nGerudo Desert is an oasis packed with\nmerchants.\nToo much competition for me. Plus I\ndon't wanna drag my donkey out there. \nThe stables are more my speed.",
+"src": "Npc_Road_031"
+},
+{
+"id": 415,
+"fa": "⟦0⟧⟦1⟧⟦2⟧يقع ⟦3⟧سوق كارا كارا ⟦4⟧على مشارف ⟦5⟧صحراء گرودو ⟦6⟧،\nهناك واحة عامرة يرتادها التجار.",
+"en": "The Kara Kara Bazaar just beyond the\nGerudo Desert is an oasis packed with\nmerchants.",
+"src": "Npc_Road_031"
+},
+{
+"id": 416,
+"fa": "⟦0⟧تشد الرحل للصحراء؟ أتزودت أولا بالأدوية؟\n⟦1⟧هل تعلم أنه بإمكانك طبخ إكسير يدفئك أو يبردك\nبمجرد خلط الخنافس وأشلاء الوحوش؟",
+"en": "Bound for the desert? Did you stock up\non medicine?Did you know you can make an elixir\nthat keeps you warm or cool with just\na few bugs and monster parts?",
+"src": "Npc_Road_031"
+},
+{
+"id": 417,
+"fa": "⟦0⟧هل أنت مستعد أتم الاستعداد لتعبر الصحراء؟⟦1⟧ لو لم تكن\nعلى أهبة الإستعداد، فالأجدى بك أن تتزود بالأكاسير.\nيمكنك أثناء راحتك فی الإسطبل هنا\nطبخ بعضها كی تدفئك أو تبردك. ⟦2⟧عليك بتجربة ذلك وستستفيد.",
+"en": "Are you REALLY ready to cross the\ndesert? If not, you should stock up on\nelixir.\nYou can make some that warm you up\nor cool you down while taking a break\nright here at the stable. Try it.",
+"src": "Npc_Road_031"
+},
+{
+"id": 418,
+"fa": "⟦0⟧يمكنك فی الإسطبل هنا طبخ الأكاسير كی تدفئك أو تبردك.\n ⟦1⟧عليك بتجربة ذلك وستستفيد.",
+"en": "You can make an elixir that warms you\nup or cools you down while taking a\nbreak right here at the stable. Try it.",
+"src": "Npc_Road_031"
+},
+{
+"id": 419,
+"fa": "⟦0⟧لو تعزم على رحلة فی الصحراء أثناء ساعات النهار،\nفستحتاج إلى إكسير يبردك. أما ليلا، فذلك كلام آخر.\n ⟦1⟧وقتها تحتاج إلى إكسير يدفئك.\n⟦2⟧النوعان سيان فی أنهما لا يحتاجان إلا حشرات وأشلاء وحوش.",
+"en": "If you're planning a trip through the\ndesert by day, you'll need an elixir to\ncool you off.\nAt night, it's a different story. That's\nwhen you need some warming tonic.Either one just takes a few bugs and\nsome monster parts.",
+"src": "Npc_Road_031"
+},
+{
+"id": 420,
+"fa": "⟦0⟧ستحتاج شيئا من خنافسی لو تخطط لرحلة طويلة.\n⟦1⟧أتسأل لماذا؟ ⟦2⟧سؤال وجيه.\n ⟦3⟧الحشرات مكون مهم فی صنع الأكاسير\nالتی تحتاجها لتصمد فی المناخات القاسية.",
+"en": "You'll need some of my bugs if you have\na long trip planned.Why, you ask? Good question. They're\nimportant ingredients in the elixirs\nyou need to survive harsh climates.",
+"src": "Npc_Road_031"
+},
+{
+"id": 421,
+"fa": "⟦0⟧الحشرات مكون مهم فی صنع الأكاسير\nالتی تحتاجها لتصمد فی المناخات القاسية.",
+"en": "Bugs are important ingredients in the\nelixirs you need to survive the desert\nclimate.",
+"src": "Npc_Road_031"
+},
+{
+"id": 422,
+"fa": "⟦0⟧أود أن أسافر وارتحل فی الصحراء لبيع سلعی،\nلكنی لم أجد بعد حيوانا من المواشی\nلا يعلق فی رمال كثيب الصحاری.",
+"en": "I'd like to travel the desert to sell my\nwares, but I haven't found a pack animal\nyet that won't get stuck in the sand.",
+"src": "Npc_Road_031"
+},
+{
+"id": 423,
+"fa": "⟦0⟧⟦1⟧فقمه‌های شنی⟦2⟧\nوسيله‌ای خيلی ضروری برای حمل و نقل مردم گرودو هستن.<br><br>اما <color blue>فقمه‌های شنی</color> وحشی هيچ آموزشی نديدن؛<br>مما يجعلها عصية على القبض.<br>بيشتر آدما اجاره كردن اون‌ها رو گزينه‌ی آسون‌تری ميدونن...<br>⟦3⟧و اينجا جاييه كه نقش كسايی كه تربيت <color blue>فقمه‌های شنی</color> رو حرفه‌ی خودشون ميدونن، مثل من، مشخص ميشه!<br>اگه در مورد <color blue>فقمه‌های شنی</color> سوالی داشتيد، بهم سر بزنيد.⟦4⟧",
+"en": "Sand seals are an important means of\ntransportation for the Gerudo. \n\nBut the sand seals in the wild haven't \nbeen trained. This makes them especially\ntough to catch.\nMany people find it easier just to rent\none...\n\nAnd that's where a skilled sand-seal\ntrainer like me comes in!\n\nCome talk to me if you have any \nquestions about sand seals.",
+"src": "Npc_oasis020"
+},
+{
+"id": 424,
+"fa": "⟦0⟧هممم...⟦1⟧ جميل جميل...⟦2⟧\nيبدو أن نار المحارب تجری فيك حتى\nفی خضم هذه الفوضى العارمة.",
+"en": "Hrm... Well, well...\nLooks like you're a trooper even\nin this mess.",
+"src": "Npc_RitoHatago001"
+},
+{
+"id": 425,
+"fa": "⟦0⟧هل تبحث عن مكان تبيت فيه...⟦1⟧\nفی هذا الوقت المتأخر ليلا؟",
+"en": "So late at night...\nYou must be looking for a place to stay?",
+"src": "Npc_RitoHatago001"
+},
+{
+"id": 426,
+"fa": "⟦0⟧لن أجبرك على التفريط فيها.⟦1⟧\nفيبدو أنك بأمس الحاجة لوجبة جيدة أيها الشاب...",
+"en": "I won't force you to part with it.\nYou look like you could use a good\nmeal, young man...",
+"src": "Npc_RitoHatago001"
+},
+{
+"id": 427,
+"fa": "⟦0⟧بالمناسبة،⟦1⟧ هل وقعت يدك\nعلى المزيد من ⟦2⟧بهار گورون⟦3⟧؟",
+"en": "By the by, have you gotten your hands\non any more of that Goron spice?",
+"src": "Npc_RitoHatago001"
+},
+{
+"id": 428,
+"fa": "⟦0⟧أيمكنك أن تحضر لی مزيدا\nمن⟦1⟧بهار گورون⟦2⟧؟\nأخشى أننی صرت مدمنا.",
+"en": "Could you bring me some more of that\nGoron spice? I'm afraid I'm addicted.",
+"src": "Npc_RitoHatago001"
+},
+{
+"id": 429,
+"fa": "⟦0⟧اوه، معلوم شد فقط يك مرد بود... ⟦1⟧ ⟦2⟧لكن... هوم،\n⟦3⟧گوش كن برادر، يك نصيحت كوچك بهت بكنم كه نياز داری كسی بهت بگه؟\nكمی عبوس و بد اخلاق به نظر می‌رسی. ⟦4⟧جوری راه می‌روی كه انگار بدبخت و غمگينی،\nاينطوری هيچ وقت ازدواج نمی‌كنی.\nاوه، چطور می‌شود اين را به تو بگويم؟ من را ببخشيد.\n⟦5⟧حتی اگر هم رك باشم، شايد اين از سر تكبر من باشد.\nمغزم الان مثل پشمك است، از هر چيزی جز دخترها خالی است.\nهميشه از جنس مونث دلگير می‌شدم، اما الان او تنها چيزی است كه به آن فكر می‌كنم! ⟦6⟧\nمعذرت می‌خواهم، اما حتی اگر بقيه زنان هم جز او چشمم را پر نكنند،\nچطور ممكن است به يك مرد برای گفتن يك «صبح بخير» توجه كنم؟\nپس منظورم را فهميدی؟\nاگر نيازی داری، خودت لطفی به من بكن...\nو دنبال نيازت از كس ديگری بگرد. ",
+"en": "Oh, it's just a guy...\n\n\nBut...hm. Listen, pal, a little free advice?\nYou're looking pretty sour.\n\nYou keep walking around looking like\na grouch, and you'll never get a girl. \n\nAw, what am I saying? Sorry about that.\nAwfully condescending of me.\n\nI've just got wooing on the brain.\nGirls have always vexed me, but right\nnow SHE is all I can think of!\nSorry, but I don't even have time for\nother GIRLS right now, let alone other\nguys, know what I mean?\nIf you need something, do me a favor...\nAsk someone else.",
+"src": "Gerudo_Ch_SnowBoots"
+},
+{
+"id": 430,
+"fa": "⟦0⟧اوه، اين تويی... ⟦1⟧لكن... آآه.⟦2⟧گوش كن برادر،\nبهت چيزی رو ميگم كه هيچ‌كس تا حالا بهت نگفته.\nكمی عبوس و بد اخلاق به نظر می‌رسی. ⟦3⟧جوری راه می‌روی كه انگار بدبخت و غمگينی،\nاينطوری هيچ وقت ازدواج نمی‌كنی.\nاوه، چطور می‌شود اين را به تو بگويم؟ من را ببخشيد.\n⟦4⟧حتی اگر هم رك باشم، شايد اين از سر تكبر من باشد.\nمغزم الان مثل پشمك است، از هر چيزی جز دخترها خالی است.\nهميشه از جنس مونث دلگير می‌شدم، اما الان او تنها چيزی است كه به آن فكر می‌كنم! ⟦5⟧\nمعذرت می‌خواهم، اما حتی اگر بقيه زنان هم جز او چشمم را پر نكنند،\nچطور ممكن است به يك مرد برای گفتن يك «صبح بخير» توجه كنم؟\nپس منظورم را فهميدی؟\nاگر نيازی داری، خودت لطفی به من بكن...\nو دنبال نيازت از كس ديگری بگرد. ",
+"en": "Oh, it's just you...\n\n\nBut...huh. Look, I feel like someone \nshould tell you that you have kind of a\nsulky look about you.\nYou keep walking around looking all\nmiserable, and you'll never get a girl. \n\nAw, what am I saying? Sorry about that.\nAwfully condescending of me.\n\nI've just got wooing on the brain.\nGirls have always vexed me, but right\nnow SHE is all I can think of!\nSorry, but I don't even have time for\nother GIRLS right now, let alone other\nguys, know what I mean?\nIf you need something, do me a favor...\nAsk someone else.",
+"src": "Gerudo_Ch_SnowBoots"
+},
+{
+"id": 431,
+"fa": "⟦0⟧لكن اين معما برای همه سخت بود\nو فكر نابغه گنج‌يابان را خسته كرد،\n\nخودِ دوميِاك، و چه می‌دانی او كيست،\nو او هم منم كه پيش روی تو ايستاده‌ام!\n\n⟦1⟧تا وقتی كه بفهمی كار من چقدر سخت است،\n⟦2⟧آنچه دارم را به تو خواهم گفت.\n\n⟦3⟧اما اطمينان داشته باش كه هرگز نخواهی رسيد\nبه راه‌حل، حتی با تلاش بسيار.",
+"en": "But this riddle has even I, Domidak,\nthe premier treasure hunter,\nscratching my head.\nSo that you can tell how challenging my\nwork is, I'll tell it to you. You'll never\nsolve it, though.",
+"src": "MinamihateeluMini_touzoku"
+}
+]

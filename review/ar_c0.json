@@ -1,0 +1,650 @@
+[
+{
+"id": 0,
+"fa": "⟦0⟧عكس‌های گرفته شده در دفتر عكس ذخيره می‌شوند. اين ويژگی\nمفيدی دارد كه آن را به دايرةالمعارف هايرولی متصل می‌كند و به طور خودكار\nتصاوير جديد را شناسايی و ثبت می‌نمايد.⟦1⟧",
+"en": "Pictures created are saved in the album. It has a useful\nfeature that connects to the Hyrule Compendium and\nautomatically registers pictures of new entries.",
+"src": "AppTool_00"
+},
+{
+"id": 1,
+"fa": "⟦0⟧هذه ⟦1⟧سوق كارا كارا⟦2⟧.\n\n\n⟦3⟧بلدة گرودو⟦4⟧ على مسافة لا بأس بها من هنا فی\nاتجاه الجنوب الغربی. لو نويت الذهاب هناك،\nففكر بالراحة قليلا أولا.\nلكنك ڤوی أصلا... حتى لو وصلت البلدة، فلن يتركنك تدخل...\nبصرف النظر عن هذا، ⟦5⟧فالوحش المقدس⟦6⟧ ثارت ثائرته الآن،\nبرای همين لا أنصح بالذهاب إلى ⟦7⟧بلدة گرودو⟦8⟧ من الأساس.⟦9⟧",
+"en": "This is Kara Kara Bazaar.\n\n\nGerudo Town is still a fair distance\nsouthwest of here. If you're headed\nthere, you should consider resting a bit.\nThough, you ARE a voe... Even if you\nmake it to town, you won't be able to\nget in...\nAll the same, the Divine Beast is kicking\nup a storm right now, so I don't\nrecommend going to Gerudo Town.",
+"src": "Npc_SmallOasis011"
+},
+{
+"id": 2,
+"fa": "⟦0⟧هذه ⟦1⟧سوق كارا كارا⟦2⟧.\n\n\n⟦3⟧بلدة گرودو⟦4⟧ على مسافة لا بأس بها من هنا فی\nاتجاه الجنوب الغربی. لو تنوی الذهاب هناك\nففكر بالراحة قليلا أولا.\nلكنك ڤوی أصلا... حتى لو وصلت البلدة، لن يتركنك تدخل...\nبصرف النظر عن هذا، ⟦5⟧فالوحش المقدس⟦6⟧ ثارت ثائرته الآن،\nبرای همين لا أنصح بالذهاب إلى ⟦7⟧بلدة گرودو⟦8⟧ من الأساس.⟦9⟧",
+"en": "This is Kara Kara Bazaar.\n\n\nGerudo Town is still a fair distance\nfrom here. If you're headed there, you\nshould consider resting a bit.\nThough, you ARE a voe... Even if you\nmake it to town, you won't be able to\nget in...\nAll the same, the Divine Beast is kicking\nup a storm right now, so I don't\nrecommend going to Gerudo Town.",
+"src": "Npc_SmallOasis011"
+},
+{
+"id": 3,
+"fa": "⟦0⟧هذه ⟦1⟧سوق كارا كارا⟦2⟧.\n\n\n⟦3⟧بلدة گرودو⟦4⟧ على مسافة لا بأس بها من هنا\nفی اتجاه الجنوب الغربی. لو تنوين الذهاب هناك،\nففكری بالراحة قليلا أولا.\nلكن... بصرف النظر عن هذا، ⟦5⟧فالوحش المقدس⟦6⟧\nثارت ثائرته الآن، برای همين لا أنصح بمجازفة الذهاب\nإلى بلدة گرودو من الأساس.⟦7⟧",
+"en": "This is Kara Kara Bazaar.\n\n\nGerudo Town is still a fair distance\nfrom here. If you're headed there, you\nshould consider resting a bit.\nAlthough... The Divine Beast is kicking\nup a storm right now, so it would be very\ndangerous to head that way.",
+"src": "Npc_SmallOasis011"
+},
+{
+"id": 4,
+"fa": "ما بلدة گرودو؟",
+"en": "Gerudo Town?",
+"src": "Npc_SmallOasis011"
+},
+{
+"id": 5,
+"fa": "ما قصة هذا التاجر...",
+"en": "There's this merchant...",
+"src": "Npc_SmallOasis011"
+},
+{
+"id": 6,
+"fa": "⟦0⟧آه نعم، وأكثر بكثير من واحد. السبب أن كل التجار الڤويات\nيتجمعون هنا على أمل أن يدخلوا ⟦1⟧ بلدة گرودو⟦2⟧.\n\nيعاندون ويرفضون الاستسلام، حتى رغم القانون الصارم\nالذی يحرم دخول أی ڤوی إلى البلدة.⟦3⟧ لكن ذكرنی سؤالك\nبتاجرة لفتت انتباهی. ⟦4⟧ڤای هايلية⟦5⟧ تاجرة فی النزل سابقا.\nكانت تلبس ثوب گرودو التقليدی، وهذا لفت انتباهی.\nأظنها ما زالت فی الأنحاء. لأن ذلك ⟦6⟧الوحش المقدس⟦7⟧\nينفر أكثر الناس من السفر.",
+"en": "Oh, yes. And many, many more than just\none, to be sure.\n\nThat's because all the voe merchants are\ngathered here, hoping to get access to\nGerudo Town.\nThey refuse to give up, even though voe\nare strictly forbidden from entering\nthe town.\nAlthough... Now that you mention it, one\nmerchant in particular did stand out\nto me.\nI saw a Hylian vai merchant at the inn\nbefore. She was wearing traditional\nGerudo clothes, which caught my eye.\nShe's probably still around town;\nthat Divine Beast is scaring a lot of\npeople out of traveling.",
+"src": "Npc_SmallOasis011"
+},
+{
+"id": 7,
+"fa": "⟦0⟧لو عندك أی سؤال آخر، فكلی آذان صاغية.\nأنا أرابط على الحراسة يوميا، برای همين أود\nأن يكون عندی من أحكی معه.⟦1⟧",
+"en": "If there's anything else you'd like to ask,\nfeel free.\n\nI'm on watch by myself every day,\nso it's nice to have someone to talk to.",
+"src": "Npc_SmallOasis011"
+},
+{
+"id": 8,
+"fa": "⟦0⟧أما سمعت ⟦1⟧بالوحش المقدس ڤاه نابوريس⟦2⟧؟\nالمفروض أنه الراعی الذی يحمی أهل گرودو، لكنه فجأة\nبدأ يهيج منذ مدة. ولا شیء نستطيع عمله لنوقف شره...\nيطوقه كساء من العواصف الرمالية العاتية\nووابل من البرق القاصف. مع أنه لم يقرر بعد الذهاب\nنحو الواحة أو بلدة گرودو، لكن لا شیء يمنعه بسهولة.\nأحاول قصارى جهدی أن أراقبه من مكانی هنا.⟦3⟧",
+"en": "You don't know about Divine Beast Vah\nNaboris?\n\nSupposedly, it is the guardian deity for\nthe Gerudo people, but it suddenly\nstarted acting up a while back.\nThere's nothing we can do to stop it,\neither... It's protected by a fierce\nsandstorm and intense lightning.\nThough it hasn't yet, it could easily head\ntoward Gerudo Town or this oasis. I do\nmy best to keep an eye on it from here.",
+"src": "Npc_SmallOasis011"
+},
+{
+"id": 9,
+"fa": "⟦0⟧أما سمعت ⟦1⟧بالوحش المقدس ڤاه نابوريس⟦2⟧؟ المفروض أنه\nالراعی الذی يحمی أهل گرودو، لكنه فجأة بدأ يهيج\nمنذ مدة. ولا شیء نستطيع عمله لنوقف شره...\nيطوقه كساء من العواصف الرمالية العاتية ووابل\nمن البرق القاصف. مع أنه لم يقرر بعد الذهاب نحو\nالواحة أو بلدة گرودو، لكن لا شیء يمنعه بسهولة.\nأحاول قصارى جهدی أن أراقبه من مكانی هنا.⟦3⟧",
+"en": "You don't know about Divine Beast Vah\nNaboris?\n\nSupposedly, it is the guardian deity for\nthe Gerudo people, but it suddenly\nstarted acting up a while back.\nThere's nothing we can do to stop it,\neither... It's protected by a fierce\nsandstorm and intense lightning.\nThough it hasn't yet, it could easily head\ntoward Gerudo Town or this oasis. I do\nmy best to keep an eye on it from here.",
+"src": "Npc_SmallOasis011"
+},
+{
+"id": 10,
+"fa": "⟦0⟧أما سمعت ⟦1⟧بالوحش المقدس ڤاه نابوريس⟦2⟧؟ المفروض أنه\nالراعی الذی يحمی أهل گرودو، لكنه فجأة بدأ يهيج\nمنذ مدة. ولا شیء نستطيع عمله لنوقف شره...\nيطوقه كساء من العواصف الرمالية العاتية ووابل\nمن البرق القاصف. مع أنه لم يقرر بعد الذهاب نحو\nالواحة أو بلدة گرودو، لكن لا شیء يمنعه بسهولة.\nأحاول قصارى جهدی أن أراقبه من مكانی هنا.",
+"en": "You don't know about Divine Beast Vah\nNaboris?\n\nSupposedly, it is the guardian deity for\nthe Gerudo people, but it suddenly\nstarted acting up a while back.\nThere's nothing we can do to stop it,\neither... It's protected by a fierce\nsandstorm and intense lightning.\nThough it hasn't yet, it could easily head\ntoward Gerudo Town or this oasis. I do\nmy best to keep an eye on it from here.",
+"src": "Npc_SmallOasis011"
+},
+{
+"id": 11,
+"fa": "⟦0⟧من يرد الحديث مع الچـْروديات فليتعلم بعضا من لهجتهم.\nعلى سبيل المثال! \"ساڤ أورچ\" تعنی \"سلام\"!",
+"en": "If you want to speak with the Gerudo,\nyou should learn some of our language.\nFor example, \"sav'orq\" is \"good-bye\"!",
+"src": "Npc_SmallOasis011"
+},
+{
+"id": 12,
+"fa": "⟦0⟧لن يتوغل ⟦1⟧الوحش المقدس⟦2⟧ على الأرجح باتجاهنا...\nلكن علينا أن نواظب على الاستنفار تحسبا لأی طارئ.\nحذار ثم حذار لو ذهبت إلى ⟦3⟧بلدة گرودو⟦4⟧،\nفقد تمزق قسوة الصحراء ملابسك الجميلة.⟦5⟧",
+"en": "Well, the Divine Beast probably won't\nhead in this direction... But we should\nbe on alert, just in case.\nIf you're going to Gerudo Town, you\nshould definitely be careful... The harsh\ndesert could tear up your nice outfit.",
+"src": "Npc_SmallOasis011"
+},
+{
+"id": 13,
+"fa": "⟦0⟧لن يتوغل ⟦1⟧الوحش المقدس⟦2⟧ على الأرجح باتجاهنا...\nلكن علينا أن نواظب على الاستنفار، تحسبا لأی طارئ.\nلو ذهبت إلى⟦3⟧ بلدة گرودو⟦4⟧ فحذار حذار.⟦5⟧",
+"en": "Well, the Divine Beast probably won't\nhead in this direction... But we should\nbe on alert, just in case.\nIf you're thinking of going anywhere near\nGerudo Town, you should definitely be\ncareful, too.",
+"src": "Npc_SmallOasis011"
+},
+{
+"id": 14,
+"fa": "⟦0⟧لن يتوغل الوحش المقدس على الأرجح لهذه المسافة...\nلكن علينا أن نراقبه، تحسبا لأی طارئ.\nلو نويت الخروج من هنا، فالحذر الحذر.⟦1⟧",
+"en": "The Divine Beast probably won't wander\nthis far, but we need to keep an eye on it\njust in case.\nIf you're planning to head out of town,\nyou'd better be sure you're prepared.",
+"src": "Npc_SmallOasis011"
+},
+{
+"id": 15,
+"fa": "⟦0⟧أتعلمون أن ليالی الصحراء تنزل فيها برودة قارسة؟\nالماكثون فی⟦1⟧سوق كارا كارا⟦2⟧ لن يمسهم سوء،\nلكن كلما ابتعدوا سيصير الصقيع أشد وطأة.",
+"en": "Did you know that desert nights get\nincredibly cold?\n\nYou'll be fine as long as you're in\nKara Kara Bazaar, but it can get really\nchilly the farther away you wander.",
+"src": "Npc_SmallOasis011"
+},
+{
+"id": 16,
+"fa": "⟦0⟧بدأت الشمس تضرب بعنف علينا...\nالصحراء ساخنة مروعة ما دامت الشمس تسطع عليها.\nفقوا أنفسكم الحر بأی وسيلة.",
+"en": "The sun is really starting to beat down\non us now...\n\nThe desert is incredibly hot so long as\nthe sun is blazing down on it. Be sure to\nkeep yourself cool as you travel.",
+"src": "Npc_SmallOasis011"
+},
+{
+"id": 17,
+"fa": "⟦0⟧⟦1⟧تقع بلدة گرودو⟦2⟧ فی الجنوب الغربی. تلك أكبر بلدة فی الربوع!\nمشهورة بالتجارة وكذلك بنشاطها وحياتها على طول الليل.\nلكن هناك قانون يحرم دخولها على أی ڤوی.⟦3⟧",
+"en": "Gerudo Town is to the southwest. It's the\nbiggest town in the area!\n\nIt's famous for trade and also for staying\nactive and vibrant all night long.\n\nHowever, there is a law forbidding\nvoe—males—from entering the city.",
+"src": "Npc_SmallOasis011"
+},
+{
+"id": 18,
+"fa": "⟦0⟧⟦1⟧تقع بلدة گرودو⟦2⟧ فی الجنوب الغربی. تلك أكبر بلدة فی الربوع!\nمشهورة بالتجارة وكذلك بنشاطها وحياتها على طول الليل.\nلكن هناك قانون يحرم دخولها على أی ڤوی.",
+"en": "Gerudo Town is to the southwest. It's the\nbiggest village in the area!\n\nIt's famous for trade and also for staying\nactive and vibrant all night long.\n\nHowever, there is a law forbidding\nvoe—males—from entering the city.",
+"src": "Npc_SmallOasis011"
+},
+{
+"id": 19,
+"fa": "⟦0⟧⟦1⟧تقع بلدة گرودو⟦2⟧ فی الجنوب الغربی. تلك أكبر بلدة فی الربوع!\nمشهورة بالتجارة وكذلك بنشاطها وحياتها على طول الليل.\nلكن هناك قانون يحرم دخولها على أی ڤوی.\nلكن ڤايا حلوة مثلك مرحب بها على الرحب والسعة!\nأو... هكذا المفروض، لولا أن⟦3⟧ الوحش المقدس⟦4⟧ هائج فی الصحراء،\nبرای همين لا أنصح بالتوجه للبلدة الآن بالذات.⟦5⟧",
+"en": "Gerudo Town is to the southwest. It's the\nbiggest town in the area!\n\nIt's famous for trade and also for staying\nactive and vibrant all night long.\n\nHowever, there is a law forbidding voe—\nmales—from entering the city... But a\ncute vai like you would be most welcome!\nOr...this would normally be true, but that\nDivine Beast is on a rampage, so I\ncan't recommend heading to town now.",
+"src": "Npc_SmallOasis011"
+},
+{
+"id": 20,
+"fa": "⟦0⟧ومع أن ⟦1⟧الوحش المقدس ⟦2⟧قد هدأت ثائرته،\nإلا أن الصحراء ما زالت تعج بالوحوش.\nفالحذر الحذر والحيطة الحيطة.",
+"en": "And while the Divine Beast has settled\ndown, the desert is still full of monsters.\nYou should stay on your guard.",
+"src": "Npc_SmallOasis011"
+},
+{
+"id": 21,
+"fa": "⟦0⟧تليق عليك تلك الثياب.\nومع أن ⟦1⟧الوحش المقدس ⟦2⟧قد هدأت ثائرته،\nإلا أن الصحراء مازالت تعج بالوحوش.\nخير لك لو تلازمين أهبتك القتالية وتحتاطين.\nعندما ينتهی دوامی، أفكر بلبس ثياب جميلة والخروج فی نزهة.",
+"en": "Those clothes look good on you.\n\n\nAnd while the Divine Beast has settled\ndown, the desert is still full of monsters.\nYou should stay on your guard.\nOnce my shift ends, I'm thinking of\nputting on a nice outfit and going out.",
+"src": "Npc_SmallOasis011"
+},
+{
+"id": 22,
+"fa": "⟦0⟧مثير للاهتمام...⟦1⟧ أنت ثانی هايلية أراها\nتلبس ثيابا على طراز گرودو.\nالأخرى كانت هيئتها كأنها من أهل البلد أكثر منك.\n⟦2⟧ لكن لا يمنع أنها تليق بك أيضا. لم أتصور\nأن ملابس گرودو لها هذا الرواج عند الهايليين...",
+"en": "Well, well...\n\n\nYou're the second Hylian I've seen\nwearing Gerudo-style clothing.\n\nThe other one looked much more Gerudo\nthough, if I'm being honest. Not that it\ndoesn't look good on you, too.\nI didn't realize that Gerudo clothing\nwas so popular among Hylians...",
+"src": "Npc_SmallOasis011"
+},
+{
+"id": 23,
+"fa": "⟦0⟧مع أن ⟦1⟧الوحش المقدس⟦2⟧ قد هدأت ثائرته،\nإلا أن الصحراء ما زالت تعج بالوحوش.\nلا مجال لنا للتهاون!\n⟦3⟧حان الوقت كی تأتی من تريحنی من دوامی...⟦4⟧⟦5⟧\nأريد أن أعود فی الوقت المناسب كی آخذ\nالمشروب وأسترخی فی المقهى...⟦6⟧⟦7⟧",
+"en": "Even though the Divine Beast has settled\ndown, the desert is still full of monsters.\nWe can't afford to be complacent!\nI think it's just about time for someone to\ncome relieve me...\n\nI really want to get back in time to grab a drink and\nrelax at the canteen...",
+"src": "Npc_SmallOasis011"
+},
+{
+"id": 24,
+"fa": "⟦0⟧هاه. لا أحتاج شكرا على واجب. هذه مهنتی.\nلعلمك، الصحراء ساخنة نهارا وباردة ليلا،\nوستستنزف قوتك فی لمح البصر.\nلو أبيت إلا التوغل فی الصحراء، فالحذر الحذر.",
+"en": "Hah. I don't need any thanks.\nThis is my job after all.\n\nYou know, the desert is hot during the\nday and cold at night. It'll take the\nenergy out of you in no time.\nIf you plan to head out into the\ndesert, make sure you're prepared.",
+"src": "Npc_SmallOasis011"
+},
+{
+"id": 25,
+"fa": "⟦0⟧و لكن...⟦1⟧وقتی در حضور موجودی با اين عظمت و بزرگی می‌ايستم،⟦2⟧\nبدنم بی‌اختيار به لرزه می‌افتد،\nحتی با اينكه می‌دانم او به من آسيبی نمی‌رساند.",
+"en": "Still...When I'm near something that enormous,\nmy body shivers of its own accord,\neven if my mind knows it won't hurt me.",
+"src": "BalladOfHeroRito"
+},
+{
+"id": 26,
+"fa": "⟦0⟧لوح شيكايی كه الان استفاده می‌كنی، همان است كه خود زلدا صد سال پيش استفاده می‌كرد.\nآن زمان فقط دوربين، دايرةالمعارف هايرول و قابليت‌های دفتر عكس را داشت.\n\nبعد از اينكه گانون شكستت داد و ما تو و لوح شيكا\nرا در معبد رستاخيز مهر و موم كرديم، موقع خواندن متون كهن قابليت‌های ديگری كشف كردم.\nمثلاً انجمادگر و متوقف‌كننده.⟦1⟧",
+"en": "The Sheikah Slate you're using is the\none Princess Zelda herself used 100\nyears ago.\nBack then, it only had the Camera,\nHyrule Compendium, and album runes.\n\nAfter you were defeated by Ganon and\nwe sealed you and the Sheikah Slate\nin the Shrine of Resurrection...\nI discovered additional runes while\nreading through some ancient texts.\nCryonis and Stasis, for example.",
+"src": "Npc_AncientDoctor"
+},
+{
+"id": 27,
+"fa": "⟦0⟧⟦1⟧⟦2⟧مصوره⟦3⟧ و⟦4⟧⟦5⟧دايرةالمعارف هايروليايی⟦6⟧ و⟦7⟧⟦8⟧آلبوم عكس⟦9⟧...⟦10⟧\nعاليه، همه چيز خوبه!",
+"en": "Camera, Hyrule Compendium, album...\nYep, looks good!",
+"src": "CarryingBlueFireEXMini"
+},
+{
+"id": 28,
+"fa": "⟦0⟧⟦1⟧⟦2⟧مصوره⟦3⟧ و⟦4⟧⟦5⟧دايرةالمعارف هايروليايی⟦6⟧ و⟦7⟧⟦8⟧آلبوم عكس⟦9⟧\n⟦10⟧و ⟦11⟧حسگر شيكا⟦12⟧...⟦13⟧ عاليه، همه چيز خوبه!",
+"en": "Camera, Hyrule Compendium, album, and\nthe Sheikah Sensor... Yep, looks good!",
+"src": "CarryingBlueFireEXMini"
+},
+{
+"id": 29,
+"fa": "⟦0⟧چيزی كه من بهش ميگم ⟦1⟧عكس⟦2⟧، يه تصويره كه محتوای اون شكل دقيقی از\nچيزيه كه ازش عكس گرفتی. ⟦3⟧برای گرفتن عكس، چيزی كه بهش ميگيم ⟦4⟧مصوره⟦5⟧ كافيه.\n\n⟦6⟧حتی عكس‌های ⟦7⟧حيوانات و اشيا هم به طور خودكار به\n⟦8⟧دايرةالمعارف هايروليايی⟦9⟧ اضافه ميشه.\n\nبه عبارت ديگه، ⟦10⟧بهتره از هرچيزی كه\nهرجا ديدی، عكس بگيری!",
+"en": "A picture is an image that is a perfect\nlikeness of its subject. All you need\nto create one is a Camera.\nPictures of animals and objects will\nbe automatically registered in the\nHyrule Compendium.\nIn other words, you should basically\ngo and take pictures of anything\nand everything!",
+"src": "CarryingBlueFireEXMini"
+},
+{
+"id": 30,
+"fa": "⟦0⟧هممم... اين عكس ⟦1⟧قلعه هايرول⟦2⟧\n رو از نزديك نشون ميده.\n⟦3⟧\n\nشنيدم كه سكويی در جنوب ⟦4⟧قلعه⟦5⟧ بود كه مراسم\nشواليه‌ها اونجا برگزار می‌شد. اون سكو حالا به خرابه‌ای تبديل شده...\nلكن مطمئنم كه اين همون سكوييه كه توی عكسه.⟦6⟧\nاما مطمئنم كه اين همون سكوييه كه توی عكسه.",
+"en": "Hmm... This picture shows Hyrule Castle\nin the distance.\n\nThey say there used to be a stage where\nknighting ceremonies were performed,\njust south of Hyrule Castle.\nIt's in ruins now, but...I'm pretty certain\nthat's what's in this picture.",
+"src": "NPC_artist_000"
+},
+{
+"id": 31,
+"fa": "⟦0⟧آيا اون كلمه به معنی مخلوط كردن نيست؟\nمثل اينكه می‌گيم: امری لَبِك، يعنی درهم و برهم.⟦1⟧\n\nو مثل شعر شاعر:\n«ردّ القيانُ جمالَ الحیّ فاحتملوا     إلى الظهيرةِ أمرٌ بينهم لبكُ؟»\nفكر نكنم اين كلمه باشه.",
+"en": "Isn't that when you kinda sneak around\nand listen in on others? I think it is...\nThe word sounds like that too...\nNot the word I was thinking of, though.",
+"src": "Npc_Assassin_006"
+},
+{
+"id": 32,
+"fa": "⟦0⟧منظورت لوك )جويدن( است؟\nآيا آسان‌ترين جويدن نيست؟\nيا جويدن چيزی سخت كه آن را در دهانت می‌چرخانی؟\n⟦1⟧مانند شعر شاعر:\n«ولَوكُهمُ جدلَ الحصى بشفاهِهم     كأنّ على أكتافِهم فلقًا صخرَا؟»\nنه نه، اين كلمه هيچ ربطی به چيزی كه می‌خوام نداره.",
+"en": "Ooh, the long vegetable! Wait... Is it a\nvegetable? I actually don't know.\n\nRegardless, not the word I was\nlooking for.",
+"src": "Npc_Assassin_006"
+},
+{
+"id": 33,
+"fa": "⟦0⟧ويه هنا! لماذا لا تلقی نظرة خاطفة على المغذيات التی جمعتها؟⟦1⟧\nما رأيك؟⟦2⟧",
+"en": "Hey now! Why not take a quick look\nat the ingredients I've gathered, eh?\nThey're all fresh!",
+"src": "Npc_Road_044"
+},
+{
+"id": 34,
+"fa": "⟦0⟧أنا الطاهی الجوال! ⟦1⟧فإياك أن تنسى!",
+"en": "I'm the traveling chef! And don't you\nforget it!",
+"src": "Npc_Road_044"
+},
+{
+"id": 35,
+"fa": "⟦0⟧رائع!⟦1⟧ شكرا على المساعدة!",
+"en": "Wow! Thanks for the help!",
+"src": "Npc_Road_044"
+},
+{
+"id": 36,
+"fa": "⟦0⟧شكرا على مساعدتی!",
+"en": "Thanks for helping me!",
+"src": "Npc_Road_044"
+},
+{
+"id": 37,
+"fa": "⟦0⟧أبدعت!⟦1⟧ شكرا على المساعدة!⟦2⟧\nشكرا جزيلا!",
+"en": "Wow! Thanks for the help!\nReally, thanks so much!",
+"src": "Npc_Road_044"
+},
+{
+"id": 38,
+"fa": "⟦0⟧الوحوش مخيفة جدا!⟦1⟧ شكرا لك على مساعدتی!",
+"en": "Monsters are too scary! Thank you for\nhelping me!",
+"src": "Npc_Road_044"
+},
+{
+"id": 39,
+"fa": "⟦0⟧نجوت بأعجوبة!",
+"en": "I barely made it out alive!",
+"src": "Npc_Road_044"
+},
+{
+"id": 40,
+"fa": "⟦0⟧كيف تتجرأ تلك الوحوش البغيضة أن تطمع فی مغذياتی!⟦1⟧ \nبفضلك أعيش وحفظت عيشی ومصدر رزقی!",
+"en": "How dare those nasty monsters come\nafter my ingredients! Thanks to you,\nmy livelihood is safe!",
+"src": "Npc_Road_044"
+},
+{
+"id": 41,
+"fa": "⟦0⟧أنا خائف حتى أنی سأبكی!⟦1⟧ يا رحمة انزلی بی!",
+"en": "I'm so scared I could cry! Goodness!",
+"src": "Npc_Road_044"
+},
+{
+"id": 42,
+"fa": "⟦0⟧بوااع!⟦1⟧ إيـــه، حتى كتم أنفاسی لم أنجح فيه بتاتا...",
+"en": "URP! Yeesh, holding my breath isn't\nworking at all...",
+"src": "Npc_Road_044"
+},
+{
+"id": 43,
+"fa": "⟦0⟧وحوش!⟦1⟧ ربما يجدر أن أحاول لطخهم بأحد المغذيات الصلدة...",
+"en": "Monsters! Maybe I should try throwing\na hard ingredient at them...",
+"src": "Npc_Road_044"
+},
+{
+"id": 44,
+"fa": "⟦0⟧اعتبر هذه شكرا منی. هيا تفضل، لا داعی للتواضع هنا!",
+"en": "Consider this a thank-you. Go on,\nno need to be modest!",
+"src": "Npc_Road_044"
+},
+{
+"id": 45,
+"fa": "⟦0⟧الفطر لأجل الرائحة الفواحة...",
+"en": "Mushrooms for aroma...",
+"src": "Npc_Road_044"
+},
+{
+"id": 46,
+"fa": "⟦0⟧اللحم لأجل القوة...",
+"en": "Meat for power...",
+"src": "Npc_Road_044"
+},
+{
+"id": 47,
+"fa": "⟦0⟧السمك لأجل القيمة الغذائية...",
+"en": "Fish for nutrition...",
+"src": "Npc_Road_044"
+},
+{
+"id": 48,
+"fa": "⟦0⟧الثمار لأجل التحلية...",
+"en": "Fruit for dessert...",
+"src": "Npc_Road_044"
+},
+{
+"id": 49,
+"fa": "همم... ⟦0⟧أستطيع أن أعرض عليك ⟦1⟧⟦2⟧ روبية⟦3⟧.⟦4⟧",
+"en": "Hmm... I can offer you  rupees.",
+"src": "Npc_Road_044"
+},
+{
+"id": 50,
+"fa": "سوف أشتری أی شیء!⟦0⟧ أعنيها بمعنى الكلمة!",
+"en": "I'll buy anything! Really, I mean it!",
+"src": "Npc_Road_044"
+},
+{
+"id": 51,
+"fa": "⟦0⟧هاه نعم؟! ⟦1⟧روبيات...⟦2⟧ لا أرى عندك روبيات.",
+"en": "HUH? Rupees... You don't seem to \nhave enough of them.",
+"src": "Npc_Road_044"
+},
+{
+"id": 52,
+"fa": "⟦0⟧زادك ممتلئ.⟦1⟧ إما أن تتخلص من بعض أغراضك الزائدة، أو تبيعها.",
+"en": "Your pouch is full. You'll have to sell or\ndiscard some of your stuff.",
+"src": "Npc_Road_044"
+},
+{
+"id": 53,
+"fa": "⟦0⟧تمعن مليا فی ما عندی! ⟦1⟧كل غرض من هذه من أجود أنواعه!",
+"en": "Take a good look! Every item is\ntop of the line!",
+"src": "Npc_Road_044"
+},
+{
+"id": 54,
+"fa": "يسرنی لو أشتری هذا!⟦0⟧ كم واحدة ستبيعنی منه؟⟦1⟧",
+"en": "I'd love to buy that! How many will you\nsell me?",
+"src": "Npc_Road_044"
+},
+{
+"id": 55,
+"fa": "لنقل⟦0⟧⟦1⟧ ⟦2⟧⟦3⟧⟦4⟧ روبية⟦5⟧.\nهل يناسبك سعرا؟⟦6⟧",
+"en": "Let's go with  rupees.\nThat OK?",
+"src": "Npc_Road_044"
+},
+{
+"id": 56,
+"fa": "⟦0⟧لا أمانع أن أشتری من ثيابك لكن... ليس التی تلبسها حاليا.",
+"en": "I'm happy to buy clothes from you but...\nnot ones you're currently wearing.",
+"src": "Npc_Road_044"
+},
+{
+"id": 57,
+"fa": "⟦0⟧علی أن أبيع أفضل ما عندی للتعويض عندما يتدهور حال الطقس...\n⟦1⟧ مثل هذه!⟦2⟧بهار گورون ⟦3⟧البالغ الندرة!",
+"en": "When the weather's bad, I gotta sell my\nbest goods to make up for it... Like this!\nGoron spice is super rare!",
+"src": "Npc_Road_044"
+},
+{
+"id": 58,
+"fa": "إذن... تريد ⟦0⟧؟⟦1⟧ سيكون السعر ⟦2⟧⟦3⟧ روبية⟦4⟧.⟦5⟧",
+"en": "So...? That'll be  rupees.",
+"src": "Npc_Road_044"
+},
+{
+"id": 59,
+"fa": "اختيار سديد! كم واحدة؟⟦0⟧",
+"en": "Great choice! How many?",
+"src": "Npc_Road_044"
+},
+{
+"id": 60,
+"fa": "فقط واحدة؟⟦0⟧ ما رأيك بسعر ⟦1⟧⟦2⟧ روبية⟦3⟧؟⟦4⟧",
+"en": "Only one? How about  rupees?",
+"src": "Npc_Road_044"
+},
+{
+"id": 61,
+"fa": "كلها؟!⟦0⟧ أكيد!⟦1⟧ لماذا لا! إذن مقابل ⟦2⟧ يكون السعر⟦3⟧⟦4⟧ روبية⟦5⟧.⟦6⟧",
+"en": "All of them?! Of course!\nSo for , that'll be\n rupees.",
+"src": "Npc_Road_044"
+},
+{
+"id": 62,
+"fa": "ستبيعها كلها؟!⟦0⟧ تمام، مقابل ⟦1⟧ يكون السعر ⟦2⟧⟦3⟧ روبية⟦4⟧!⟦5⟧",
+"en": "You're gonna sell all of 'em?!\nOK, so for , that'll be\n rupees!",
+"src": "Npc_Road_044"
+},
+{
+"id": 63,
+"fa": "⟦0⟧آه، آسف! ⟦1⟧فی الواقع أنا مغلق اليوم.⟦2⟧\nلو شئت أستطيع أن أريك لائحة\nبالمغذيات التی أعتزم التزود منها قريبا.⟦3⟧",
+"en": "Oh, sorry! I'm actually closed for the day.\nIf you want, I can show you the list of\ningredients I'm looking to restock.",
+"src": "Npc_Road_044"
+},
+{
+"id": 64,
+"fa": "فقط واحدة؟⟦0⟧ سيكون السعر ⟦1⟧⟦2⟧ روبية⟦3⟧.⟦4⟧",
+"en": "Only one? That'll be  rupees!",
+"src": "Npc_Road_044"
+},
+{
+"id": 65,
+"fa": "يبدو ذلك رائعا.",
+"en": "Sounds good.",
+"src": "Npc_Road_044"
+},
+{
+"id": 66,
+"fa": "⟦0⟧هل تبحث عن الطاهی الجوال ماتسو؟⟦1⟧ يوم سعدك هذا!\n⟦2⟧ها أنا ذا!!! ههههههه!\nحاليا أبحث عن أفضل المغذيات ⟦3⟧من ⟦4⟧إسطبل أكـّالا الجنوبية⟦5⟧\nحتى ⟦6⟧قرية منلاشی⟦7⟧.",
+"en": "Are you looking for the traveling chef\ncalled Stamm? It's your lucky day!\nHe is me! Ha ha ha!\nI'm currently looking for the ultimate\ningredients from South Akkala Stable\nto Tarrey Town.",
+"src": "Npc_Road_044"
+},
+{
+"id": 67,
+"fa": "⟦0⟧أبحث عن المغذيات التی لا نظير لها،\n⟦1⟧ من ⟦2⟧إسطبل أكـّالا الجنوبی ⟦3⟧إلى ⟦4⟧قرية منلاشی⟦5⟧.",
+"en": "I'm looking for the ultimate ingredients\nfrom South Akkala Stable to Tarrey Town.",
+"src": "Npc_Road_044"
+},
+{
+"id": 68,
+"fa": "⟦0⟧عندما ينادی الناس الطاهی الجوال، يلبی ماتسو النداء!\n ⟦1⟧مهلا هل ناديت على نفسی؟ ههههه! ما أحاوله أن أصنع طبقا\nيطلبه الناس ويستميتون عليه شاؤوا أم أبوا، عرفوه أم جهلوه.\nفمثلا لو أحسوا بالخمول،⟦2⟧ فالحل فی عسل النحلة السريعة مع تفاحة.",
+"en": "When people call for the traveling chef,\nStamm appears!! Whoopsie, did I just\ncall for myself? Ha ha ha!\nWhat I'm trying to do is create a dish\nthat anyone would desperately crave\nwhether they know it or not.\nFor example, if they're feeling sluggish,\ncourser bee honey and an apple are just\nthe ticket.",
+"src": "Npc_Road_044"
+},
+{
+"id": 69,
+"fa": "⟦0⟧لو أحسست بالخمول،⟦1⟧ فالحل فی عسل النحلة السريعة مع تفاحة.",
+"en": "If you're feeling sluggish,\ncourser bee honey and an\napple are just the ticket.",
+"src": "Npc_Road_044"
+},
+{
+"id": 70,
+"fa": "⟦0⟧أنا الطاهی الجوال،⟦1⟧ ماتسو!\nأطباق اللحوم أفضل ما يفجر فيك الطاقة!\n⟦2⟧وأطباق السمك بالذات مميزة فی لذتها!\nأحسن استثمار كل المغذيات أثناء الطبخ\nكی تصنع ما يفيد بدنك أكثر من غيره!",
+"en": "I'm the traveling chef, Stamm!\n\n\nMeat dishes give you loads of energy!\nAnd fish dishes are just plain special!\n\nTake advantage of each ingredient when \ncooking so you can make what your body\nneeds most!",
+"src": "Npc_Road_044"
+},
+{
+"id": 71,
+"fa": "⟦0⟧أطباق اللحوم أفضل ما يفجر فيك الطاقة!\n ⟦1⟧وأطباق السمك بالذات مميزة فی لذتها!⟦2⟧\nضع ذلك فی الحسبان!",
+"en": "Meat dishes are a great pick-me-up! \nFish dishes are yummy and special!\nThese are good things to keep in mind!",
+"src": "Npc_Road_044"
+},
+{
+"id": 72,
+"fa": "⟦0⟧ألست مغامرا؟⟦1⟧طيب اسمع! تحتاج أن تتزود بالطعام الصحی ذخرا لك!\nفكر مليا...⟦2⟧بنفسك فی الخلاء أين لا متاجر\nتبيع المغذيات ذات جودة.\nأتصور الطباخين لا يلحقونك فی موكب أيضا ويطهون لك الأطايب.\nألم أصب بيت القصيد بهذه؟ همم؟",
+"en": "You're an adventurer, aren't you?\nWell then! You need to stock up\non some healthy foods! \nThink about it—when you're in the\nmiddle of nowhere, there aren't a lot of\nshops selling quality ingredients.\nI'm willing to guess you don't have\ncooks that follow you around making you\ntasty treats. Nail on the head, hm?",
+"src": "Npc_Road_044"
+},
+{
+"id": 73,
+"fa": "⟦0⟧لو كنت ابنی لقلقت على صحتك على الدوام.\n ⟦1⟧أوه، لكن من لمحة عن وجهك، أعرف أحوالك...\nأنت بين البينين الآن.⟦2⟧ لكن التحسين ممكن! ههههه!",
+"en": "If you were my kid, I'd worry endlessly\nabout your health. Oh, but one glance at\nyour face tells me how you're doing...\nYou're so-so right now. But you can\ndo better! Ha ha ha!",
+"src": "Npc_Road_044"
+},
+{
+"id": 74,
+"fa": "⟦0⟧أنا الطاهی الجوال، ماتسو!\nربما فی تعريفی عن نفسی يبدو اصطناع العجرفة،\n⟦1⟧ لكنی إنسان مهم الشأن، فما باليد حيلة!\nيقال إن الجوع سلطان المشاعر...\n⟦2⟧أو ربما قالوا الحب؟ نسيت النكتة.\n⟦3⟧لكن معنى هذا أننا الطباخون لن نتفوق\nعلى طباخ جائع أو مجنون عاشق.\n ⟦4⟧برای همين أختلف بشدة مع هذا القول الهرائی الفارغ!",
+"en": "I'm the traveling chef, Stamm! I may\nsound a tad arrogant, but I'm very\nimportant, so what can be done?\nThey say that hunger is the best sauce...\nor is it love? I forget.\n\nBut that means us cooks will never be\nbetter than a starving chef or a fool\nin love. I think that's bogus!",
+"src": "Npc_Road_044"
+},
+{
+"id": 75,
+"fa": "⟦0⟧يقال إن الجوع سلطان المشاعر...\n⟦1⟧أو ربما قالوا الحب؟ نسيت النكتة.\nلكن لا علينا من هذا، فالمهم أنی أنوی أن أخرس الناس عن القول\nأو الوهم أن مخلوقا ينافس طعام ماتسو!\nولن أكف إلى أن أظفر بالفوز!",
+"en": "They say that hunger is the best sauce...\nor it might have been love, I dunno.\n\nRegardless, I intend to make people say\nnothing can compete with Stamm's food!\nI won't stop until I succeed!",
+"src": "Npc_Road_044"
+},
+{
+"id": 76,
+"fa": "⟦0⟧أنا الطاهی الجوال، ماتسو!\nأعتقد أن أی شیء فی الوجود هو مكون قد يطبخ لكنه ينتظر فرصته.\nاعتقادی شیء والواقع شیء، فالأمور ليست بهذه البساطة.\n⟦1⟧ هب مثلا أنی غليت لك فی الماء شبشبا وقدمته على العشاء.\nلن تسير الأمور على ما يرام وأنا واثق من ذلك.\n⟦2⟧بيد أنی لا أريد أن أستسلم! ",
+"en": "I'm the traveling chef, Stamm! I believe\neverything is an ingredient waiting\nto happen.\nHowever, in reality, it's not always that\nsimple. If I tried to stew a leather shoe\nand serve it, I bet it wouldn't go well.\nEven so, I'm not giving up! ",
+"src": "Npc_Road_044"
+},
+{
+"id": 77,
+"fa": "⟦0⟧تطبخ الأكاسير بطبخ الحشرات وأشلاء الوحوش.\nعادة لا يتعامل الطباخ مع الحشرات.\n⟦1⟧وهذا أفضل لی، إذ أنی مرعوب منها!",
+"en": "When you use bugs and monster parts\nto cook, what you end up with are elixirs.\n\nChefs don't usually deal with bugs.\nThat's perfect for someone like me\nwho's terrified of them!",
+"src": "Npc_Road_044"
+},
+{
+"id": 78,
+"fa": "⟦0⟧ستلقى ⟦1⟧بحيرة أكـّالا⟦2⟧ جنوب هذا الطريق بقليل!\nمكان عظيم!⟦3⟧⟦4⟧ أوه، على مهل.\n⟦5⟧لا أحكی لك عن المناظر الطبيعية فيها، بل المغذيات التی تسبح\nمثل خير الله الكثير فی البحيرة.\nيا أخی ما لك؟ لماذا أسعد بالمنظر،⟦6⟧⟦7⟧ هل آكله؟",
+"en": "Just south of this road, you'll find\nLake Akkala! It's great! Oh, whoa.\nI'm not talking about the view.\nI'm talking about the ingredients that are\nswimming in the lake. I mean, come on.\nYou can't eat a view, right? Ha ha ha!",
+"src": "Npc_Road_044"
+},
+{
+"id": 79,
+"fa": "⟦0⟧⟦1⟧فی بحيرة أكـّالا ⟦2⟧مغذيات للطبخ ممتازة تسبح بكل فخامتها ولذتها!\n⟦3⟧كذلك ثمة مغذيات تنبت هناك،\nومغذيات سقطت هناك، ومغذيات تطير هناك...\nعيونی ترى العالم سوق عكاظ عملاقا!",
+"en": "Lake Akkala has great ingredients just\nswimming around in all their glory\nand deliciousness!\nThere are also ingredients that grow\nthere, and those that have fallen there,\nand those that fly around there...\nTo me, the world is a giant market!",
+"src": "Npc_Road_044"
+},
+{
+"id": 80,
+"fa": "⟦0⟧أنا الطاهی الجوال، بيد أنی...⟦1⟧لا أتجول كل وقتی.\nأحيانا تأتی أوقات أحتاج فيها راحة من الحياة على الطرقات.\n⟦2⟧قيلولة فی ⟦3⟧بحيرة أكـّالا ⟦4⟧فی الشرق، تبدو فكرة حلوة...\nلكن لدی زبائن ينتظروننی فی ⟦5⟧إسطبل أكـّالا الجنوبية⟦6⟧!⟦7⟧⟦8⟧ ",
+"en": "I'm the traveling chef, but...\nI'm not always traveling.\n\nThere are times when I need to take a\nbreak from life on the road.\n\nTaking a nap at Lake Akkala to the east\nsounds nice...but I have customers\nwaiting at South Akkala Stable! Ha ha ha!",
+"src": "Npc_Road_044"
+},
+{
+"id": 81,
+"fa": "⟦0⟧اليوم سأذهب من ⟦1⟧بحيرة أكـّالا ⟦2⟧فی الشرق،\nإلى ⟦3⟧إسطبل أكـّالا الجنوبية⟦4⟧ فی الغرب! \n⟦5⟧هكذا هی حياة الطاهی الجوال!",
+"en": "Today I go from Lake Akkala to the east\nto South Akkala Stable, to the west!\nSuch is the life of a traveling chef!",
+"src": "Npc_Road_044"
+},
+{
+"id": 82,
+"fa": "⟦0⟧لا أستطيع أن أصنع الأطباق التی أتخيلها فی ذهنی...\n⟦1⟧ باه، ماذا حصل لإلهامی؟!\nفی مثل هذه الأوقات، أقول دوما...⟦2⟧ لا شیء أفضل من أكل وجبة شهية!⟦3⟧\nلا يكتفی هذا بإنعاش قلبك وروحك،\n⟦4⟧بل حتى يقيك الحر والبرد والصعق والنار!\n⟦5⟧بفضل الطبخ أستطيع التقدم فی الحياة!\n⟦6⟧ كم أنا سعيد أنی صرت طباخا\nفی خضم جنون هذا العالم. ⟦7⟧\nهاع! النصر لی!",
+"en": "I can't seem to make the dishes I picture\nin my head... Blah, what happened to\nmy inspiration?!\nAt times like this, I always say...\nnothing beats eating a delicious meal!\n\nIt not only heals your heart and soul,\nit can also make you heat, cold, shock,\nor fire resistant! Or even stealthier!\nDishes are the best! Thanks to cooking,\nI can move forward in life! I'm so glad I\nbecame a cook in this crazy world. Ha!",
+"src": "Npc_Road_044"
+},
+{
+"id": 83,
+"fa": "⟦0⟧لولا تعرف ماذا تفعل، فما عليك إلا بالأكل!\n⟦1⟧ وكل عندما تجوع أيضا. ذلك أيضا مهم.\nففی مثل هذه الأوقات، أقول دوما ...\nلا شیء أفضل من أكل وجبة شهية!\nلا يكتفی هذا بإنعاش قلبك وروحك،\n⟦2⟧ بل حتى يقيك الحر والبرد والصعق والنار!\n⟦3⟧يا سلام، كم الأطعمة الموجودة فی هذا العالم مذهلة!",
+"en": "When you don't know what to do,\njust eat! Oh, and also eat when you're\nhungry. That's important too.\nIt not only heals your heart and soul,\nit can also make you heat, cold, shock,\nor fire resistant!\nWow, the dishes that exist in this world\nare really amazing!",
+"src": "Npc_Road_044"
+},
+{
+"id": 84,
+"fa": "⟦0⟧أنا الطاهی الجوال ماتسو!\nأفتش عن المغذيات من شمال ⟦1⟧بحيرة أكـّالا\n⟦2⟧حتى ⟦3⟧إسطبل أكـّالا الجنوبية⟦4⟧!",
+"en": "I'm the traveling chef, Stamm!\n\n\nI'm hunting for ingredients from north of\nLake Akkala to the South Akkala Stable!",
+"src": "Npc_Road_044"
+},
+{
+"id": 85,
+"fa": "⟦0⟧أبيع المواد التی ألقاها حين أروح ذهابا وإيابا من شمال\n⟦1⟧بحيرة أكـّالا ⟦2⟧إلى ⟦3⟧إسطبل أكـّالا الجنوبية⟦4⟧!⟦5⟧\nوكلها مغذيات عالية الجودة!",
+"en": "I'm selling the ingredients I find when\nI go back and forth from north of\nLake Akkala to South Akkala Stable!\nThey're all top quality ingredients!\nNaturally!",
+"src": "Npc_Road_044"
+},
+{
+"id": 86,
+"fa": "⟦0⟧أفتش عن المغذيات فی سبيل طبخ الطبخة المثلى.\n⟦1⟧ لهذا السبب أروح ذهابا وإيابا\nمن⟦2⟧ إسطبل أكـّالا الجنوبية ⟦3⟧حتى ⟦4⟧قرية منلاشی⟦5⟧!\nكما أنی أبيع السلع أيضا، برای همين حادثنی فی أی وقت يناسبك!",
+"en": "To make the ultimate dish, I'm looking for\nthe best ingredients. \n\nThat's why I go back and forth between \nSouth Akkala Stable and Tarrey Town!\nI sell stuff too, so hit me up anytime!",
+"src": "Npc_Road_044"
+},
+{
+"id": 87,
+"fa": "⟦0⟧الغيث يساعد النباتات الخضراء على الإنبات!\nالنباتات تساعد الحيوانات، وكل ذلك يساعدنی!\n⟦1⟧ثم وجباتی تساعد الناس،\nوالمال الذی أجنيه من بيعها يساعدنی أكثر وأكثر!\nعالم جميل وحياة حلوة، فقط لو نفهمها! هههههه!",
+"en": "The rain helps grow lots of green plants!\nGreen plants help animals, and all of\nthat helps me too!\nMy dishes help people, and the money\nI get from selling them helps me more!\nIt's a beautiful world, ha ha ha!",
+"src": "Npc_Road_044"
+},
+{
+"id": 88,
+"fa": "⟦0⟧لا أريد أن تتبلل بضائعی...\n⟦1⟧ربما خيرا لو أمكث هنا إلى أن يصحو الجو.",
+"en": "I don't want to get my ingredients wet...\nMaybe I'll just stay here until the rain \nclears up!",
+"src": "Npc_Road_044"
+},
+{
+"id": 89,
+"fa": "دايرةالمعارف هايرول",
+"en": "Hyrule Compendium",
+"src": "AppHome_00"
+},
+{
+"id": 90,
+"fa": "⟦0⟧دايرةالمعارف هايرول⟦1⟧",
+"en": "Hyrule Compendium",
+"src": "AppHome_00"
+},
+{
+"id": 91,
+"fa": "⟦0⟧می‌دونستم می‌دونی!\nاين عزيزترين آرزوی هر روياپردازيه، موافق نيستی؟!\nداشتن شمشيری كه نور \"شرق و برق\" پرتاب كنه و\nهمه‌ی هيولاها رو \"ترك و مرگ\" كنه، فوق‌العاده نيست؟!\n⟦1⟧حتى اسمش هم رفيق،⟦2⟧ شمشيری كه شرور را مهر می‌كند⟦3⟧...\nاز اسمش می‌فهمی كه بهترين موجود در هستيه!!",
+"en": "I knew you would! It's every dreamer's\ndearest dream, isn't it?!\n\nHaving a sword that shoots light all like\nWHAM and mows down all kinds of\nmonsters like KAPOW would be amazing!\nI mean, even the name—the sword\nthat seals the darkness—is just the\ncoolest thing ever!",
+"src": "Npc_TabantaHatago003"
+},
+{
+"id": 92,
+"fa": "⟦0⟧می‌دونستم می‌دونی! اين عزيزترين آرزوی هر روياپردازيه،\nموافق نيستی؟!\nداشتن شمشيری كه نور \"شرق و برق\" پرتاب كنه و\nهمه‌ی هيولاها رو \"ترك و مرگ\" كنه، فوق‌العاده نيست؟!\n ⟦1⟧حتى اسمش هم رفيق، ⟦2⟧شمشيری كه شرور را مهر می‌كند⟦3⟧...\nاز اسمش می‌فهمی كه بهترين موجود در هستيه!!⟦4⟧",
+"en": "I knew you would! It's every dreamer's\ndearest dream, isn't it?!\n\nHaving a sword that shoots light all like\nWHAM and mows down all kinds of\nmonsters like KAPOW would be amazing!\nI mean, even the name—the sword\nthat seals the darkness—is just the\ncoolest thing ever!",
+"src": "Npc_TabantaHatago003"
+},
+{
+"id": 93,
+"fa": "⟦0⟧♪لوو لوو لوو!♪\n♪لوو لوو لوو لوو!♪⟦1⟧\n♪لوو لوو لالا لوو لوو لوو لالالا!♪\nأعجبتك؟ اسم هذه الأنشودة القصيرة \"رجعة البطل\nمـُناحـِر ِ الطير ِ، مقدمة فی می كبير\"\n\n⟦2⟧شكرا لحسن استماعك. \"می الكبير\" هو\nسلم موسيقی.",
+"en": "♪Loo loo loo!♪\n♪Loo loo loo loo!♪\n♪Loo loo lala loo loo loo...lalala!♪\nDo you like that? I call that little ditty\n\"Return of the Bird-Wrangling Hero...\nPrelude in E-sharp Minor.\"\nThank you for listening!",
+"src": "Rito_BrosRock"
+},
+{
+"id": 94,
+"fa": "⟦0⟧أحب إنشاد القصائد القديمة جدددد ًا. وكلما\nكانت أقدم، حسـُنت عندی!\n\nوتبدو أحسن عندما أنشدها فی ⟦1⟧صخور الأخوات⟦2⟧!\nهناك أتدرب عادة، مر علی هناك وزرنی!",
+"en": "I like to sing REALLY OLD songs.\nThe older, the better!\n\nAnd they sound even better when I sing\nthem at Warbler's Nest! That's where I\nusually practice. You should stop by!",
+"src": "Rito_BrosRock"
+},
+{
+"id": 95,
+"fa": "⟦0⟧أوف! أكره التدريبات الإنشادية!⟦1⟧\nمن يأبه إذا لم أكن منشدة جيدة!\n\n⟦2⟧*أوففف*⟦3⟧\nكل هذا الأجهاد يجعلنی جائعة،\n⟦4⟧⟦5⟧⟦6⟧⟦7⟧أريد شيئـًا من ⟦8⟧مونيرو السلمون⟦9⟧.⟦10⟧",
+"en": "Hmph! I hate practicing singing!\nWho cares if I'm not a good singer!\n\n*sigh*\nAll of this pressure is making me\nhungry.\nI want some salmon meunière!",
+"src": "Rito_BrosRock"
+},
+{
+"id": 96,
+"fa": "⟦0⟧چريچری جيدة فی الحساب! إنها تعد دائما\nالزبائن الآتين كل يوم إلى ⟦1⟧⟦2⟧متجر الصقر\nالفرار⟦3⟧.\n⟦4⟧دعنی أرى، أنت كنت الزبون رقم...⟦5⟧\nآآخ! نسيت!",
+"en": "Cree is good at counting!\nShe always counts customers that come\nto the Slippery Falcon every day!\nLet's see. You were the...\nHuh, I forgot.",
+"src": "Rito_BrosRock"
+},
+{
+"id": 97,
+"fa": "⟦0⟧⟦1⟧غبيات! أخواتی غبيات!⟦2⟧\n\n\n⟦3⟧تواعدنا أن نتدرب معا لكن ولا غبية\nمنهن أتت!\n\n⟦4⟧فعلينا أن ننشد قصيدتنا⟦5⟧ ⟦6⟧للشيخ⟦7⟧ فی\n⟦8⟧صخور الأخوات⟦9⟧!\n\n⟦10⟧سنبدو أضحوكة على المسرح...",
+"en": "Grrrrrr!\n\n\nMy sisters are dumb DUMMIES!\n\n\nThey promised we'd rehearse together,\nbut NO ONE showed up!\n\nWe have to perform our song \nfor the elder at Warbler's Nest!\n\nWe're going to be laughed off\nthe stage...",
+"src": "Rito_BrosRock"
+},
+{
+"id": 98,
+"fa": "⟦0⟧مهلا... ⟦1⟧تبدو كامرئ ذا نفع....\n\n\nكيف أصيـــغها... وجدتها! تبدو كشاب صالح\nيحب مساعدة الناس المساكين!\n\nهلا ذهبت لأخواتی فی قرية الريتو ⟦2⟧وأخبرتهن\nأن يتركن الحماقة ويكففن عن إعاقة التدريب؟\n\n⟦3⟧لن يسمعننی، لكنهن سينصتن لرجل هايلی مخيف\nالمنظر مثلك.\n\n⟦4⟧حتى وإن بدت چنكو صعبة المراس، ستلقاها\nتزعق فی ⟦5⟧المطبخ⟦6⟧\n\n⟦7⟧⟦8⟧⟦9⟧⟦10⟧\"أريد أكل ⟦11⟧مونيرو السلمون⟦12⟧!\"\n\n\n⟦13⟧⟦14⟧أو تزعق بشیء غيره.\n\n\nولا تريد أن تنشد أيضا! ⟦15⟧\nإنها متعبة مرهقة!",
+"en": "Hey, you... You look like I can use you...\n\n\nThaaaat is to say...you look like a nice\nguy who likes to help people in need.\n\nCan you go tell my sisters in Rito Village\nto stop ditching rehearsal?\n\nThey won't listen to me, but they might\nlisten to a scary-looking Hylian like you.\n\nAlthough Genli might be a tough sell.\nShe's probably in the kitchen yelling,\n\n\"I want some salmon meunière!\"\n\n\n...or something like that.\n\n\nShe doesn't want to sing either... \nShe's such a pain!",
+"src": "Rito_BrosRock"
+},
+{
+"id": 99,
+"fa": "⟦0⟧♪لا لا لوو لوو لا لا!♪⟦1⟧\n♪لا لا لا لوو لوو!♪⟦2⟧\n♪لا لا لاااااا لا لا!♪\nأ ُسمـّی هذه القصيدة \"رجعة البطل مـُناحـِر ِ الطير ِ،\nالنقلة الأولى\"\n\nشكرا لاستماعك!\n\n\n⟦3⟧أيش؟ ⟦4⟧التدريبات الإنشادية فی ⟦5⟧صخور الأخوات\n⟦6⟧؟ لا لم أنس!\n\n⟦7⟧كل ما فی الأمر أن چنكو أرادت ⟦8⟧مونيرو\nالسلمون⟦9⟧ ⟦10⟧  برای همين ذهبت وأخواتی للبحث عن\nالمكونات.\nلنتهيت ُ قبلهن لذلك مكثت هنا أنشد\nلتمضية الوقت.\n\n⟦11⟧أشعر بالسوء لتركنا كيرو تنتظرنا. ينبغی\nأن أنطلق فورا إلى التدريب.",
+"en": "♪La la loo loo la la!♪\n♪La la la, loo loo!♪\n♪La la laaaaaaa la la!♪\nI call that song...\n\"Return of the Bird-Wrangling Hero... \nFirst Movement.\"\nThank you for listening!\n\n\nWhat? Singing rehearsal at\nWarbler's Nest? I didn't forget!\n\nIt's just that Genli really wanted some\nsalmon meunière, so my sisters and I\nhave been looking for ingredients.\nI finished early, so I was practicing here\nto kill time.\n\nI feel bad we left Kheel waiting, though.\nI really should head over to rehearsal.",
+"src": "Rito_BrosRock"
+},
+{
+"id": 100,
+"fa": "⟦0⟧تمام... أعتقد أنی سأعطيك ⟦1⟧قمح تابانتا⟦2⟧!\nأصنع لچنكو أشهى ⟦3⟧مونيرو السلمون ⟦4⟧لو سمحت!\n\nتقول إنها لن تنشد على معدة فارغة\nلكنی أعلم يقينا أن هذا مجرد عذر.\n⟦5⟧عموما، بالتوفيق!",
+"en": "Well then...I guess I'll give the\nTabantha wheat to you! Please make\nthe best salmon meunière for Genli!\nShe says she can't sing on an empty\nstomach, but I'm pretty sure that's just\nan excuse.\nWell, good luck!",
+"src": "Rito_BrosRock"
+},
+{
+"id": 101,
+"fa": "⟦0⟧تمامإذا... أعتقد أنی سأعطيك\n⟦1⟧قمح تابانتا ⟦2⟧\n\n⟦3⟧مهلا! قائمة جردك ممتلئة! أفرغ منها!",
+"en": "Well then...I guess I'll give the\nTabantha wheat to you...\n\n...Hey, your inventory is full!\nGo make some space!",
+"src": "Rito_BrosRock"
+},
+{
+"id": 102,
+"fa": "⟦0⟧سأتجه مباشرة ⟦1⟧صوب صخور الأخوات ⟦2⟧ما\nإن يتواجد الجميع هناك! \n\nأعتقد أن چريچری شقيقتی الرابعة\nفی ⟦3⟧متجر الصقر الفرار⟦4⟧، وكوتس ثانی\nكبرى شقيقاتی عند مدخل القرية.",
+"en": "I'll head over to Warbler's Nest once\neveryone's there! \n\nI think my fourth sister, Cree, is at the\nSlippery Falcon. The second oldest,\nKotts, should be at the village entrance.",
+"src": "Rito_BrosRock"
+},
+{
+"id": 103,
+"fa": "⟦0⟧ماذا؟ أطبخت لچنكو ⟦1⟧مونيرو السلمون⟦2⟧؟\n\n\n⟦3⟧واو!⟦4⟧ أنت رائع!\n\n\nقالت چنكو أنها لا تريد الإنشاد بمعدة فارغة،⟦5⟧\nبيد أنی أشعر أنها تخفی سببا آخر.\n\n⟦6⟧سأذهب لملاقاة البقية، أراك بالجوار.",
+"en": "What? You already treated Genli\nto some salmon meunière?\n\nWow! You're amazing!\n\n\nGenli said she doesn't want to sing on an\nempty stomach, but I think she's hiding a\ndifferent reason.\nWell, I'm gonna meet up with everyone.\nSee you around!",
+"src": "Rito_BrosRock"
+},
+{
+"id": 104,
+"fa": "⟦0⟧ياااه! ياااه! أنا أصطاد ⟦1⟧السلمون\nالروحی⟦2⟧!\n\n⟦3⟧ها؟⟦4⟧ وما الذی أتى بك إلى هنا؟⟦5⟧\nأيش؟ التدريب؟\n\n⟦6⟧آه!⟦7⟧ نسيته كليا!⟦8⟧\nكان تركيزی منصبا على صيد هذا السمك،\n\n⟦9⟧كيرو ستنتف ريشی ريشة ريشة!",
+"en": "Hiyah! HIYAH!\nI'm fishing for hearty salmon!\n\n...Huh? What are you doing here?\nWhat? Rehearsal?\n\nAHHH! I totally forgot!\nI was too focused on catching these fish.\n\nKheel's going to kill me!",
+"src": "Rito_BrosRock"
+},
+{
+"id": 105,
+"fa": "⟦0⟧من فضلك خذ هذا ⟦1⟧السلمون الروحی ⟦2⟧وأطهو\n⟦3⟧مونيرو السلمون ⟦4⟧لچنكو،\n\n⟦5⟧لعل مزاجها للإنشاد يتحسن بعد أن تأكل.",
+"en": "Please take this hearty salmon and go\nmake some salmon meunière for Genli.\n\nHopefully she'll feel like singing after she\nhas some.",
+"src": "Rito_BrosRock"
+},
+{
+"id": 106,
+"fa": "⟦0⟧رجاء خذ هذا ⟦1⟧السلمون الروحی ⟦2⟧واطبخ\n⟦3⟧مونيرو السلمون ⟦4⟧لـ.. \n\n⟦5⟧مهلا!⟦6⟧ قائمة جردك ممتلئة،⟦7⟧ أفرغ حقيبتك\nوارجع.",
+"en": "Please take this hearty salmon and make\nsome salmon meunière for—\n\n...Hey! Your inventory is full!\nClean out your bag and come back.",
+"src": "Rito_BrosRock"
+},
+{
+"id": 107,
+"fa": "⟦0⟧أنا ذاهبة لأصطاد مزيدا من الأسماك\nقبل أن أخرج،\n\nوفی الوقت الحالی لماذا لا تذهب للبحث\nعن أخواتی الأخريات؟\n\n⟦1⟧أختی الكبرى تحب الأماكن⟦2⟧ العالية⟦3⟧\n⟦4⟧وچريچری على الأغلب فی ⟦5⟧متجر الصقر الفرار⟦6⟧.",
+"en": "I'm going to try to catch some more fish\nbefore I head out. \n\nWhy don't you go find my other siblings\nin the meantime?\n\nMy oldest sister loves high places, and\nCree is probably at the Slippery Falcon.",
+"src": "Rito_BrosRock"
+}
+]

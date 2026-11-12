@@ -1,0 +1,650 @@
+[
+{
+"id": 108,
+"fa": "⟦0⟧بمقدورك أن تـُعـِد الوجبة فی القدر الذی\nفی ⟦1⟧ المطبخ⟦2⟧ ما إن تحصل على المكونات\nكلها!⟦3⟧\n♪فاطبخ طبخ الطباخين!♪",
+"en": "Once you get all the ingredients, you can\ncook the meal in the pot in the kitchen! \n♪Cookie cook cook!♪",
+"src": "Rito_BrosRock"
+},
+{
+"id": 109,
+"fa": "⟦0⟧تقول طبخت ⟦1⟧مونيرو السلمون⟦2⟧ لچنكو؟\n\n\n⟦3⟧يا للفرحة! شكرا جزيلا!⟦4⟧\nلعلها تكف ُ عن التذمر الآن..",
+"en": "You already made salmon meunière\nfor Genli?\n\nYaaay! Thank you so much!\nHopefully she stops whining now...",
+"src": "Rito_BrosRock"
+},
+{
+"id": 110,
+"fa": "⟦0⟧أسرع!⟦1⟧ أسرع!\n\n\n⟦2⟧أرغب ⟦3⟧بمونيرو السلمون ⟦4⟧فی معدتی!\n\n\n⟦5⟧⟦6⟧أعلم أن ⟦7⟧كيرو⟦8⟧ تريدنی أن أتدرب معها\nعلى الإنشاد، لكن لا أقدر!\n\n⟦9⟧ليس قبل أن يمر ⟦10⟧مونيرو السلمون⟦11⟧ من حلقی!\n\n\n⟦12⟧أخبرت أخواتی أنی لن أتدرب حتى أكل،\nفصدقن وذهبن لإحضار⟦13⟧ ⟦14⟧ المكونات.\n\n⟦15⟧للصراحة لم أعتقد أنهن سيطبخنه لی،\n⟦16⟧ولا أريد التدرب على الإنشاد⟦17⟧ ⟦18⟧لكن\nأريد شيئـًا من ⟦19⟧مونيرو السلمون⟦20⟧ الشهی!\n⟦21⟧⟦22⟧ما الذی يؤخرهن هكذا؟ ظننت ُ أنهن ذاهبات\nإلى ⟦23⟧متجر الصقر الفرار⟦24⟧ وحسب!",
+"en": "Hurry! Hurry!\n\n\nI NEED salmon meunière in my\nbelly!\n\nI know Kheel wants me to practice\nsinging with her, but I just can't.\n\nNot until I get my salmon meunière!\n\n\nMy sisters already left to get\nsalmon meunière ingredients.\n\nI told them I wouldn't sing until I get it.\nI didn't expect them to actually make it\nfor me, though!\nI don't want to practice singing...\nbut I really do want some yummy salmon meunière.\n\nWhat is taking my sisters so long?\nI thought they were just going to the\nSlippery Falcon.",
+"src": "Rito_BrosRock"
+},
+{
+"id": 111,
+"fa": "⟦0⟧أسرع!\n\n\n⟦1⟧أشتهی ⟦2⟧مونيرو السلمون⟦3⟧ فی فمی!⟦4⟧\n\n\n⟦5⟧⟦6⟧⟦7⟧ما الذی يؤخر أخواتی؟\n\n\nظننت ُ أنهن ذاهبات إلى ⟦8⟧متجر الصقر\nالفرار⟦9⟧ وحسب!",
+"en": "Hurry!\n\n\nI NEED salmon meunière in my\nmouth!\n\nWhat is taking my sisters so long?\n\n\nI thought they were just going to the\nSlippery Falcon!",
+"src": "Rito_BrosRock"
+},
+{
+"id": 112,
+"fa": "⟦0⟧⟦1⟧⟦2⟧أسرع! أسرع!\n\n\n⟦3⟧أرغب ⟦4⟧بمونيرو السلمون ⟦5⟧فی معدتی!⟦6⟧\n\n\n⟦7⟧⟦8⟧⟦9⟧*شم شم*⟦10⟧\n*شم شم شم*\n\nهذه الرائحة الزكية،⟦11⟧\nأيعقل أن تكون...\n\n⟦12⟧⟦13⟧⟦14⟧⟦15⟧مـ...⟦16⟧\nمـ...⟦17⟧\n⟦18⟧مونيرو السلمون⟦19⟧!⟦20⟧\n⟦21⟧⟦22⟧⟦23⟧ستسكب لی منه، صح؟⟦24⟧\nصــــــــــح؟⟦25⟧",
+"en": "Hurry! Hurry!\n\n\nI NEED salmon meunière in my\nbelly!\n\n*sniff sniff...*\n*sniff sniff sniff*\n\nThat amazing smell...\nCould it be?\n\nSa...\nSa...\nSalmon meunière?!\nYou're going to let me have some, right?\nRIGHT?!",
+"src": "Rito_BrosRock"
+},
+{
+"id": 113,
+"fa": "⟦0⟧اممم..⟦1⟧ شبعت والحمد لله!⟦2⟧⟦3⟧هاه!⟦4⟧ عهدی لأخواتی؟⟦5⟧\nعلی ّ ألا أخلف وعدی لهن..\n\n⟦6⟧أحب ُ الإنشاد حبا⟦7⟧ بيد أنی أتوتر عند\nالإنشاد أمام الآخرين.\n\nلدی رهبة حقيقية من المسرح،⟦8⟧لكن ربما\nالتدرب على الإنشاد مع أخواتی سيهون الأمر.\n\n⟦9⟧المهم، شكرا لك على ⟦10⟧مونيرو السلمون⟦11⟧!\n⟦12⟧كان طريا مقشرا لذيذا!\n\n⟦13⟧سأبدع ُ بالتدريب!⟦14⟧\n♪تعال واستمع لنا فيما بعد!♪",
+"en": "Mmmmmm... I'm stuffed!...Huh? My promise to my sisters?\nI suppose I shouldn't break my promise...\n\nI really DO like singing!\n...But I am too nervous to sing in front of\nother people.\nI have SERIOUS stage fright...but maybe\npracticing with my sisters will help me\nfeel more comfortable.\nAnyway, thank you for the amazing\nsalmon meunière! It was so soft and\nflaky and delicious!\nI'll give this rehearsal my all.\n♪Come listen later!♪",
+"src": "Rito_BrosRock"
+},
+{
+"id": 114,
+"fa": "⟦0⟧⟦1⟧⟦2⟧أيمكنك أخبار أخواتی أنا مستعدون؟\n\n\n⟦3⟧أظن تعرف أنهم ذهبوا للتبضـّع، بالطبع\nلن يذهبوا إلى أی مكان آخر غير َ\n⟦4⟧الصقر الفرار⟦5⟧!\n⟦6⟧فهو الأرخص سعرا والأقرب!",
+"en": "Can you go tell everyone that\nwe're all set?\n\nYou do know where they went for the\ngroceries, I assume.\n\nNowhere but the one-stop shop of\nthe Slippery Falcon, of course!\nIt's cheap AND convenient!",
+"src": "Rito_BrosRock"
+},
+{
+"id": 115,
+"fa": "⟦0⟧♪ياه ياه!♪⟦1⟧\n♪أشتريت شيئـًا من ⟦2⟧زبدة الماعز⟦3⟧!♪\n\n⟦4⟧هاه؟⟦5⟧ التدريب!\n\n\n⟦6⟧يا ربی لا!⟦7⟧ لقد نسيت!",
+"en": "♪Yah yah!♪\n♪I bought some goat butter!♪\n\n...Huh? Rehearsal?\n\n\nOh, yeah! I forgot!",
+"src": "Rito_BrosRock"
+},
+{
+"id": 116,
+"fa": "⟦0⟧⟦1⟧⟦2⟧أتطبخ لچنكو ⟦3⟧مونيرو السلمون⟦4⟧ إذا أعطيتك ⟦5⟧زبدة\nالماعز ⟦6⟧هذه؟⟦7⟧ قالت إنها لن تنشد حتى\nتأكل، لا بد أنها ⟦8⟧بالمطبخ⟦9⟧.\n⟦10⟧⟦11⟧⟦12⟧الأرجح أن نان، أختنا الكبرى، بمكان ما\nهناك⟦13⟧ بالأعلى⟦14⟧ تتمرن على قصائدها.\n\n⟦15⟧⟦16⟧⟦17⟧وكوتس ذهبت لصيد ⟦18⟧السلمون الروحی⟦19⟧.\n\n\n⟦20⟧⟦21⟧⟦22⟧فهی على الأغلب فی ⟦23⟧البحيرة⟦24⟧ التی\nعند مدخل القرية. ",
+"en": "If I give you this goat butter, will you\nmake some salmon meunière for Genli?\nShe should be in the kitchen.\nShe said she won't sing until she's\neaten.\n\nOur older sister Notts is probably\npracticing her songs somewhere up high.\n\nKotts left to catch some hearty salmon.\n\n\nShe's probably fishing at the pond near\nthe entrance to the village. ",
+"src": "Rito_BrosRock"
+},
+{
+"id": 117,
+"fa": "⟦0⟧⟦1⟧⟦2⟧أتطبخ لچنكو ⟦3⟧مونيرو السلمون⟦4⟧ ⟦5⟧ إذا أعطيتك\n⟦6⟧زبدة الماعز⟦7⟧ هذه؟\n\n⟦8⟧⟦9⟧⟦10⟧لحظة، قائمة جردك تكاد تنفجر، برای همين لا\nيمكننی أن أعطيكها.",
+"en": "If I give you this goat butter, will you\nmake some salmon meunière?\n\n...Wait, your inventory is full, so I can't\ngive it to you.",
+"src": "Rito_BrosRock"
+},
+{
+"id": 118,
+"fa": "⟦0⟧⟦1⟧⟦2⟧الأرجح أن نان، أختی الكبرى، بمكان ما\nهناك بالأعلى تتمرن على قصائدها،\n\n⟦3⟧⟦4⟧⟦5⟧وكوتس، أختی الكبرى الثانية، قالت إنها\nذاهبة إلى ⟦6⟧البحيرة⟦7⟧ التی عند مدخل\nالقرية للصيد.",
+"en": "My oldest sister Notts is probably\nsomewhere up high practicing her songs.\n\nKotts, the second oldest, said she was\ngoing fishing at the pond near the village\nentrance.",
+"src": "Rito_BrosRock"
+},
+{
+"id": 119,
+"fa": "⟦0⟧⟦1⟧⟦2⟧ ⟦3⟧طبخت ⟦4⟧مونيرو السلمون⟦5⟧ لأجل چنكو؟\n\n\n⟦6⟧⟦7⟧⟦8⟧♪شكرا جزيلا!♪\n\n\n⟦9⟧أرجو أن تأتی الآن چنكو للتدريب. سأتجه\nإلى ⟦10⟧صخور الأخوات⟦11⟧ عما قريب.",
+"en": "Huh? You already made salmon meunière\nfor Genli?\n\n♪Thaaaank you SO much!♪\n\n\nI hope Genli will come to rehearsal now.\nI'll head over to Warbler's Nest in a bit.",
+"src": "Rito_BrosRock"
+},
+{
+"id": 120,
+"fa": "أتريد الاستماع للقصيدة التی كنت أتدرب\nلأدائها؟⟦0⟧",
+"en": "Hey! Would you like to hear the song I've\nbeen practicing?",
+"src": "Rito_BrosRock"
+},
+{
+"id": 121,
+"fa": "⟦0⟧سأحاول ألا أخرب القصيدة، أتريد سماعها؟⟦1⟧",
+"en": "I'll try not to mess up my song.\nDo you want to hear it?",
+"src": "Rito_BrosRock"
+},
+{
+"id": 122,
+"fa": "⟦0⟧المرة المقبلة لن أخطئ! ⟦1⟧تمام؟⟦2⟧\nهاه؟",
+"en": "I won't make a mistake next time! Yeah!\nHuh?",
+"src": "Rito_BrosRock"
+},
+{
+"id": 123,
+"fa": "⟦0⟧⟦1⟧⟦2⟧♪لا لوو لوو لوو لاااااا!♪\n\n\n⟦3⟧⟦4⟧⟦5⟧فيو..⟦6⟧\nأشعرنی هذا الإنشاد كله بالجوع!",
+"en": "♪La loo loo loo laaaaaaa!♪\n\n\nPhew...\nAll this singing is making me hungry.",
+"src": "Rito_BrosRock"
+},
+{
+"id": 124,
+"fa": "⟦0⟧أيهما تفضل سماعه؟ أقصيدة بطنی أم قصيدة\nعن صخور الأخوات؟⟦1⟧",
+"en": "Which would you rather hear? My\ntummy's song or a song about \nWarbler's Nest?",
+"src": "Rito_BrosRock"
+},
+{
+"id": 125,
+"fa": "قصيدة عن صخور الأخوات.",
+"en": "Warbler's Nest song.",
+"src": "Rito_BrosRock"
+},
+{
+"id": 126,
+"fa": "قصيدة البطن.",
+"en": "Tummy song.",
+"src": "Rito_BrosRock"
+},
+{
+"id": 127,
+"fa": "⟦0⟧⟦1⟧⟦2⟧♪لوو لوو لوو لاا!♪\n\n\n⟦3⟧⟦4⟧⟦5⟧الإنشاد الجماعی ممتع!\n\n\n⟦6⟧حتى مع جهلی بالكلمات...",
+"en": "♪Loo loo loo laa!♪\n\n\nIt's fun singing together!\n\n\nEven if I don't know the lyrics...",
+"src": "Rito_BrosRock"
+},
+{
+"id": 128,
+"fa": "⟦0⟧هايی! أأعيد عليك القصيدة مجددا؟⟦1⟧",
+"en": "Hey! Want me to sing the song again?",
+"src": "Rito_BrosRock"
+},
+{
+"id": 129,
+"fa": "⟦0⟧⟦1⟧⟦2⟧آه، أشكرك شكرا لا قبله ولا بعده!⟦3⟧\nفكل أخواتی صرن هنا!\n\n⟦4⟧⟦5⟧⟦6⟧بات بوسعنا التدرب هنا فی ⟦7⟧صخور الأخوات⟦8⟧!\n⟦9⟧أتريد أن تعرف أی قصيدة ننشد؟⟦10⟧⟦11⟧⟦12⟧تمام.⟦13⟧ ⟦14⟧الشيخ⟦15⟧ أخبرنی\n\n\n⟦16⟧⟦17⟧⟦18⟧أنها أغرودة تناقلها الريتو أبا عن جد\nألقيت فی الأزمنة العتيقة فی ⟦19⟧صخور\nالأخوات⟦20⟧.\nوإن كنت لا تدری فإن⟦21⟧ ⟦22⟧صخور الأخوات\n⟦23⟧هی هذه الصخرة التی نقف فوقها مع الأعمدة\nالتی خلفنا.\nالكلمات ليست واضحة المعنى،⟦24⟧ لكن ثمة شطر\nلطالما شد انتباهی.\n\n\"وعندما تقنع ُ بالريح الصخور ْ⟦25⟧\nأن تنشد معا سيظهر المقبور ْ\"\n\nما المعنى فی رأيك؟⟦26⟧\nومن المقبور؟\n\n⟦27⟧⟦28⟧⟦29⟧آه! وكدت أنسى!⟦30⟧أتيتك بهدية صغيرة⟦31⟧ شكرا لجلبك كل\nأخواتی.",
+"en": "Oh, thank you so much!\nAll of my sisters are here!\n\nNow we can rehearse here at\nWarbler's Nest! Want to know what\nsong we're singing?\nWell...the elder told me...\n\n\nIt's a song passed down in the Rito \nVillage that was once sung at\nWarbler's Nest in ancient times.\nIf you didn't know, Warbler's Nest is\nthe big stone platform with the pillars\nbehind us.\nThe lyrics don't make a lot of sense, but\nthere's one line in particular that always\ncatches my ear...\n\"When wind convinces the rocks to sing,\nopen the monk's door will swing.\"\n\nWhat do you think that means?\nWhat's a monk?\n\nOh! And I almost forgot!I got you a little something. Just a small\nthanks for bringing all of my sisters here.",
+"src": "Rito_BrosRock"
+},
+{
+"id": 130,
+"fa": "⟦0⟧⟦1⟧⟦2⟧⟦3⟧داا⟦4⟧-⟦5⟧اا⟦6⟧ ⟦7⟧!⟦8⟧\n\n\n⟦9⟧⟦10⟧⟦11⟧لماذا لا تلوح بها ناحية ⟦12⟧صخور\nالأخوات⟦13⟧؟ فهی تصدر صوتا ممتعا!",
+"en": "Ta-da! A Korok leaf!\n\n\nWhy don't you swing it in the direction of\nWarbler's Nest? It makes a fun noise!",
+"src": "Rito_BrosRock"
+},
+{
+"id": 131,
+"fa": "⟦0⟧⟦1⟧⟦2⟧⟦3⟧داا⟦4⟧-⟦5⟧اا⟦6⟧ ⟦7⟧!⟦8⟧\n\n\nمهلا، قائمة جردك تكاد تنفجر!⟦9⟧\n⟦10⟧ينبغی عليك التخلص ُ من أی ّ أداة\nقتالية لا تحتاجها.",
+"en": "Ta-da! A Korok leaf!\n\n\n...Hey, your inventory is overflowing!\nYou should toss any melee items you \ndon't need.",
+"src": "Rito_BrosRock"
+},
+{
+"id": 132,
+"fa": "كلی آذان صاغية.",
+"en": "I'm all ears.",
+"src": "Rito_BrosRock"
+},
+{
+"id": 133,
+"fa": "⟦0⟧♪لوو لوو لااااا!♪\n\n\n⟦1⟧⟦2⟧⟦3⟧\"وعندما تقنع ُ بالريح الصخور ْ⟦4⟧\nأن تنشد معا سيظهر المقبور ْ\"\n\n⟦5⟧⟦6⟧⟦7⟧ما المعنى برأيك؟",
+"en": "♪Loo loo loo laaaaa!♪\n\n\n\"When wind convinces the rocks to sing,\nopen the monk's door will swing.\"\n\nWhat do you think that means?",
+"src": "Rito_BrosRock"
+},
+{
+"id": 134,
+"fa": "⟦0⟧هاه؟⟦1⟧ هل كان هذا البيت الغريب هنا\nمن قبل؟",
+"en": "Huh? Was that weird-looking house\nalways there?",
+"src": "Rito_BrosRock"
+},
+{
+"id": 135,
+"fa": "⟦0⟧لا،⟦1⟧ هذا الشیء هو \"الضريح\" الذی كان\nالشيخ يتحدث عنه!",
+"en": "No, that's that \"shrine\" thing that the\nelder was talking about!",
+"src": "Rito_BrosRock"
+},
+{
+"id": 136,
+"fa": "⟦0⟧هذا رائع!⟦1⟧ من كان يعلم أن صخور\nالأخوات تخفی سر ًا كهذا!",
+"en": "So cool! Who knew Warbler's Nest was\nkeeping a secret like that!",
+"src": "Rito_BrosRock"
+},
+{
+"id": 137,
+"fa": "⟦0⟧آخر من تصل فهی بيضة غير مفقوسة!",
+"en": "Last one to mom is an unhatched egg!",
+"src": "Rito_BrosRock"
+},
+{
+"id": 138,
+"fa": "⟦0⟧همم.. كانت ماجدة چوردو رفيقة ودودة لأميرة هايرال\nرغم أنها كانت محاربة شرسة.",
+"en": "Hmm... Though she was a fierce warrior,\nthe Gerudo chief was also a loving friend\nof Hyrule's princess.",
+"src": "Npc_Musician_AoC_HeroGerudo"
+},
+{
+"id": 139,
+"fa": "لا تفعلن هذا!",
+"en": "Please don't do that!",
+"src": "Npc_Musician_AoC_HeroGerudo"
+},
+{
+"id": 140,
+"fa": "مع السلامة.",
+"en": "Good-bye.",
+"src": "Npc_MamonoShop"
+},
+{
+"id": 141,
+"fa": "عـَمـَلاقة الغاب.",
+"en": "The forest giant.",
+"src": "Npc_MamonoShop"
+},
+{
+"id": 142,
+"fa": "وحوش الرمال العملاقة.",
+"en": "The giant sand beast.",
+"src": "Npc_MamonoShop"
+},
+{
+"id": 143,
+"fa": "⟦0⟧إذا عثرت على\n⟦1⟧أشلاء وحوش⟦2⟧،⟦3⟧ فعد هنا!",
+"en": "If you come across some\nmonster parts, come on back!",
+"src": "Npc_MamonoShop"
+},
+{
+"id": 144,
+"fa": "⟦0⟧طبعا، ⟦1⟧طبعا.⟦2⟧لا أمانع بتكرار الشرح قدر ما تريد\nحتى تصل المعلومة إلى عقلك\nالفريد.",
+"en": "Yes, yes.\nI'm happy to explain as many times as\nyou need.",
+"src": "Npc_MamonoShop"
+},
+{
+"id": 145,
+"fa": "⟦0⟧⟦1⟧المامو ⟦2⟧هی ⟦3⟧عملة⟦4⟧ ابتدعتها\nلزعزعة السوق ومعافرة\nالمؤسسة!⟦5⟧\nأفاكهك، ما من مؤسسة على أرض\nهايرال! لكن لفرط عشقی للوحوش حولتهم لنقود!\nإليك الصفقة: إن أحضرت لی\n⟦6⟧أجزاء وحش⟦7⟧⟦8⟧، أقايضك بها\n⟦9⟧بالمامو⟦10⟧.\nأنا⟦11⟧ المنشأة الوحيدة ⟦12⟧ فی هايرال التی\nتقبل ⟦13⟧عملة المامو ⟦14⟧طريقة للدفع!⟦15⟧\nحصرية ما بعدها حصرية، صح؟\nأيا يكن،⟦16⟧ يمكنك صرف ⟦17⟧المامو⟦18⟧ \nعلى أی ⟦19⟧عدة وحش ⟦20⟧\nصنعت بأبحاثی.",
+"en": "Mon is a currency I invented to\ndestabilize the market and fight the\nestablishment!\nJust kidding, there is no establishment in\nHyrule! I just love monsters so much that\nI turned them into money!\nHere's the deal: if you bring me\nmonster parts, I'll exchange them for\nmon.\nI'm the only business in Hyrule that\naccepts mon as payment!\nPretty exclusive, eh?\nAnyway, you can spend your mon on\nvarious types of monster gear that I've\ncreated based on my research.",
+"src": "Npc_MamonoShop"
+},
+{
+"id": 146,
+"fa": "⟦0⟧فهمتك... ⟦1⟧لكن خسارة.",
+"en": "I see... That's a shame.",
+"src": "Npc_MamonoShop"
+},
+{
+"id": 147,
+"fa": "⟦0⟧كأنی أشم رائحة ⟦1⟧بوكوبلين ⟦2⟧، أو ربما يكون...⟦3⟧",
+"en": "This smells like Bokoblin or maybe...",
+"src": "Npc_MamonoShop"
+},
+{
+"id": 148,
+"fa": "⟦0⟧أتمنى أن أراك قريبا فی ليلة\nأخرى ⟦1⟧وحشية⟦2⟧...",
+"en": "I hope to see you again another\nmonstrous night...",
+"src": "Npc_MamonoShop"
+},
+{
+"id": 149,
+"fa": "⟦0⟧⟦1⟧أشلاء الوحوش ⟦2⟧هی ما تلقيها الوحوش\nعند اندثارها من\n\nقرون ومخالب وعيون...⟦3⟧\nتختلف من حيث اللون والحجم،\"⟦4⟧\nلكن تبقى كلها أشلاء وحوش.\nوكلما ⟦5⟧زادت ⟦6⟧ندرتها⟦7⟧،\nزادت قيمتها!",
+"en": "Monster parts are the things that\nmonsters drop when they expire.\n\nYou know—horns, fangs, eyes...\nThe color and size may differ a bit,\nbut they're all monster parts.\nThe more rare they are, the more mon\nthey're worth!",
+"src": "Npc_MamonoShop"
+},
+{
+"id": 150,
+"fa": "⟦0⟧مساء الخير...⟦1⟧\nأتريد أی مساعدة؟⟦2⟧",
+"en": "Good evening...\nCan I help you with anything?",
+"src": "Npc_MamonoShop"
+},
+{
+"id": 151,
+"fa": "⟦0⟧ميزانيتك الحالية هی ⟦1⟧⟦2⟧ ⟦3⟧.⟦4⟧\nأی ⟦5⟧عتاد وحوش ⟦6⟧تبغی شراءه؟",
+"en": "Your current balance is  mon.\nWhat monster gear would you like\nto buy?",
+"src": "Npc_MamonoShop"
+},
+{
+"id": 152,
+"fa": "⟦0⟧لا تبدو رائحته رائحة وحشية.⟦1⟧\nلا أتفاوض إلا ⟦2⟧بأشلاء الوحوش⟦3⟧ هنا.",
+"en": "This doesn't smell like a monster.\nI only deal in monster parts here.",
+"src": "Npc_MamonoShop"
+},
+{
+"id": 153,
+"fa": "⟦0⟧⟦1⟧⟦2⟧؟⟦3⟧\nكم واحدة ستعطينی؟⟦4⟧",
+"en": "?\nHow many are you willing to give me?",
+"src": "Npc_MamonoShop"
+},
+{
+"id": 154,
+"fa": "تريد بيع ⟦0⟧⟦1⟧ ⟦2⟧واحدة؟\nما رأيك فی ⟦3⟧⟦4⟧ مامو⟦5⟧؟⟦6⟧",
+"en": "You want to exchange  of them?\nHow about  mon?",
+"src": "Npc_MamonoShop"
+},
+{
+"id": 155,
+"fa": "⟦0⟧خذ ما أردت، أخذة عزيز مقتدر...",
+"en": "Do what you must...",
+"src": "Npc_MamonoShop"
+},
+{
+"id": 156,
+"fa": "⟦0⟧آسف يا حريفی، لكن انقرض مخزونی.⟦1⟧\nلا تقلق، سأصنع لك المزيد عما قريب...",
+"en": "Sorry, I'm sold out right now.\nI'll make more soon...",
+"src": "Npc_MamonoShop"
+},
+{
+"id": 157,
+"fa": "⟦0⟧آسف يا حريفی، لكن أحوالك كاسدة وما عندك من\n⟦1⟧مامو⟦2⟧ لا يكفی لهذا.",
+"en": "Sorry, you don't have enough\nmon for that.",
+"src": "Npc_MamonoShop"
+},
+{
+"id": 158,
+"fa": "⟦0⟧هيه... ⟦1⟧⟦2⟧⟦3⟧قائمة ⟦4⟧جردك⟦5⟧ ممتلئة.⟦6⟧\nفضلا عد حين تنظم أمورك.",
+"en": "Huh... Your inventory is full.\nPlease come again once you're all sorted\nout.",
+"src": "Npc_MamonoShop"
+},
+{
+"id": 159,
+"fa": "⟦0⟧⟦1⟧ ⟦2⟧ديااااااااااه!⟦3⟧\n\n\n⟦4⟧أتريدنی أن أنبئك عن الوحوش؟⟦5⟧\nأهووووووووى الحديث عن الوحوش!\n\n⟦6⟧أوووه... واااااااااااه!!⟦7⟧\nما رأيك أن نتكلم عن ⟦8⟧العملاق منها⟦9⟧!\n\n ⟦10⟧الجبار الصخری⟦11⟧؟ ⟦12⟧عـَمـَلاقة الغاب⟦13⟧؟ ⟦14⟧\n ⟦15⟧وحوش الرمال العملاقة⟦16⟧؟⟦17⟧ \nأی واحد تبغی؟⟦18⟧",
+"en": "Dya... DYAAAAAAAH!\n\n\nYou want to know about monsters?\nI just LOOOOOVE talking about monsters!\n\nOoh. OOOOOOOH!\nLet's talk about the huge ones!\n\nThe stone colossus? The forest giant? \nThe giant sand beast?! Which monster\ndo you want to hear about?",
+"src": "Npc_MamonoShop"
+},
+{
+"id": 160,
+"fa": "⟦0⟧أنا لست إلا محبا لبحوث الوحوش\nلحد أنـّی فتحت دكـَّانا\nلا شأن له إلا هی،\nوأطلقت عليه اسم⟦1⟧حانوت الوحوش⟦2⟧!\n\n\nأنا أقطع ُ مسافرا هايرال طولها فعرضها\nبحثا عن أشلاء الوحوش النادرة وكذا المـُهـِمـَّة،\nولكن لم أقطع يقينا أی القرى علی َّ أن أزورها تاليا.\nأستكون⟦3⟧⟦4⟧قرية كاكاريكو⟦5⟧ ⟦6⟧أم ⟦7⟧قرية خاتمو⟦8⟧؟⟦9⟧\nمع أن ⟦10⟧قرية الريتو ⟦11⟧و ⟦12⟧إقليم الزورا⟦13⟧\nهن خيارات جيدة.⟦14⟧ هممم\nأو لعلی أقطع الطريق كـُله ذاهبا\n⟦15⟧لبلدة گرودو⟦16⟧ أو ⟦17⟧قرية صيدحوت⟦18⟧،⟦19⟧\nبيد أن ⟦20⟧بـُحيرة َ أكـّالا⟦21⟧ أقرب بكثير.\n⟦22⟧آآآآآآآآآآآه!⟦23⟧ الحماس ُ يـَعرونی\nولا أكاد أستطيع تمالـُك َ نفسی!\n\n⟦24⟧فليس لی أن أقـِر َّ جالسا\nوهناك وحوش ٌ تـَطـْلـُب ُ من يـَدر ُسها.⟦25⟧ أنا ذاهب\n\nولكن كلـُّی يقين ٌ أن لقاءنا سيستجد فی ⟦26⟧قرية ٍ ما⟦27⟧\n⟦28⟧وفی وقت ٍ ما من ⟦29⟧الليل⟦30⟧،⟦31⟧ صـَحبتك َ السلامة.",
+"en": "I just love the field of monster research\nso much that I decided to open a shop\nall about monsters!\nI call it...Fang and Bone!\n\n\nI travel all around Hyrule in search of\nrare and exciting monster parts. But I'm\nnot sure which village I should visit next.\nKakariko Village or Hateno Village?\nThough Rito Village and Zora's Domain\nare also good options. Hmm...\nI suppose I could go all the way to\nGerudo Town or Lurelin Village.\nBut Lake Akkala is much closer.\nRAWWWWWRGH! I'm so excited I can\nhardly contain myself!\n\nI can't just sit around while there are\nmonsters to be studied! I'm off!\n\nI'm sure we'll meet again in some village\nduring the night. Fare thee well!",
+"src": "Npc_MamonoShop"
+},
+{
+"id": 161,
+"fa": "⟦0⟧نـَعـَم، أنا أفتـَتـِح ُ دكـّان وحوش اسمه\n⟦1⟧حانوت الوحوش⟦2⟧. بيد أنی لازلت فی طور التحضير\nلافتتاحيته الكـُبرى.",
+"en": "Yes. I'm opening a monster shop called\nFang and Bone. But I'm still preparing\nfor my grand opening.",
+"src": "Npc_MamonoShop"
+},
+{
+"id": 162,
+"fa": "⟦0⟧على كل...⟦1⟧ هل أنت،...⟦2⟧ آعع...⟦3⟧\nتحب الوحوش؟⟦4⟧",
+"en": "Anyway... Do you, uh...\nAre you into monsters?",
+"src": "Npc_MamonoShop"
+},
+{
+"id": 163,
+"fa": "⟦0⟧لكنی أظل حزينا فی قعر المأساة والكآبة،\nكلما أتذكر أنی وحيد فی الدنيا فی طريقی الأظلم هذا.",
+"en": "Although, it saddens me to know I truly\nam all alone in this world.",
+"src": "Npc_MamonoShop"
+},
+{
+"id": 164,
+"fa": "⟦0⟧كم، آء...\nإلى أی مدى تحبها؟⟦1⟧",
+"en": "How, uh...\nHow much do you like them?",
+"src": "Npc_MamonoShop"
+},
+{
+"id": 165,
+"fa": "⟦0⟧...\n\n\n⟦1⟧أنا...⟦2⟧أء...⟦3⟧ آسف!⟦4⟧\nمرة أخرى لم أتمالك نفسی.",
+"en": "...\n\n\nI...uh... Sorry!\nI did it again.",
+"src": "Npc_MamonoShop"
+},
+{
+"id": 166,
+"fa": "⟦0⟧هذه بطاقة الزيارة...",
+"en": "Here's my business card...",
+"src": "Npc_MamonoShop"
+},
+{
+"id": 167,
+"fa": "- حانوت الوحوش -\nتعال إلى العم كيلتون وتخير بين أكثر الصفقات\n⟦0⟧وحشيـَّة⟦1⟧ فی هايرال! ",
+"en": "- Fang and Bone -\nCome see ol' Kilton for the most\nmonstrous deals in all of Hyrule! ",
+"src": "Npc_MamonoShop"
+},
+{
+"id": 168,
+"fa": "⟦0⟧أنا...⟦1⟧أريدك أن تعيد تلك البطاقة.⟦2⟧\nفتلك النسخة الوحيدة عندی.",
+"en": "I'm...going to need that card back.\nIt's the only one I have.",
+"src": "Npc_MamonoShop"
+},
+{
+"id": 169,
+"fa": "⟦0⟧آخ!⟦1⟧ أدركنا الصباح وكففنا جهدنا المباح؟\nسأعود للسبيل الآن!\n\nلعل وعسى نلتقی تارة أخرى فی\nليلة ⟦2⟧وحشية⟦3⟧...",
+"en": "Ack! Is it that time already?\nI need to get this show on the road!\n\nMay we meet again on another\nmonstrous night...",
+"src": "Npc_MamonoShop"
+},
+{
+"id": 170,
+"fa": "⟦0⟧أنا نفسی أطاردهم، بيد أن حجمهم غلبنی وكبر علی!⟦1⟧ لا أستطيع حتى الاقتراب منهم...\nلذلك هلا أطلب منك، فضلا لا أمرا، أن تبحث لی عنها و...\nهمم، تحصد لی من قطافها ما فيها من أشلاء؟\nسأشتری من عندك\n⟦2⟧كل ⟦3⟧ما تريد.\nوبهذه الطريقة، سأقدر على تحليل\nروائح السوائل الحيوية التی سيتلطخ جسمك بها لا محالة\nأثناء قتالك العنيف لها.\nهذه الوسيلة كی أتحقق من\nعاداتها، سلوكياتها، سماتها عموما.\n\nأعول عليك فی أمری هذا...",
+"en": "I'm currently after them myself, but\nthey're just so big! I can't even get near\nthem...\nSo could I ask you to find them and,\nuh, harvest their materials? I'm talking\nall of them.\nThat way, I'll be able to analyze the scent\nof their fluids that will inevitably stick\nto your body during battle.\nThat will allow me to determine their\nhabits, behaviors, and overall qualities.\n\nI'm counting on you...",
+"src": "Npc_MamonoShop"
+},
+{
+"id": 171,
+"fa": "⟦0⟧*شم* *شم*⟦1⟧\nهذه الرائحة...⟦2⟧\nمثيرة للاهتمام...",
+"en": "*sniff sniff*\nAh, that scent...\nMost interesting.",
+"src": "Npc_MamonoShop"
+},
+{
+"id": 172,
+"fa": "⟦0⟧فليحالفك حظك فی لياليك بمصيد وافر.⟦1⟧\nأعتمد على يدك الخبيرة.",
+"en": "Good luck on your hunt.\nI'm counting on you.",
+"src": "Npc_MamonoShop"
+},
+{
+"id": 173,
+"fa": "⟦0⟧*شم* *شم*⟦1⟧\nهذه الرائحة...\n\n⟦2⟧نعم هذه!\n⟦3⟧هی ذی!",
+"en": "*sniff sniff*\nThis scent...\n\nThis!\nThis is!",
+"src": "Npc_MamonoShop"
+},
+{
+"id": 174,
+"fa": "⟦0⟧شكرا جزيلا!\n\n\nآه وصحيح! ⟦1⟧دعنی أقدم لك هذه.",
+"en": "Tha-thank you so much!\n\n\nOh, yes! Here, let me give you this.",
+"src": "Npc_MamonoShop"
+},
+{
+"id": 175,
+"fa": "⟦0⟧طالما تبقی هذا معك...\n\n\n⟦1⟧⟦2⟧سأنصرك دوما!⟦3⟧\n\n\n⟦4⟧لن تعانی فی صمت بعد الآن.\nأعلم كم تتألم كلما قتلت\nوحشا.\nصيد الوحوش لأجل أشلائها\nعمل يفطر الروح،\nلكنه فرض عليك.",
+"en": "As long as you have this...\n\n\nI'll always be with you!\n\n\nYou don't have to suffer in silence \nanymore. I know how much it hurts you\nevery time you kill a monster.\nDestroying monsters for their materials\nis soul-crushing work, but it must be\ndone.",
+"src": "Npc_MamonoShop"
+},
+{
+"id": 176,
+"fa": "⟦0⟧لكنی أشاطرك نفس الألم...",
+"en": "But I share your pain...",
+"src": "Npc_MamonoShop"
+},
+{
+"id": 177,
+"fa": "⟦0⟧صرت أعرف تشريح بنية\nجثمانها من العظم والعضل⟦1⟧\nونظامها الغذائی العام بفضلك.\n⟦2⟧شكرا جزيلا على عونك الكريم فی مأربی هذا.",
+"en": "Thanks to you, I now know their\nmusculoskeletal structure...as well as\ntheir general diet.\nThank you so much for your help.",
+"src": "Npc_MamonoShop"
+},
+{
+"id": 178,
+"fa": "⟦0⟧عرفت أن من\n⟦1⟧الهينوكس⟦2⟧أربع فصائل،\nلكنی لم أعلم إلا حديثا ما يحبذه كل نوع من أغذية مختلفة.\n⟦3⟧على عكسی طبعا، فلا أحبذ شيئا معينا. سأفترس كل شیء!",
+"en": "I knew there were four types of\nHinoxes, but I just recently learned that\neach type has different food preferences.\nNot me, though. I'll eat anything!",
+"src": "Npc_MamonoShop"
+},
+{
+"id": 179,
+"fa": "⟦0⟧أی مدى سيكبر ذاك الشیء يا ترى...⟦1⟧\nصارت الأمور حماسا أكثر وأكثر\nهذه الأيام.⟦2⟧\n⟦3⟧أشكرك شكرا وحشيا!!",
+"en": "I wonder how big that thing will get...\nThings just keep getting more and more\ninteresting.\nThank you very much!",
+"src": "Npc_MamonoShop"
+},
+{
+"id": 180,
+"fa": "كم واحدة تشتهی نفسك؟⟦0⟧",
+"en": "How many would you like?",
+"src": "Npc_MamonoShop"
+},
+{
+"id": 181,
+"fa": "ستكون المحصلة ⟦0⟧⟦1⟧ مامو⟦2⟧. نعقد الصفقة؟⟦3⟧",
+"en": "That comes out to  mon. Deal?",
+"src": "Npc_MamonoShop"
+},
+{
+"id": 182,
+"fa": "عندك فقط ⟦0⟧⟦1⟧ مامو⟦2⟧، وهی لن تفيدك\nمن المؤنة بكثير، لكن تفرج كما تريد\nعلى الأقل.",
+"en": "You've only got  mon, which won't\ndo much for you, but feel free to take a\nlook.",
+"src": "Npc_MamonoShop"
+},
+{
+"id": 183,
+"fa": "⟦0⟧أنا؟\n\n\nيقال لی ⟦1⟧كيلتون⟦2⟧.",
+"en": "Me?\n\n\nMy name is Kilton.",
+"src": "Npc_MamonoShop"
+},
+{
+"id": 184,
+"fa": "⟦0⟧فهمت...⟦1⟧ يا للتعس، لكن لن أقول إنها خيبة أمل، \nلأنه لم يكن هناك أمل.",
+"en": "I see... That's unfortunate, but not\nentirely unexpected.",
+"src": "Npc_MamonoShop"
+},
+{
+"id": 185,
+"fa": "⟦0⟧آه... ⟦1⟧كذلك شیء آخر.\n\n\nأنا أطور باستمرار ⟦2⟧عتادا وحشيا⟦3⟧جديدا،⟦4⟧\nفلا تنس أن تزورنی بين\n ⟦5⟧مغامراتك⟦6⟧لترى ما عندی.",
+"en": "Ah... Another thing.\n\n\nI'm always developing new monster gear,\nso remember to check back in between\nyour adventures.",
+"src": "Npc_MamonoShop"
+},
+{
+"id": 186,
+"fa": "⟦0⟧صنعت سلاحا جديدا من\n⟦1⟧أسلحة الوحوش⟦2⟧!⟦3⟧ أسميته...\n\n⟦4⟧⟦5⟧مطرقة البيون⟦6⟧!⟦7⟧\n\n\nاخبط أی وحش دنیء بها\nوسيطير فی⟦8⟧الأفق!⟦9⟧ إنها لخير المطارق لإزاحة الوحوش\nالز َّعجة،\nسيما وحين يكون مزاجك متعكرا وفی وحشة!\nكما وأنه مؤنس\nالاستخدام!",
+"en": "I've developed a new piece of\nmonster gear! I call it the...\n\nSpring-loaded hammer!\n\n\nWhack a small monster with this thing,\nand...BOING! It'll launch the monster\ninto the distance!\nIt's really useful for getting rid of pesky\nmonsters that you don't feel like fighting.\nPlus, it's just fun to use!",
+"src": "Npc_MamonoShop"
+},
+{
+"id": 187,
+"fa": "⟦0⟧مر زمن على آخر لقاء بيننا، وصنعت فيه عتادا جديدا\nأضمه لقائمة ⟦1⟧عتاد الوحوش⟦2⟧.⟦3⟧ أسميته...\n\n⟦4⟧⟦5⟧قناع الليزالفوس⟦6⟧!⟦7⟧\n\n\nفالليزالفوس⟦8⟧ يشكلون خطرا علىالمرء\nإن كان مصابا.\n\nفحين تخالهم نياما⟦9⟧\nيقفزون كالحشرات ليضربوك!\nوقد يستخدمون التنويه والتمويه\nليتخفوا فی بيئتهم\nكالحرباء.\nلكن هذا القناع يموه المموهين!\nفإن لبسته ⟦10⟧فسيحسبونك\nواحدا منهم ⟦11⟧ ولن يهاجموك!",
+"en": "It's been a while, but I've developed a\nnew piece of monster gear! I call it the...\n\nLizalfos mask!\n\n\nThose Lizalfos can really be a pain to\ndeal with when you're injured.\n\nJust when you think they're sleeping,\nthey attack you without a moment's\nnotice!\nSome of those scaled sneaks can even\nuse camouflage to blend in to their\nsurroundings!\nBut if you wear this Lizalfos mask, they\nwill think you're one of them and they'll\nignore you!",
+"src": "Npc_MamonoShop"
+},
+{
+"id": 188,
+"fa": "⟦0⟧طورت قطعة من\n⟦1⟧عتاد الوحوش⟦2⟧نادرة قاتلة! أسميتها...\n\n⟦3⟧⟦4⟧قناع اللاينـْل⟦5⟧!⟦6⟧\n\n\nاللاينـْل وحش قنطوری نصف حصان\nونصف بشری.⟦7⟧ طباعهم شرانية بأتم معنى الكلمة.\n\nتتقلد هذه الوحوش أسلحة عديدة\nوهم ذی قوة عنيفة ورشاقة مبهرة.\nلو كنت وحشا واخترت\nأيها أكون،\nلتمنيتنی لاينـْل بالتأكيد!\n\n⟦8⟧بمناسبة هذا،⟦9⟧ كاد يقتلنی لاينـْل⟦10⟧ مرة أثناء محاولاتی تصميم\nهذا القناع.⟦11⟧ وكانت تلك التجربة من أسعد\nلحظات حياتی⟦12⟧.⟦13⟧.⟦14⟧.⟦15⟧\nالمهم...⟦16⟧ هذا القناع المذهل\nقد يخدعهم فيظنونك\nأحدهم!\nجربه بنفسك لو شئت! فهو أمر يدب الحماس فی القلب.",
+"en": "I've developed a KILLER piece of\nmonster gear! I call it the...\n\nLynel mask!\n\n\nLynels are monsters that are half man,\nhalf horse. They are absolutely vicious.\n\nThey wield a multitude of weapons with\nincredible strength and grace.\n\nIf I was a monster, I'd want to be a Lynel\nfor sure!\n\nActually, I was almost killed by a Lynel while\ndesigning this mask. It was one of the best\nmoments of my life...\nAnyhow... This incredible mask can \nfool Lynels into thinking you're one of\nthem!\nTry it for yourself! It's quite a rush.",
+"src": "Npc_MamonoShop"
+},
+{
+"id": 189,
+"fa": "⟦0⟧أنجزتها أخيرا!⟦1⟧ طورت قطعة من\n ⟦2⟧عتاد الوحوش⟦3⟧لم يسبق لأی كان أن طورها!\n\nلا أكاد أصدق أنی تمكنت من تحقيق هذا السبق المذهل!⟦4⟧\nبل أنی أخيف نفسی أيضا\nبسبب هذا...\n*إحم* ⟦5⟧\nأقدم إليك أمرا لا يعلى عليه فی التنكر بين الوحوش!\nأسميته...\n ⟦6⟧⟦7⟧طقم الظلام⟦8⟧!⟦9⟧\n\n\nالبسه وستصير أنت بنفسك\nوحشا قلبا وقالبا!⟦10⟧ أرجو أن يعجبك أسلوب حياة\nأن تـُصطاد لأجل أحشائك!\n...\n\n\nأو تستطيع مجرد أن...⟦11⟧ المهم،⟦12⟧ أن تعتبره محض لباس\nتنكری.\n\nآه صحيح. ⟦13⟧وعندما يسدل الليل أسواره،\nقد تصير حركتك أسرع.\n\n⟦14⟧لا أدری بالضبط كيف حصل هذا الأمر،\nلكن لا أشكو من هذا أو أتذمر بتاتا...⟦15⟧",
+"en": "I'VE DONE IT! I've developed an\nunprecedented piece of monster gear!\n\nI can't believe I was able to pull this off!\nI'm actually a bit terrified of myself right\nnow... \n*ahem* \nI present to you the ultimate in monster\ncamouflage! I call it...\nthe dark series!\n\n\nWear this, and you will become a\nmonster yourself! I hope you like being\nhunted for your organs!\n...\n\n\nOr you could just, you know, think of it\nas a costume.\n\nOh, yes. And when night falls, you might\njust be able to move a little bit faster.\n\nNot sure how it turned out that way, but I'm not\ncomplaining...",
+"src": "Npc_MamonoShop"
+},
+{
+"id": 190,
+"fa": "⟦0⟧شكرا على استبدال أشلاء الوحوش\n ⟦1⟧بالمامو⟦2⟧.\n\nقل لی أی خدمة يسعى ⟦3⟧حانوت الوحوش⟦4⟧\nأن يسديها لك الليلة؟⟦5⟧",
+"en": "Thank you for converting your monster\nparts into mon.\n\nNow then, how else can Fang and Bone\nserve you today?",
+"src": "Npc_MamonoShop"
+},
+{
+"id": 191,
+"fa": "⟦0⟧شكرا على استبدال أشلاء الوحوش\n ⟦1⟧بالمامو⟦2⟧.\n\nكيف يمكن ⟦3⟧لحانوت الوحوش⟦4⟧\nإرضاء رغباتكم الوحشية؟⟦5⟧",
+"en": "Thank you for converting your monster\nparts into mon.\n\nNow then, how can Fang and Bone\nmeet your monstrous needs today?",
+"src": "Npc_MamonoShop"
+},
+{
+"id": 192,
+"fa": "⟦0⟧دكانی ⟦1⟧المختص بالوحوش⟦2⟧ قد بدأ\nالعمل!\n\nوبما أنك زبون\n ⟦3⟧حديث العهد⟦4⟧به،\n\nسأشرح لك أول بند والذی ينص\nعلى استبدال ⟦5⟧أشلاء الوحوش ⟦6⟧ ⟦7⟧بالمامو⟦8⟧.⟦9⟧",
+"en": "My monster shop is now open for\nbusiness!\n\nSeeing as how you're a first-time\ncustomer here at Fang and Bone...\n\nour first order of business will be\nconverting your monster parts to mon.",
+"src": "Npc_MamonoShop"
+},
+{
+"id": 193,
+"fa": "⟦0⟧هذه الرائحة الفائحة...⟦1⟧ هذه الرائحة الفائحة... *شم* *شم*\nأهو لاينـْل؟ أم لعله...⟦2⟧",
+"en": "This smell... *sniff sniff*\nIs it a Lynel? Or perhaps...",
+"src": "Npc_MamonoShop"
+},
+{
+"id": 194,
+"fa": "⟦0⟧هذه الرائحة الفائحة...⟦1⟧ *شم* *شم*\nأهو ليزالفوس؟ أم لعله...⟦2⟧\n",
+"en": "This smell... *sniff sniff*\nIs it a Lizalfos? Or perhaps...\n",
+"src": "Npc_MamonoShop"
+},
+{
+"id": 195,
+"fa": "⟦0⟧هذه الرائحة الفائحة...⟦1⟧ *شم* *شم*\nأهو تشوتشو؟ أم لعله...⟦2⟧",
+"en": "This smell... *sniff sniff*\nIs it a Chuchu? Or perhaps...",
+"src": "Npc_MamonoShop"
+},
+{
+"id": 196,
+"fa": "⟦0⟧هذه الرائحة الفائحة...⟦1⟧ *شم* *شم*\nأهو موريبلين؟ أم لعله...⟦2⟧",
+"en": "This smell... *sniff sniff*\nIs it a Moblin? Or perhaps...",
+"src": "Npc_MamonoShop"
+},
+{
+"id": 197,
+"fa": "⟦0⟧هذه الرائحة الفائحة...⟦1⟧ *شم* *شم*\nأهو هينوكس؟ أم لعله...⟦2⟧",
+"en": "This smell... *sniff sniff*\nIs it a Hinox? Or perhaps...",
+"src": "Npc_MamonoShop"
+},
+{
+"id": 198,
+"fa": "⟦0⟧هذه الرائحة الفائحة...⟦1⟧ *شم* *شم*\nأهو مولدوراجيك؟ أم لعله...⟦2⟧",
+"en": "This smell... *sniff sniff*\nIs it a Molduga? Or perhaps...",
+"src": "Npc_MamonoShop"
+},
+{
+"id": 199,
+"fa": "⟦0⟧هذه الرائحة الفائحة...⟦1⟧ *شم* *شم*\nأهو ملطاس صخری؟ أم لعله...⟦2⟧",
+"en": "This smell... *sniff sniff*\nIs it a Stone Talus? Or perhaps...",
+"src": "Npc_MamonoShop"
+},
+{
+"id": 200,
+"fa": "⟦0⟧كلها؟⟦1⟧ لديك ⟦2⟧ واحدة، أعطيك فيها\n⟦3⟧⟦4⟧ مامو⟦5⟧!⟦6⟧",
+"en": "All of them? So  of them will be\n mon!",
+"src": "Npc_MamonoShop"
+},
+{
+"id": 201,
+"fa": "⟦0⟧أعجز الآن عن إتيان أی صفقات أخرى تذكر،⟦1⟧\nلكن أشكرك على إخلاصك زيارتك يا أفضل\nحريف.",
+"en": "I can't make any more trades right now,\nbut thanks for being such a great\ncustomer.",
+"src": "Npc_MamonoShop"
+},
+{
+"id": 202,
+"fa": "⟦0⟧استنزفت كامل مخزونی!⟦1⟧ \nلكن ما زلت قادرا أن أظهر لك لائحة بما أبيع من أنواع\nلو ما زلت مهتما.⟦2⟧",
+"en": "You bought out my entire stock! But I\ncan still show you the type of stuff I\ncarry, if you'd like.",
+"src": "Npc_MamonoShop"
+},
+{
+"id": 203,
+"fa": "⟦0⟧أحس بنظرات خبيثة تحفر فی جسدی...⟦1⟧شزرا متطايرا\nمن عينين ِ عظيمتی الشرور.⟦2⟧",
+"en": "I feel like I'm being watched...by a pair\nof tremendously evil eyes.",
+"src": "Npc_MamonoShop"
+},
+{
+"id": 204,
+"fa": "هذا الزی مرعب للغاية، لو جاز لی من دون الناس\nقول هذا.⟦0⟧ حتى أشجع التجار\nلو يراه سيصرخ باكيا أين ماما.",
+"en": "That's a pretty terrifying outfit, if I do say\nso myself. It could make even the bravest\nmerchant cry for his mummy.",
+"src": "Npc_MamonoShop"
+},
+{
+"id": 205,
+"fa": "⟦0⟧ياااااء! ⟦1⟧هذا العطر الزكی ولا فی فراديس الأحلام...\n\n\nهل عساك ذهبت إلى الوحوش\nوخالطت معشرهم؟\n\nكم أنا غيران منك بصراحة.\n",
+"en": "Ahhh! That heavenly smell...\n\n\nCould it be that you've been mingling\nwith monsters?\n\nI must admit I'm a bit jealous.\n",
+"src": "Npc_MamonoShop"
+},
+{
+"id": 206,
+"fa": "⟦0⟧جبار الصخر...⟦1⟧ الذی شهر عنه\nكناية ⟦2⟧ملطاس الصخر⟦3⟧.\n\nيتنكر ويوهم من يراه أنه صخرة عادية بريئة،\nويدفن أغلب جسده تحت التراب.⟦4⟧\nأقل ما يقال فيه أنه عنيد...\nحسب آخر إحصائية،\nمنها ⟦5⟧أربعون⟦6⟧ فی سائر أرض هايرال.",
+"en": "The stone colossus... More commonly\nknown as the Stone Talus.\n\nThey masquerade as normal rocks,\nburying themselves in the ground.\nStubborn is an understatement...\nAccording to the most recent count,\nthere are 40 of them in Hyrule.",
+"src": "Npc_MamonoShop"
+},
+{
+"id": 207,
+"fa": "⟦0⟧لنر َ كم حصدت ⟦1⟧ملطاسا صخريا⟦2⟧\nحتى الآن...\nلقد حصدت.. ⟦3⟧ من أربعين ملطاسا.",
+"en": "Let's see how many Stone Taluses\nyou've harvested so far...\nLooks like  out of 40.",
+"src": "Npc_MamonoShop"
+},
+{
+"id": 208,
+"fa": "⟦0⟧*همم همم*\n\n\n⟦1⟧...⟦2⟧ألم تقتل أی\n⟦3⟧ملطاس صخری ⟦4⟧بعد؟\nويه... يبدو أن الأمر شق عليك.\nهاك نصيحة: تلك الوحوش مخلوقة من الحجر حرفيـًا.\nبرای همين لا يمكنك أن تلوح بسيفك\nخبط عشواء باغ أخذهم.\nإلا أنه ثمة جزء واحد من جسدهم\n⟦5⟧مختلف اللون⟦6⟧.⟦7⟧ فإن ضربتهم فيه\nفقد تحدث فرقـًا.",
+"en": "*sniff sniff*\n\n\nYou...you haven't killed any\nStone Taluses yet?! Whew... You have\nyour work cut out for you.\nLet me give you a hint: these guys are\nliterally made of stone, so you can't just\nswing blindly and hope to take them out.\nBut one part of their body is a\ndifferent color. If you hit them there,\nyour fortune may improve.",
+"src": "Npc_MamonoShop"
+},
+{
+"id": 209,
+"fa": "⟦0⟧فعلتها يا فتى! ⟦1⟧لم تذر أی\n⟦2⟧ملطاس صخری⟦3⟧!\n\nأوه... أنت صارم صنديد يا صاح!⟦4⟧⟦5⟧⟦6⟧\nكأنی أشتم رائحة ⟦7⟧ملطاس صخری⟦8⟧\nمرتجل أمامی.",
+"en": "You—! You've defeated every last\nStone Talus!\n\nOh, you are FRAGRANT, my friend.\nIt smells like there's a Stone Talus\nstanding right in front of me!",
+"src": "Npc_MamonoShop"
+},
+{
+"id": 210,
+"fa": "⟦0⟧تلك العمالقة ذات العين الواحدة الناعسة ⟦1⟧\nأكثر الوقت تسمى⟦2⟧عمالقة الغاب أو الهينوكس⟦3⟧.\n\nوهی تقضی أكثر يومها فی الغابات، منتشرة فی كل بقاع العالم.\n\nووفقـًا لآخر إحصائية\nفثمة ⟦4⟧أربعون⟦5⟧ عملاقـًا فی هايرال.",
+"en": "The forest giant... Also known as the\nHinox.\n\nThese sleepy, one-eyed giants spend\ntheir days in forests around the world.\n\nAccording to the latest count,\nthere are 40 of them in Hyrule.",
+"src": "Npc_MamonoShop"
+},
+{
+"id": 211,
+"fa": "⟦0⟧*شم* *شم*\n\n\n⟦1⟧ألم...⟦2⟧تقتل ولا ⟦3⟧هينوكس⟦4⟧واحد؟\nيا ساتر اسمع، هاك نصيحة: الهينوكس\nيلبس ⟦5⟧قلادات⟦6⟧ مرصعة ⟦7⟧بالأسلحة⟦8⟧\nبالأسلحة التی التقطها.\nلو بدأت أسلحتك تنفد فجرب أن\nتنشل منه أسلحته أثناء\nالمعركة!",
+"en": "*sniff sniff*\n\n\nYou...you haven't killed a single Hinox\nyet? Goodness.\n\nHere, let me give you a hint: Hinoxes\nwear necklaces strung with weapons\nthey've picked up.\nIf your arsenal is running low, try to\nsnatch some of their weapons during\nthe fight!",
+"src": "Npc_MamonoShop"
+},
+{
+"id": 212,
+"fa": "⟦0⟧فعلتها يا فتى! ⟦1⟧لقد طرحت كل\n⟦2⟧الهينوكس⟦3⟧!\n\n⟦4⟧أوه... أنت غطريف مقدام! ⟦5⟧⟦6⟧⟦7⟧كأن⟦8⟧\n ⟦9⟧هينكوسـًا⟦10⟧ يقف نصب عينای.",
+"en": "You've done it! You've defeated all the\nHinoxes!\n\nOh...you are FRAGRANT. It's as if there\nwas a Hinox standing right in front of me.",
+"src": "Npc_MamonoShop"
+},
+{
+"id": 213,
+"fa": "⟦0⟧هذا دليل هزمك\n⟦1⟧للهينوكس⟦2⟧كافة. ",
+"en": "This is proof you've defeated every last\nHinox. ",
+"src": "Npc_MamonoShop"
+},
+{
+"id": 214,
+"fa": "⟦0⟧⟦1⟧أنت قاهر عمالقة الغاب!⟦2⟧",
+"en": "You're a forest-giant slayer!",
+"src": "Npc_MamonoShop"
+},
+{
+"id": 215,
+"fa": "⟦0⟧وحوش الرمال العملاقة... ⟦1⟧\nتشتهر ⟦2⟧بالمولدوراجيك⟦3⟧.\n\nإنها وحوش عملاقة تعيش\nفی رمال الصحراء.\n\nوفقـًا لمصادری، يوجد\n⟦4⟧أربعة⟦5⟧ منها فی أرض هايرال.",
+"en": "The giant sand beast... More commonly\nknown as the Molduga.\n\nThey're giant monsters that live in the\nsands of the desert.\n\nAccording to my sources, there are only\nfour of them in Hyrule.",
+"src": "Npc_MamonoShop"
+}
+]
