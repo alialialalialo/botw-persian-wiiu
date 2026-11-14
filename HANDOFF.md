@@ -77,3 +77,6 @@ Credits file rewritten (adds Telegram ali123qp, install steps). rules.txt descri
 
 ## UPDATE v1.1.1
 Found ~590 more Arabic NPC units (merchants, Rito bros, Mamono shop etc.) missed in v1.1.0; translated (review/ar2_*). Removed literal <br>/<color> tags from 30 units (Npc_oasis020). Audit heuristic: Arabic letters/function words without Persian ones.
+
+## UPDATE v1.1.2
+Removed literal {variable} (Npc_HighMountain010), unified Molduga variant مولدوراژيك, last Riju/Vasaaq stragglers.
