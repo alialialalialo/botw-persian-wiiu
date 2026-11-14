@@ -74,3 +74,6 @@ Credits file rewritten (adds Telegram ali123qp, install steps). rules.txt descri
 
 ## UPDATE v1.1.0
 432 Arabic NPC units translated to plain Persian (review/ar_*). Open: bookish NPC dialogue rewrite.
+
+## UPDATE v1.1.1
+Found ~590 more Arabic NPC units (merchants, Rito bros, Mamono shop etc.) missed in v1.1.0; translated (review/ar2_*). Removed literal <br>/<color> tags from 30 units (Npc_oasis020). Audit heuristic: Arabic letters/function words without Persian ones.
