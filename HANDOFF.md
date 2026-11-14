@@ -80,3 +80,6 @@ Found ~590 more Arabic NPC units (merchants, Rito bros, Mamono shop etc.) missed
 
 ## UPDATE v1.1.2
 Removed literal {variable} (Npc_HighMountain010), unified Molduga variant مولدوراژيك, last Riju/Vasaaq stragglers.
+
+## UPDATE v1.1.3
+RSTB fixed: now built from the real v1.5.0 table (uploads 2d737999) changing only Font_EU.bfarc and Msg_EUen entries. Before it came from another version (3,886 entries smaller than v1.5.0, 4 missing). Audited: SARC structure, MSBT labels/unit counts, BFFNT headers/CMAP all OK.

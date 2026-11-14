@@ -23,10 +23,10 @@ for n,r in [('Normal',39/105),('NormalS',30/105),('Caption',22/49),('Special',71
     files[n+'_00.bffnt']=nd; infos[n]=i
     open('work/%s_new.bffnt'%n,'wb').write(nd)
 fraw=sarc_build(files,'>',8192); fsb=yaz0_comp(fraw); assert maybe(fsb)==fraw
-base_rstb=open("r2/BOTW_Persian_FULL/content/System/Resource/ResourceSizeTable.product.srsizetable",'rb').read()
+base_rstb=maybe(open(U+"2d737999-ResourceSizeTable.product.srsizetable",'rb').read())
 newv=9191776+(len(fraw)-9183576)+0x10000
 b2=rstb.setv(base_rstb,'Font/Font_EU.bfarc',newv)
-b2=rstb.setv(b2,'Message/Msg_EUen.product.sarc',rstb.get(b2,'Message/Msg_EUen.product.sarc')+0x20000)
+b2=rstb.setv(b2,'Message/Msg_EUen.product.sarc',6610112)
 rs=yaz0_comp(b2)
 eo,fl=sarc_parse(maybe(open("r2/BOTW_Persian_FULL/content/Pack/Bootup_EUen.pack",'rb').read())); n0=list(fl)[0]; ee,_=sarc_parse(maybe(fl[n0]))
 Fn=bffnt.parse(files['Normal_00.bffnt']); _G=bffnt.glyphs(Fn); _C=bffnt.codes(Fn)
@@ -56,5 +56,5 @@ open(root+'/content/Font/Font_EU.sbfarc','wb').write(fsb)
 open(root+'/content/System/Resource/ResourceSizeTable.product.srsizetable','wb').write(rs)
 open(root+'/content/Pack/Bootup_EUen.pack','wb').write(outer)
 open(root+'/README_Credits.txt','w',encoding='utf-8').write(CREDITS)
-open(root+'/rules.txt','w').write("[Definition]\ntitleIds = 00050000101c9500\nname = Zelda BOTW Persian v1.1.2\npath = \"The Legend of Zelda: Breath of the Wild/Mods/BOTW Persian\"\ndescription = Persian translation by Majid Hoshyar (radoo.ir/author/majidh1). Wii U adaptation by ali123qp (Telegram: ali123qp). Disable BCML.\nversion = 7\n")
+open(root+'/rules.txt','w').write("[Definition]\ntitleIds = 00050000101c9500\nname = Zelda BOTW Persian v1.1.3\npath = \"The Legend of Zelda: Breath of the Wild/Mods/BOTW Persian\"\ndescription = Persian translation by Majid Hoshyar (radoo.ir/author/majidh1). Wii U adaptation by ali123qp (Telegram: ali123qp). Disable BCML.\nversion = 7\n")
 print('built',len(fsb),len(outer))
