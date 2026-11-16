@@ -106,3 +106,6 @@ Self-audit (render + scans). Found 3 untranslated English NPC units (Npc_oasis01
 ## UPDATE v2.1.0
 Converted the previously-skipped tag-mismatch units (2,651) with work/convert2.py: lenient tag matching (cosmetic (0,2)/(0,3) tags matched by type, or dropped if counts differ; functional tags must match the English set exactly, else fallback). Now 27,246 of 27,613 units use Poormaz text; only 365 empty units + 14 count-mismatch files keep old text. All 29,730 units verified to have the same functional tags as English. Terms unified in post_new: جانور مقدس -> هیولای مقدس, محفظه‌ی قلب -> ظرف قلب, حلقه‌ی استقامت -> جام استقامت.
 Pipeline: apply_new.run(src=mw_edited_majid.pkl, res=newtext_res2.pkl, post=post_new.post) -> fixche.fix_che -> pack3.py.
+
+## UPDATE v2.1.1
+Full audit (work/audit_full.py): 1091 msbt, 29,730 units, labels/ATR/sections identical to original, all codes mapped in all 4 fonts, RSTB only Font+Msg changed (Msg 6610112 >= 5.82M actual), no leaks (<br>, ⟦⟧), no untranslated English (except StaffRoll names), the 365 empty units are empty in the English original too. Fixes: Latin ? and , -> ؟ and ، in Persian units; Medoh مدو -> مدوه (user decision). Faron/فارون and Rivan/ریوان are different characters, left alone.

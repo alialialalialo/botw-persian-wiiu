@@ -15,8 +15,12 @@ R=[
  (N+r'جانور(ها|های)[ \u200c]+مقدس',r'هیولاهای مقدس'),
  (N+r'محفظه'+Z+'ی قلب','ظرف قلب'),
  (N+r'حلقه'+Z+'ی استقامت','جام استقامت'),
+ (N+r'مد[وه]'+E,'مدوه'),
 ]
 RR=[(re.compile(a),b) for a,b in R]
 def post(t):
     for rx,b in RR: t=rx.sub(b,t)
+    if re.search('[\u0600-\u06ff]',t):
+        t=t.replace('?','؟')
+        t=re.sub(r'(?<=[\u0600-\u06ff]),(?=[ \n])','،',t)
     return t
