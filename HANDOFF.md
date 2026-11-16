@@ -96,3 +96,6 @@ CRASH FIX. v1.1.3 and v2.0.0 crashed Cemu at boot (loading Pack/Bootup_EUen.pack
 
 ## UPDATE v2.0.2
 Removed README_Credits.txt from the pack (user: rules.txt alone is enough; credits are in its description). work/credits.txt deleted. Pack = rules.txt + content/. Same text/RSTB as v2.0.1.
+
+## UPDATE v2.0.3
+v2.0.1 booted in Cemu (user screenshot). Bug: letter چ (U+0686) appeared detached/isolated. Cause: Poormaz-based text kept raw U+0686 (+ZWJ), the old pipeline converted it to the font's synthesized forms FB7A-FB7D via work/fixche.py (fix_che). FIX: after apply_new, ALWAYS run fixche.fix_che(mw) on mw_edited before pack3 (script in HANDOFF: python -c using work/fixche). All 9,997 che now FB7A-D; render check OK (tools/render.py). Pipeline order: apply_new -> fix_che -> pack3.
