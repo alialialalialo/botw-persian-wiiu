@@ -49,7 +49,6 @@ def en_limits(n):
     return out
 m2={k:textfix.fix_msbt(v,en_limits(k),wfn) for k,v in mw.items()}
 inner=yaz0_comp(sarc_build(m2,ee,4)); outer=sarc_build({n0:inner},'>',128)
-CREDITS=open('work/credits.txt',encoding='utf-8').read()
 root='out/R4/BOTW_Persian'; shutil.rmtree('out/R4',ignore_errors=True)
 for p in ['content/Font','content/Pack','content/System/Resource']: os.makedirs(root+'/'+p)
 open(root+'/content/Font/Font_EU.sbfarc','wb').write(fsb)

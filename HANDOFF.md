@@ -6,7 +6,7 @@ Paste/attach this whole file + the zip to the new AI and say: "Continue this pro
 - User: Persian speaker (Telegram ali123qp, Asia/Tehran). Reply in **Persian**, short, simple, practical. He is not a programmer.
 - He DISLIKES repeated tests: verify thoroughly yourself before sending a build; send one zip, not many.
 - Whenever he sends screenshots of problems, fix every one of them.
-- Credits MUST stay in `README_Credits.txt` and `rules.txt`: original translation by **Majid Hoshyar (مجید هوشیار)**, https://www.radoo.ir/author/majidh1/ (Switch v1.6); Wii U adaptation by **ali123qp**.
+- Credits: NO separate credits file (user order: delete it, rules.txt is enough). Credit Poormaz (poormaz.com), Majid Hoshyar (radoo.ir/author/majidh1) and ali123qp (Telegram) only in the `rules.txt` description.
 
 ## 1. Goal
 Port Majid Hoshyar's Persian translation (made for Switch v1.6) to the Wii U version 1.5.0 EU, run in Cemu 1.26.2f with game language EUen (English). Delivered as a Cemu **graphic pack** (folder `Persian_Final`: rules.txt, README_Credits.txt, content/Font, content/Pack, content/System/Resource). **BCML must be OFF** (when ON it merges/breaks the font+text pack and the Persian glyphs vanish). Optional: a BCML-compatible variant (one test zip exists, untested).
