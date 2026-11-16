@@ -83,3 +83,10 @@ Removed literal {variable} (Npc_HighMountain010), unified Molduga variant مول
 
 ## UPDATE v1.1.3
 RSTB fixed: now built from the real v1.5.0 table (uploads 2d737999) changing only Font_EU.bfarc and Msg_EUen entries. Before it came from another version (3,886 entries smaller than v1.5.0, 4 missing). Audited: SARC structure, MSBT labels/unit counts, BFFNT headers/CMAP all OK.
+
+## UPDATE v2.0.0
+Text replaced with the Poormaz translation (author gave permission; colloquial, complete). Source: PC installer "Savage Wind" (LE, pre-shaped visual order), extracted statically.
+Conversion: work/newtext.py (model E: strip U+2000-200A padding, per-line reverse, re-reverse LTR runs, mirror brackets, rebuild ZWNJ, LE tag params -> ⟦k⟧ markers), work/apply_new.py applies by English unit tags, work/post_new.py normalizes terms (Molduga/Riju/Beedle/Vasaaq etc).
+Result: 24,595 units replaced; 2,653 units (tag-type mismatch) + 365 empty + 14 files with unit-count mismatch keep the old Majid-based text (may still be bookish). Backup of old text: work/mw_edited_majid.pkl (not committed, large).
+Credits: Poormaz (poormaz.com, t.me/poormaz), Majid Hoshyar, ali123qp. rules.txt name "Zelda BOTW Persian v2.0.0", version = 7 (Cemu format).
+NOT tested in game yet. Awaiting screenshots.

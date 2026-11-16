@@ -4,8 +4,13 @@
   Wii U 1.5.0 (EU) / Cemu 1.26.2f
 ==============================================================
 
-ترجمه‌ی فارسی (نسخه‌ی اصلی Switch)
-Original Persian translation (Switch)
+ترجمه‌ی فارسی (متن اصلی نسخه‌ی ۲)
+Persian translation (main text, v2)
+    Poormaz
+    https://poormaz.com/  |  https://t.me/poormaz
+
+ترجمه‌ی فارسی اولیه (نسخه‌ی Switch، برای بخش‌هایی که از آن مانده)
+Original Persian translation (Switch) - used for remaining parts
     مجید هوشیار  |  Majid Hoshyar
     https://www.radoo.ir/author/majidh1/
 
@@ -18,13 +23,15 @@ Wii U adaptation and graphic pack
 --------------------------------------------------------------
 درباره‌ی این گرافیک‌پک / About
 --------------------------------------------------------------
-این گرافیک‌پک فقط ترجمه‌ی آقای هوشیار را برای نسخه‌ی Wii U
-سازگار می‌کند (ترتیب متن، فونت، کدهای کنترلی). همه‌ی اعتبار
-ترجمه متعلق به سازنده‌ی اصلی است.
+این گرافیک‌پک ترجمه‌ی Poormaz (با اجازه‌ی سازنده) و بخش‌هایی از
+ترجمه‌ی مجید هوشیار را برای نسخه‌ی Wii U سازگار می‌کند
+(ترتیب متن، فونت، کدهای کنترلی). اعتبار ترجمه متعلق به
+سازنده‌های اصلی است.
 
-This pack only adapts that translation for the Wii U version
-(text order, fonts, control codes). All translation credit
-belongs to the original author.
+This pack adapts Poormaz's translation (used with the author's
+permission) and parts of Majid Hoshyar's translation for the Wii U
+version (text order, fonts, control codes). All translation credit
+belongs to the original authors.
 
 برخی متن‌ها (ماموریت‌ها، نکته‌ها، دیالوگ‌ها و زیرنویس‌ها) برای
 روان‌تر و ساده‌تر شدن و رفع جمله‌های غلط یا ناقص ویرایش شده‌اند.
