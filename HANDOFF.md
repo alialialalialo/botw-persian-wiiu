@@ -102,3 +102,7 @@ v2.0.1 booted in Cemu (user screenshot). Bug: letter چ (U+0686) appeared detach
 
 ## UPDATE v2.0.4
 Self-audit (render + scans). Found 3 untranslated English NPC units (Npc_oasis013 #13/#16 merchant bomb/ice arrows, Npc_Road_009 #21 Lover's Pond): translated to colloquial Persian. Collapsed double spaces in 13 Persian units. StaffRoll English credits intentionally left (original). Remaining known: ~2,653 fallback units keep older text.
+
+## UPDATE v2.1.0
+Converted the previously-skipped tag-mismatch units (2,651) with work/convert2.py: lenient tag matching (cosmetic (0,2)/(0,3) tags matched by type, or dropped if counts differ; functional tags must match the English set exactly, else fallback). Now 27,246 of 27,613 units use Poormaz text; only 365 empty units + 14 count-mismatch files keep old text. All 29,730 units verified to have the same functional tags as English. Terms unified in post_new: جانور مقدس -> هیولای مقدس, محفظه‌ی قلب -> ظرف قلب, حلقه‌ی استقامت -> جام استقامت.
+Pipeline: apply_new.run(src=mw_edited_majid.pkl, res=newtext_res2.pkl, post=post_new.post) -> fixche.fix_che -> pack3.py.
