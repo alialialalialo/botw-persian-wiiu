@@ -90,3 +90,6 @@ Conversion: work/newtext.py (model E: strip U+2000-200A padding, per-line revers
 Result: 24,595 units replaced; 2,653 units (tag-type mismatch) + 365 empty + 14 files with unit-count mismatch keep the old Majid-based text (may still be bookish). Backup of old text: work/mw_edited_majid.pkl (not committed, large).
 Credits: Poormaz (poormaz.com, t.me/poormaz), Majid Hoshyar, ali123qp. rules.txt name "Zelda BOTW Persian v2.0.0", version = 7 (Cemu format).
 NOT tested in game yet. Awaiting screenshots.
+
+## UPDATE v2.0.1
+CRASH FIX. v1.1.3 and v2.0.0 crashed Cemu at boot (loading Pack/Bootup_EUen.pack). Cause: v1.1.3 wrongly switched the RSTB base to upload 2d737999 (a different game version: Msg_EUen 6026624, Font 3662176, 58726 entries). The user's real v1.5.0 table is upload 459a7954 (67992 entries; Msg_EUen 6479040 == real decompressed Msg size 6478648; Font 9191776). pack3.py now uses 459a7954 again, Font=newv, Msg=base+0x20000. DO NOT use 2d737999. (v1.1.3 note above is wrong.)
