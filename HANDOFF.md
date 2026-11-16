@@ -93,3 +93,6 @@ NOT tested in game yet. Awaiting screenshots.
 
 ## UPDATE v2.0.1
 CRASH FIX. v1.1.3 and v2.0.0 crashed Cemu at boot (loading Pack/Bootup_EUen.pack). Cause: v1.1.3 wrongly switched the RSTB base to upload 2d737999 (a different game version: Msg_EUen 6026624, Font 3662176, 58726 entries). The user's real v1.5.0 table is upload 459a7954 (67992 entries; Msg_EUen 6479040 == real decompressed Msg size 6478648; Font 9191776). pack3.py now uses 459a7954 again, Font=newv, Msg=base+0x20000. DO NOT use 2d737999. (v1.1.3 note above is wrong.)
+
+## UPDATE v2.0.2
+Removed README_Credits.txt from the pack (user: rules.txt alone is enough; credits are in its description). work/credits.txt deleted. Pack = rules.txt + content/. Same text/RSTB as v2.0.1.
