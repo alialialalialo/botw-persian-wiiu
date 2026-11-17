@@ -54,5 +54,5 @@ for p in ['content/Font','content/Pack','content/System/Resource']: os.makedirs(
 open(root+'/content/Font/Font_EU.sbfarc','wb').write(fsb)
 open(root+'/content/System/Resource/ResourceSizeTable.product.srsizetable','wb').write(rs)
 open(root+'/content/Pack/Bootup_EUen.pack','wb').write(outer)
-open(root+'/rules.txt','w').write("[Definition]\ntitleIds = 00050000101c9500\nname = Zelda BOTW Persian v2.1.1\npath = \"The Legend of Zelda: Breath of the Wild/Mods/BOTW Persian\"\ndescription = Persian translation by Poormaz (poormaz.com) and Majid Hoshyar (radoo.ir/author/majidh1). Wii U adaptation by ali123qp (Telegram: ali123qp). Disable BCML.\nversion = 7\n")
+open(root+'/rules.txt','w').write("[Definition]\ntitleIds = 00050000101c9500\nname = Zelda BOTW Persian v2.1.2\npath = \"The Legend of Zelda: Breath of the Wild/Mods/BOTW Persian\"\ndescription = Persian translation by Poormaz (poormaz.com) and Majid Hoshyar (radoo.ir/author/majidh1). Wii U adaptation by ali123qp (Telegram: ali123qp). Disable BCML.\nversion = 7\n")
 print('built',len(fsb),len(outer))

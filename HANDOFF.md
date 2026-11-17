@@ -109,3 +109,6 @@ Pipeline: apply_new.run(src=mw_edited_majid.pkl, res=newtext_res2.pkl, post=post
 
 ## UPDATE v2.1.1
 Full audit (work/audit_full.py): 1091 msbt, 29,730 units, labels/ATR/sections identical to original, all codes mapped in all 4 fonts, RSTB only Font+Msg changed (Msg 6610112 >= 5.82M actual), no leaks (<br>, ⟦⟧), no untranslated English (except StaffRoll names), the 365 empty units are empty in the English original too. Fixes: Latin ? and , -> ؟ and ، in Persian units; Medoh مدو -> مدوه (user decision). Faron/فارون and Rivan/ریوان are different characters, left alone.
+
+## UPDATE v2.1.2
+Screenshot: button prompt "سر خوردن در هوا" (LayoutMsg/DoCommand_00 #0, Glide) was clipped at the start letter. Fix: work/pad_docmd.py pads all 38 single-line labels of DoCommand_00 with 2 spaces at logical start and 1 at the end. Pipeline now: apply_new -> pad_docmd (reads mw_new2.pkl, runs fix_che, writes mw_edited.pkl) -> pack3. Not verified in-game: if still clipped, shorten the label (e.g. "پرواز") or widen padding.
